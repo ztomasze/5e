@@ -35,7 +35,7 @@ The following states the changes (rather than giving full replacement text) for 
 * Prerequisite is Strength 13+ or Dexterity 13+
 * **Add:** You can attempt a grapple in place of any attack, rather than only those made as part of the Attack action.
 * **Add:** When you hit a creature with an unarmed strike on your turn, you can use a bonus action at attempt to grapple the target.
-* The advantage you have on attacks rolls versus a grappled opponent also applies to any combat maneuvers (see [[Combat]]).
+* The advantage you have on attacks rolls versus a grappled opponent also applies to any combat maneuvers (see [Combat](Combat.md)).
 * Note: Everyone can now attempt to Pin (restrain), so the second bullet is no longer unique to this feat.
 * Note: The third bullet was a PHB editing error and so generally doesn't apply.
 * *(Buffed because this feat was pretty weak, especially after making pin/restrain available to all. Incorporated some ideas from 2024 version.)*
@@ -104,7 +104,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 
 > **Weapon Mastery Properties**  
-> I'm not a big fan of 2024's weapon mastery properties, so I don't care to backport them as a regular mechanic here. However, if they are of interest to you, you can still approximate them through [[Feats|feats]]:
+> I'm not a big fan of 2024's weapon mastery properties, so I don't care to backport them as a regular mechanic here. However, if they are of interest to you, you can still approximate them through [feats](Feats)]:
 > 
 > * Cleave: Great Weapon Master
 > * Graze: Savage Attacker (revised)
