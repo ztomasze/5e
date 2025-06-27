@@ -1,22 +1,24 @@
-The 5th edition (5e) of Dungeon & Dragons (D&D) was released in 2014. A number of additional rule options were added with *Tasha's Cauldron of Everything* (TCE) in 2020. With the release of the 2024 edition of 5e, there are even more changes to the core rules. 
+This document is my outline of the version of 5e that I run. See [[Intro]] for more.
 
-In addition, the original *Player's Handbook* (PHB), *Dungeon Master's Guide* (DMG) and *Xanathar's Guide to Everything* (XGE) offer a Dungeon Master (DM) many optional rules to choose from. And nearly every DM has their own set of house rules and table rulings that reflect how they have tweaked or interpreted the rules for their particular style or gaming group.
+### Essentials (TL;DR)
 
-**This document is my outline of the version of 5e that I run.**
+I'm using 5e 2014. Most of the content here is either minor tweaks or added player options that you can choose to use beyond the standard rules provided in the Player's Handbook.
 
-In general:
+The changes listed below are significant enough that I felt they worth calling them out up front:
 
-* I am sticking with 2014 as my starting point.
-* After many rule experiments over the past decade, I'm currently doing my best to stick closer to the published version of most rules... but there are a few things I feel strongly about.
-* Where 2024 has made changes, I'll incorporate a few that I really like or use the change as excuse to make a tweak that I prefer.
-* I am generally open in to incorporating any officially published option, but talk to me first if it's not covered here.
+##### [[Feats]]
 
-### Format
+* **Great Weapon Fighter** and **Sharpshooter** trade their -5/+10 feature for a flat +PB to damage
++ Minor buffs and cosmetic tweaks for a handful of other feats.
++ Any feats taken from TCE lose their "half-feat" ASI components.
 
-This document follows the same chapter structure as the 2014's PHB, DMG, and Monster Manual (MM).  
+##### [[Combat]]
 
-* **House rules** make a change to a standard rule.  This include flagging which optional published rules I'm enforcing.
-* **Rulings** clarify how I've interpreted or even bent certain rules.
-* **Options** are alternative classes, feats, or spells that your character can use in place of the standard version. They are typically only improvements or upgrades to some of the weaker options that have rarely seen play at my table without a buff of some sort.
+* Dropping to 0 hp gives you 1 level of exhaustion.
+* A nat 20 always hits, but it's only a crit if the hit would have landed anyway.
+* There's more everyone can do with bonus actions. You can take a bonus action as an action, or you can use it to do things like a second object interaction, overrun, tumble, etc.
 
-*Content in italics provide a rationale for a given change.*
+##### [[Conditions]]
+
+* Use 2024's **exhaustion** mechanic. You can recover a limited amount of exhaustion with a short rest.
+
