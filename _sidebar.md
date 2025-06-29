@@ -1,12 +1,12 @@
 * [index](index.md)
 * [Intro](Intro.md)
 
-PHB
+**PHB**
 
+* [Characters](Characters.md)
 * [Races](Races.md)
 * [Classes](Classes.md)
 * [Feats](Feats.md)
-* [Characters](Characters.md)
 * [Equipment](Equipment.md)
 * [Adventuring](Adventuring.md)
 * [Combat](Combat.md)
@@ -14,8 +14,10 @@ PHB
 * [Spells](Spells.md)
 * [Conditions](Conditions.md)
 
-DMG
+**DMG**
+
 * [Magic Items](Magic%20Items.md)
 
-MM
+**MM**
+
 * [Monsters](Monsters.md)

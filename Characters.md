@@ -1,11 +1,21 @@
 > Combines PHB's Chapter 1 (Creating a Character), Chapter 4 (Personality and Background), and part of Chapter 6 (Multiclassing)
 
+### Level Up
 
-on level up, can replace
-one cantrip
-one fighting style
-feat
-one metamagic (sor)
+On any level up, any character can replace any these features (except if gained through race):
+
+* one feat
+* one cantrip
+* one fighting style
+* one battle master maneuver
+* one metamagic option (sorcerer)
+* one pact boon
+
+On reaching a level that grans an ASI, you can replace any of these features:
+
++ one class skill to a different one
++ one skill skill that gains the benefit of Expertise to a different one (but not to a skill you just gained through a swap allowed above)
++ 
 
 
 

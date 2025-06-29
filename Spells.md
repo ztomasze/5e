@@ -51,3 +51,10 @@ Deals 2d8, plus 1d8/spell level on initial hit.
 
 
 Speak with Dead
+
+##### Smite spells
+This covers the 7 Smite spells: Banishing, Blinding, Branding, Searing, Staggering, Thunderous, and Wrathful Smite.
+
++ Does not require Concentration
++ Can be cast as a bonus action in response to hitting with a melee weapon attack. Alternatively, can be cast on a ranged weapon, but the effect only takes place if the next attack with that weapon made within the duration hits a target.
++ If the smite has a lingering effect, it lasts for up to the full duration (1 minute)

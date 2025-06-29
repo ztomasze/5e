@@ -6,17 +6,24 @@ I'm using 5e 2014. Most of the content here is either minor tweaks or added play
 
 The changes listed below are significant enough that I felt they worth calling them out up front:
 
+##### [Classes](Classes.md)
+
++ Paladin's **Divine Smite** now requires a bonus action.
++ Minor nerfs to Barbarian's **Totem Warrior (Bear)** and Cleric's **Twilight Domain**
++ Most (but not all) TCE options are available, included the expanded spell lists.
++ Minor buffs here and there for most classes.
+
 ##### [Feats](Feats.md)
 
 * **Great Weapon Fighter** and **Sharpshooter** trade their -5/+10 feature for a flat +PB to damage
-+ Minor buffs and cosmetic tweaks for a handful of other feats.
 + Any feats taken from TCE lose their "half-feat" ASI components.
++ Minor buffs, rulings, and cosmetic tweaks for about a dozen other feats.
 
 ##### [Combat](Combat.md)
 
-* Dropping to 0 hp gives you 1 level of exhaustion.
+* Dropping to 0 hp gives you a level of exhaustion.
 * A nat 20 always hits, but it's only a crit if the hit would have landed anyway.
-* There's more everyone can do with bonus actions. You can take a bonus action as an action, or you can use it to do things like a second object interaction, overrun, tumble, etc.
+* There's some more niche actions available in combat than those listed in the PHB.  Many of the additions are available to anyone as a bonus actions. You can take a bonus action as an action, or you can use it to do things like a second object interaction, overrun, tumble, etc.
 
 ##### [Conditions](Conditions.md)
 

@@ -3,11 +3,15 @@
 
 The following states the changes (rather than giving full replacement text) for certain feats.
 
+#### Athlete
+* **Add:** Add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+* *(Dropped this from Fighter: Champion and this feat could use some help.)*
+
 #### Charger
 
 * **Add:** You can Dash as a bonus action.
 * **Replace:** "before taking this bonus action" with "before you hit with a melee attack as part of the Attack action".  (In other words, you can make a special charge attack as part of the Attack action, instead of as a bonus action after a Dash, provided you move at least 10 in a straight line first.)
-* *(Buff to a weak feat; changes inspired by 2024 version; see Weapon Mastery Properties sidebar below for more.) 
+* *(Buff a weak feat; changes inspired by 2024 version; see Weapon Mastery Properties sidebar below for more.) 
 
 #### Crossbow Expert
 
@@ -28,7 +32,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 * **Instead of rolling a Hit Die when you expend it to regain hit points**, you regain hit points equal to its maximum value. 
 * **Add:** If damage reduces you to exactly 0 hp, you are automatically stable.
-* *(General buff and ensures that this benefit scales better for all HD sizes. The second point is a house-rule I like, but I'll add it here instead of for everyone.)*
+* *(Buff and ensures that this benefit scales better for all HD sizes. The second point is a house-rule I like, but I'll add it here instead of for everyone.)*
 
 #### Grappler
 
@@ -66,7 +70,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 * **Instead of ignoring long range penalties**, you can shoot without disadvantage only up to double the weapon's normal range.
 * **Instead of -5 to hit for +10 damage**, add your proficiency bonus to damage rolls for all ranged attacks made with a ranged weapon that you are proficient with. 
-* *(Shooting a longbow 600 feet without an accuracy penalty is hard to believe and has ruined a few encounters for me. The -5/+10 feature is too strong; change inspired by 2024's GWF change.)*
+* *(Shooting a longbow 600 feet without an accuracy penalty is hard to believe and has ruined a couple encounters for me. The -5/+10 feature is too strong; change inspired by 2024's GWF change.)*
 
 #### Shield Master
 
