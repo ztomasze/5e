@@ -88,7 +88,7 @@ The following states the changes (rather than giving full replacement text) for 
 * *(See Weapon Mastery Properties sidebar below for more.)*
 
 
-## Other Feats
+### Other Feats
 
 * XGE’s racial feats retain their "half-feat" ability score improvements (ASI)
 * **TCE’s feats lose their ASI components**.
