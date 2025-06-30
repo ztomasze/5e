@@ -8,6 +8,8 @@ On any level up, any character can replace any these features (except if gained 
 * one cantrip
 * one fighting style
 * one battle master maneuver
+* one favored enemy (ranger)
+* one favored terrain (ranger)
 * one metamagic option (sorcerer)
 * one pact boon
 

@@ -4,14 +4,18 @@ This document is my outline of the version of 5e that I run. See [Intro](Intro.m
 
 I'm using 5e 2014. Most of the content here is either minor tweaks or added player options that you can choose to use beyond the standard rules provided in the Player's Handbook.
 
-The changes listed below are significant enough that I felt they worth calling them out up front:
+The changes listed below are significant enough to call out out up front:
 
 ##### [Classes](Classes.md)
 
-+ Paladin's **Divine Smite** now requires a bonus action.
-+ Minor nerfs to Barbarian's **Totem Warrior (Bear)** and Cleric's **Twilight Domain**
-+ Most (but not all) TCE options are available, included the expanded spell lists.
-+ Minor buffs here and there for most classes.
++ Some minor nerfs:
+	+ Paladin's **Divine Smite** now requires a bonus action (but you can potentially smite at range and the various Smite spells have been improved).
+	+ Barbarian's **Totem Warrior (Bear)**, Cleric's **Twilight Domain**, and **Druid's Wildfire Circle** each lost a little bit of power from a single (overpowered) class feature.
+	+ Sorcerer's **Aberrant Mind** and **Clockwork Soul** receive only a half as many bonus spells.
+	+ Warlock's **Hexblade** is disallowed by default (but Pact of the Blade was improved).
++ Nearly all classes received minor buffs and added features at top level, as well as some subclass buffs.
++ All sorcerer, warlock, and school-devoted wizard subclasses receive five themed bonus spells known/prepared.
++ Most (but not all) TCE options are available, included the expanded class spell lists.
 
 ##### [Feats](Feats.md)
 
