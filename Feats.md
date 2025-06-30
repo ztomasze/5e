@@ -97,7 +97,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 * You can only move the creature in line with your weapon attack. This means horizontally to either side or away from you for a swung melee attack or back along the line of fire for a ranged attack.
 
-### Gunner
+#### Gunner
 
 * **Disallowed.**
 * *(In campaigns where guns are available, this feat's features are largely available to everyone with a firearm proficiency and a pistol.)
