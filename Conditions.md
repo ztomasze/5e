@@ -9,4 +9,4 @@ If you ever have 6 levels of exhaustion, you die. Finishing a long rest removes 
 
 **Short rest:** If you are not diseased or otherwise limited in your ability to recover from exhaustion, you can remove one level of exhaustion at the end of a short rest. You can only do this once per long rest.
 
-*(This is 2024's version of Exhaustion, plus a merging of a long-running Fatigue house rule.)*
+*(This is 2024's version of Exhaustion, plus a merging of a long-running "easier to recover from" Fatigue house rule.)*

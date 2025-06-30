@@ -1,5 +1,5 @@
 
-## PHB Feats
+### PHB Feats
 
 The following states the changes (rather than giving full replacement text) for certain feats.
 
@@ -11,7 +11,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 * **Add:** You can Dash as a bonus action.
 * **Replace:** "before taking this bonus action" with "before you hit with a melee attack as part of the Attack action".  (In other words, you can make a special charge attack as part of the Attack action, instead of as a bonus action after a Dash, provided you move at least 10 in a straight line first.)
-* *(Buff a weak feat; changes inspired by 2024 version; see Weapon Mastery Properties sidebar below for more.) 
+* *(Buff to a weak feat; changes inspired by 2024 version; see Weapon Mastery Properties sidebar below for more.) 
 
 #### Crossbow Expert
 
@@ -39,10 +39,10 @@ The following states the changes (rather than giving full replacement text) for 
 * Prerequisite is Strength 13+ or Dexterity 13+
 * **Add:** You can attempt a grapple in place of any attack, rather than only those made as part of the Attack action.
 * **Add:** When you hit a creature with an unarmed strike on your turn, you can use a bonus action at attempt to grapple the target.
-* The advantage you have on attacks rolls versus a grappled opponent also applies to any combat maneuvers (see [Combat](Combat.md)).
-* Note: Everyone can now attempt to Pin (restrain), so the second bullet is no longer unique to this feat.
-* Note: The third bullet was a PHB editing error and so generally doesn't apply.
-* *(Buffed because this feat was pretty weak, especially after making pin/restrain available to all. Incorporated some ideas from 2024 version.)*
+* The advantage you have on attacks rolls versus an opponent you are currently grappling also applies to any combat maneuvers (see [Combat](Combat.md)).
+* Note: Since everyone can now attempt to Pin (restrain), the second bullet is no longer unique to this feat.
+* Note: The third bullet was a PHB editing error and so is generally never applicable.
+* *(Buffed because this feat was pretty weak, especially after making pin/restrain available to all. Incorporated some ideas from the 2024 version.)*
 
 #### Great Weapon Master
 
@@ -52,18 +52,18 @@ The following states the changes (rather than giving full replacement text) for 
 #### Keen Mind
 
 * **Instead of the last 3 bullet points**, gain proficiency in one tool or knowledge skill (Arcana, History, Nature, or Religion). 
-* *(Wanted something more crunchy and useful here; compare to Linguist or 2024's version.)*
+* *(Prefer something more crunchy and useful here; compare to Linguist or 2024's version.)*
 
 #### Polearm Master
 
 - A spear is a valid option for both abilities. *(As allowed per errata)* 
 - **The haft attack does not have reach.**  However, when using a glaive or halberd, a haft-equivalent d4 attack can be made with reach by using a backside hook or spiked tip, but it deals slashing or piercing.
 - You cannot make a haft attack while wielding a quarterstaff or spear one-handed.  However, if wielding a shield in your offhand, you can make a haft-like d4 attack with the shield. 
-- *(Tweaked for more believable flavor, invoking ancient world shield-and-spear wall tactics, but retaining close to the same power as granted to staffs and spears by sage advice.)*
+- *(Tweaked for more believable flavor, invoking ancient world shield-and-spear wall tactics, but retaining close to the same power as granted to staffs and spears and confirmed by sage advice.)*
 
 #### Savage Attacker
 
-* **Add:** When you miss with a melee weapon attack, you can deal damage to the creature equal to the ability modifier you used to make the attack roll. This damage is the same type as the weapon, and it can be increased only by increasing the ability modifier.
+* **Add:** When you miss with a heavy melee weapon attack, you can deal damage to the creature equal to the ability modifier you used to make the attack roll. This damage is the same type as the weapon, and it can be increased only by increasing the ability modifier.
 * *(Feat felt weak. Addition is 2024's Graze weapon property. See Weapon Mastery Properties sidebar below for more.)*
 
 #### Sharpshooter
@@ -75,7 +75,7 @@ The following states the changes (rather than giving full replacement text) for 
 #### Shield Master
 
 * If you commit to taking an Attack action this turn, you may perform the bonus action shove before you attack.
-* *(Because that's how you'd do it in a fight!)*
+* *(Because that's how you'd do it if you were really a master!)*
 
 #### Spell Sniper
 
@@ -84,7 +84,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 #### Tavern Brawler
 
-* Note: The bonus action to grapple can instead to shove.
+* Note: The bonus action to grapple can instead be used to shove.
 * *(See Weapon Mastery Properties sidebar below for more.)*
 
 
@@ -99,7 +99,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 ### Gunner
 
-* **Unavailable.**
+* **Disallowed.**
 * *(In campaigns where guns are available, this feat's features are largely available to everyone with a firearm proficiency and a pistol.)
 
 #### Skill Expert
@@ -108,7 +108,7 @@ The following states the changes (rather than giving full replacement text) for 
 
 
 > **Weapon Mastery Properties**  
-> I'm not a big fan of 2024's weapon mastery properties, so I don't care to backport them as a regular mechanic here. However, if they are of interest to you, you can still approximate them through [feats](Feats)]:
+> I'm not a big fan of 2024's weapon mastery properties, so I don't care to backport them as a regular mechanic here. However, if they are of interest to you, you can still approximate them through [feats](Feats):
 > 
 > * Cleave: Great Weapon Master
 > * Graze: Savage Attacker (revised)
