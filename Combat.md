@@ -5,7 +5,7 @@
 You can choose to use your action to perform a bonus action that is available to you.  This means you can Ready a bonus action, for example.
 
 ##### Object interactions
-* You can perform a second object interaction in a turn as a bonus action.
+* You can perform a second object interaction on your turn as a bonus action.
 * **Juggling an object.** If you could accomplish a task, such as opening a door while carrying a sword and shield, by dropping an item as a free action, performing the task as an action or bonus action, and then using an object interaction to recover the dropped item, then I will usually let you spend your object interaction to do this without actually dropping the item.  For example, maybe you quickly sheathe your sword, or tuck it under your arm, or transfer it briefly to your shield hand, while you open the door. 
 
 ### Movement

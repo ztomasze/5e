@@ -99,7 +99,7 @@ As an **action**, you can expend a use of Channel Divinity to regain a **level 1
 **Improved Second Wind (+lvl 3):** When you use your Second Wind, you regain additional hit points equal to your CON modifier (min: 0).
 
 **Remarkable Athlete (lvl 7):** Replace with:
-* You gain advantage on Athletics checks
+* You gain proficiency with Athletics. If you already have proficiency, you gain expertise instead.  (If you already have expertise, gain advantage.)
 * Immediately after you use your Second Wind or score a critical hit, you can move up to half your speed without provoking opportunity attacks.
 * *(Inspired by 2024)*
 
@@ -125,7 +125,7 @@ Rename to **Deflect Attacks**. You can also deflect melee weapon attacks. If you
 If the target succeeds its CON save, it still suffers an effect: Its speed is halved and it cannot take reactions until the end of your next turn. *(Inspired by 2024)*
 
 ##### Way: Shadow
-**Shadow Arts (lvl 3):** You can give up *minor illusion* to add *shadow blade* to your list of 2-ki spells. You can only cast *darkvision* on yourself.  *(Have done this in 2 campaigns now.)*
+**Shadow Arts (lvl 3):** You can give up *minor illusion* to add *shadow blade* to your list of 2-ki spells. You can only cast *darkvision* on yourself.  *(Have done this in two campaigns now.)*
 
 
 ### Paladin
@@ -290,7 +290,7 @@ You can use this feature once per long rest. *(From 2024, half as often plus a v
 + **Extend Spell:** If the affected spell requires concentration, you have advantage on any saving throw you make to maintain that concentration. *(From 2024)*
 + **Heightened Spell:** Costs only 2 sorcery points and the target suffers disadvantage on all of the saves it make against that spell. *(From 2024)*
 + **Subtle Spell:** Also includes ignoring non-costly material components that are not consumed. *(From 2024)*
-+ **Twinned Spell:** Costs 1 + spell level to twin a spell.  If the spell can be cast with a higher level spell slot to target an additional creature, you can instead spend a sorcery point to increase the spell's effective level by 1. *(From 2024, but also keeping original version at +1 cost)*
++ **Twinned Spell:** Costs 1 + spell level to twin a spell.  If the spell can be cast with a higher level spell slot to target an additional creature, you can instead spend 1 sorcery point to increase the spell's effective level by 1. *(From 2024, but also keeping original version at +1 cost)*
 
 ##### Sorcerous Recovery (+lvl 3)
 Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your sorcerer level (rounded up), and none of the slots can be 6th level or higher. *(Inspired by 2024's lvl 5 Sorcerous Restoration, but using the same existing mechanic as Wizard & Druid:Land.)*

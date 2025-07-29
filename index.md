@@ -2,19 +2,19 @@ This document is my outline of the version of 5e that I run. See [Intro](Intro.m
 
 ### Essentials (TL;DR)
 
-I'm using 5e 2014. Most of the content here is either minor tweaks or added player options that you can choose to use beyond the standard rules provided in the Player's Handbook.
+I'm using 5e 2014. Most of the content here is either minor tweaks or added player options that you can choose to use beyond the standard rules provided in the 2014 Player's Handbook (PHB).
 
-The changes listed below are significant enough to highlight up front. Entries in **bold** reflect a power loss that you might want to be aware of before you use that class or feature.
+The changes listed below are those significant enough to highlight up front. Entries in **bold** reflect a power-loss change that you might want to be aware of before you use that class or feature.
 
 ##### [Classes](Classes.md)
 
 + Some minor nerfs:
 	+ Paladin's **Divine Smite** now requires a bonus action (but you can potentially smite at range and the various Smite spells have been improved).
-	+ Barbarian's **Totem Warrior (Bear)**, Cleric's **Twilight Domain**, and **Druid's Wildfire Circle** each lost a little bit of power from a single class feature.
+	+ Barbarian's **Totem Warrior (Bear)**, Cleric's **Twilight Domain**, and **Druid's Wildfire Circle** each lost a little bit of power from a class feature.
 	+ Sorcerer's **Aberrant Mind** and **Clockwork Soul** receive only half as many bonus spells.
-	+ Warlock's **Hexblade** is disallowed by default (but Pact of the Blade was improved to reflect its essential feature).
+	+ Warlock's **Hexblade** is disallowed by default (but Pact of the Blade is improved to reflect its essential feature).
 + Nearly all classes received minor buffs and/or added features at the top level, as well as some subclass buffs.
-+ All sorcerer, warlock, and school-devoted wizard subclasses receive five themed bonus spells known/prepared.
++ All sorcerer, warlock, and school-devoted wizard subclasses receive five themed bonus spells known or prepared.
 + Most (but not all) TCE options are available, including the expanded class spell lists.
 
 ##### [Feats](Feats.md)
@@ -26,9 +26,9 @@ The changes listed below are significant enough to highlight up front. Entries i
 ##### [Combat](Combat.md)
 
 * Dropping to **0 hp gives you a level of exhaustion**.
-* A nat 20 always hits, but it's only a crit if the hit would have landed anyway.
+* A natural 20 always hits, but it's only a crit if the hit would have landed anyway.
 * There's some more niche combat actions available beyond those listed in the PHB.  
-* You can take a bonus action as an action, and you can use a bonus actual to do some generally available things, like a second object interaction, overrun, tumble, etc.
+* You can perform a bonus action as an action, and you can use a bonus actual to do some generally available things, like a second object interaction, overrun, tumble, etc.
 
 ##### [Conditions](Conditions.md)
 
