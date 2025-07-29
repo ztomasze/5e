@@ -7,15 +7,19 @@
 + Instinctive Pounce (lvl 7)
 
 ##### Rage
-You can spend a bonus action to extend your rage if you have not attacked a hostile creature or taken damage since your last turn. You can rage for up to 10 minutes. You recover 1 rage with a short rest and all of them with a long rest.  *(From 2024)*
+Changes:
+* You can rage for up to 10 minutes. 
+* You can spend a bonus action to extend your rage if you have not attacked a hostile creature or taken damage since your last turn. 
+* You recover 1 rage with a short rest and all of them with a long rest.
+* *(From 2024)*
 
 ##### Path: Berserker
-**Frenzy (lvl 3):** When you enter a frenzy during your rage (no action required), you can choose to suffer the effects of Reckless Attack for the duration of that rage. If you do, you do not suffer exhaustion at the end of the rage. *(Inspired by 2024, but keeping original benefit)*
+**Frenzy (lvl 3):** When you enter a frenzied rage, you can choose to suffer the effects of Reckless Attack for the duration of that rage. If you do so, you do not suffer exhaustion at the end of the rage. *(Inspired by 2024, but keeping the original benefit)*
 
-**Intimidating Presence (lvl 10):** If you are raging, this can be performed as a bonus action, initially and on subsequent turns.  This can be the same bonus action that you use to enter or prolong your rage. *(Inspired by 2024 and general Influence action.)*
+**Intimidating Presence (lvl 10):** If you are raging, this can be performed as a bonus action, initially and on subsequent turns.  This can be the same bonus action that you use to enter or prolong your rage. *(Inspired by 2024 and its general Influence action.)*
 
 ##### Path: Totem Warrior
-**Totem Spirit: Bear (lvl 3):**  Grants resistance only to acid, cold, fire, lightning, poison, and thunder, but **not to force, necrotic, psychic, or radiant damage**.  *(From 2024 because this totem otherwise tends to dominate over all totems and even other paths.)*
+**Totem Spirit: Bear (lvl 3):**  Grants resistance only to acid, cold, fire, lightning, poison, and thunder, but **not to force, necrotic, psychic, or radiant damage**.  *(From 2024, because this totem otherwise tends to dominate over all totems and even other paths.)*
 
 
 ### Bard
@@ -25,7 +29,7 @@ You can spend a bonus action to extend your rage if you have not attacked a host
 + Additional Bard Spells (lvl 1) - Added to class spell list. *(As per 2024 too)*
 
 ##### Bardic Inspiration
-You can decide to use your Bardic Inspiration die after learning whether the roll fails. *(From 2024)*
+You can decide to apply a Bardic Inspiration die to a roll after learning whether the initial roll succeeds or fails. *(From 2024)*
 
 
 ### Cleric
@@ -81,7 +85,7 @@ As an **action**, you can expend a use of Channel Divinity to regain a **level 1
 + Wild Companion (lvl 2) - But only for Circle of the Dreams, Land, and Stars.
 
 ##### Circle: Land
-**Circle Spells (lvl 2):** When you complete a long rest in a natural setting, you can choose to swap the land of your Circle Spells to that of the terrain you rested in.
+**Circle Spells (lvl 2):** When you complete a long rest in a natural setting, you can choose to swap the land of your Circle Spells to that of the terrain you rested in.  *(Slight buff to Land)*
 
 ##### Circle: Wildfire
 **Summon Wildfire Spirit (lvl 2):** The Wildfire Spirit **does not have the Fiery Teleportation** feature.  *(Personal reason: "Fortuna")*
@@ -138,7 +142,7 @@ If the target succeeds its CON save, it still suffers an effect: Its speed is ha
 As an **action**, you can expend a use of Channel Divinity to regain a **level 1 spell slot**. You can do this once per long rest. *(From TCE, but slower and the spell level doesn't scale)*
 
 ##### Divine Smite (lvl 2)
-This **requires a bonus action**, which can be performed upon hitting a creature with a melee weapon attack.  (See also: [Spells](Spells.md): Smite)  Alternatively, you can spend a bonus action to imbue your next ranged weapon attack with a smite.  However, on a miss, the smite is wasted.  *(Change to a bonus action come from 2024; range option comes from a past house rule. Personal reason: "bag of beans' mummy lord")*
+This **requires a bonus action**, which can be performed upon hitting a creature with a melee weapon attack.  (See also: [Spells](Spells.md): Smite)  Alternatively, you can spend a bonus action to imbue your next ranged weapon attack with a smite.  However, on a miss, the smite is wasted.  *(Change to a bonus action comes from 2024; range option comes from a past house rule. Personal reason for switching to bonus action: "bag of beans' mummy lord")*
 
 ##### Oath: Devotion
 **Channel Divinity (lvl 3): Sacred Weapon.** You can do this as a bonus action.  *(Personal reason: "Angel")*
@@ -283,7 +287,7 @@ A Sorcerer Origin gives you list of origin spells: One or two spells for each sp
 As a bonus action, you can unleash an aura of raw magic for 1 minute. This always creates a visual effect around you, such as a spectral fire, swirling mists, flickering shadows, glowing eyes, crackling cold, etc. During this minute:
 + The spell save DC of your sorcerer spells increases by 1
 + You have advantage on the attack rolls of sorcerer spells you cast
-You can use this feature once per long rest. *(From 2024, half as often plus a visual effect.)*
+You can use this feature once per long rest. *(From 2024, half as often, plus a visual effect.)*
 
 ##### Metamagic (lvl 3)
 + **Careful spell:** Also, chosen creatures take no damage if they would normally take half damage on a successful save. *(From 2024)*
@@ -403,17 +407,17 @@ Whenever you finish a short rest, you can study your spellbook and replace one p
 For each of the 8 subclasses that specialize in a school of magic, you gain a corresponding Savant feature. Add to this Savant feature: 
 * When you gain this feature, and each time you gain access to a new level of wizard spell slots, you can add a new wizard spell of your chosen school to your spellbook for free. This spell must be of a level you can cast.
 * You can prepare extra spells, provided that those spells are of your chosen school. You can prepare an extra level 1 spell at wizard level 2, an extra level 2 spell at level 3, an extra level 3 spell at level 5, an extra level 4 spell at level 7, and an extra level 5 spell at level 9.
-*(From 2024, plus bonus spells prepared)*
+*(From 2024, plus gain bonus spells prepared)*
 
 ##### Tradition: Abjuration
-**Arcane Ward (lvl 2):** You can only create or recharge the ward when you expend a spell slot to cast the abjuration spell.  Apply any of your immunities, resistances, or vulnerabilities to the damage you take before reducing the ward's hit points. *(From 2024)*
+**Arcane Ward (lvl 2):** You can only create or recharge the ward **when you expend a spell slot** to cast an abjuration spell.  Apply any of your immunities, resistances, or vulnerabilities to the damage you take before reducing the ward's hit points. *(From 2024)*
 
 ##### Tradition: Evocation
-You can choose to swap the order in which you gain the Sculpt Spells and Potent Cantrip features. *(From 2024)*
+You may choose to swap the order in which you gain the Sculpt Spells and Potent Cantrip features. *(From 2024)*
 
 ##### Tradition: War Magic
  **Power Surge (lvl 6):** Replace with: 
- + You can store magical energy within yourself to later empower your damaging battlefield spells. When you force multiple creatures to make saving throws against the damage of one of your spells, you can increase the spell’s damage by half your wizard level. This increase occurs only on the turn that you cast the spell. Once you use this feature, you can’t use it again until you finish a short or long rest or until you successfully end a spell with *dispel magic* or *counterspell*.  *(Original UA version, merged with current version. Personal reason: "Glaucus"))
+ + You can store magical energy within yourself to later empower your damaging battlefield spells. When you force multiple creatures to make saving throws against the damage of one of your spells, you can increase the spell’s damage by half your wizard level. This increase occurs only on the turn that you cast the spell. Once you use this feature, you can’t use it again until you finish a short or long rest or until you successfully end a spell with *dispel magic* or *counterspell*.  *(Original UA version, merged with current version. Personal reason: "Glaucus")*
 
 
 ### Design Notes
@@ -424,6 +428,6 @@ TCE's Aberrant Mind and Clockwork Soul subclasses for the Sorcerer added "domain
 
 I'm not a big fan of this direction because I think of the Wizard as the versatile arcane spellcaster.  Both the Sorcerer and Warlock should have a handful of powerful spells, favoring evocation and damage, that they can cast more often than the Wizard. But the Wizard did not receive any increase in versatility other than the ability to swap out one spell per short rest at level 5. 
 
-However, rather than bucking the direction of the game, I've come up with a compromise I'm comfortable with.  All three of these arcane spellcasters--Sorcerer, Warlock, and Wizard--get one additional domain spell known per spell levels 1 through 5. There may be some subclass exceptions. And the Sorcerer gets to recover spell slots at least as well as the Wizard.
+However, rather than completely bucking the direction of the game, I've come up with a compromise I'm comfortable with.  All three of these arcane spellcasters--Sorcerer, Warlock, and Wizard--get one additional domain spell known per spell levels 1 through 5. (There may be some subclass exceptions.) And the Sorcerer gets to recover spell slots at least as well as the Wizard.
 
-And speaking of domain spells, I'm also not a fan of cleric domains that give you access to only cleric spells that you could choose to prepare yourself.  While it is nice to have such spells always prepared to support the theme of your domain in play, it'd be nice to sometimes have some some options on the details of that theme.
+Speaking of domain spells, I'm also not a fan of cleric domains that give you access to only cleric spells that you could choose to prepare yourself.  While it is nice to have such spells always prepared to support the theme of your domain in play, it'd be nice to sometimes have some some personal options regarding the details of that theme.

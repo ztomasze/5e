@@ -10,6 +10,10 @@ If traveling normal or slower, can gain disadvantage on perception to perform an
 Brief rest: Can expend a single HD to recover HP
 
 
+##### Fire
+If you are on fire, you typically take 1d10 (5) damage at the start of each of your turns.  Different sources of fire may deal different amounts, though.  For example, alchemist's fire does 1d4; oil and fire elemental ignition deals 1d10; lava deals more.
+
+Generally, you can spend your action to extinguish the flames, but, again, this can vary. The action should be appropriate (such as dropping prone and and rolling). Submerging is water is usually automatically successful. Alchemist's fire also requires a DC 10 DEX check.  
 
 
 Suffocating

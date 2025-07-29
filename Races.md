@@ -1,12 +1,13 @@
 While the reprinted races in *Mordenkainen Present: Monsters of the Multiverse* (MPMM) might be pilfered for options or minor buffs, *Volo's Guide to Monster* (VGM) is the default source for races.
 
+The lineage option for races is used in some campaigns where racial choices are limited.
 
-Lineage option in some campaigns where racial choices are limited
+<!--
 Or can do only two +1s (instead of 3)
 Or everyone gets a PHB feat at level 1, which you can spend on Customized Lineage
+-->
 
-
-
+Below are specific racial tweaks.
 
 ##### Astral Elf
 An astral elf should gain either +2/+1 or +1/+1/+1 bonuses spread between DEX, INT, WIS, or CHA.
@@ -21,4 +22,3 @@ A giff is should gain +2 STR and +1 CON.
 
 ##### Kobold
 **Pack Tactics:** Spend a **bonus action** to gain advantage on your next attack roll this turn against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.  *(Unlimited pack tactics is too strong, especially given that the sunlight sensitivity limitation is often cleverly negated or avoided.)*
-
