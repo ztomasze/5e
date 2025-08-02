@@ -4,6 +4,8 @@
 
 On any level up, any character can replace any of these features (except if gained through their race):
 
+* one class skill to a different one
+* one skill that gains the benefit of Expertise to a different one (but not to a skill you just gained through a swap allowed above)
 * one feat
 * one cantrip
 * one fighting style
@@ -13,10 +15,7 @@ On any level up, any character can replace any of these features (except if gain
 * one metamagic option (sorcerer)
 * one pact boon (warlock)
 
-Upon reaching a level that grans an ASI, you can replace any of these features:
-
-+ one class skill to a different one
-+ one skill that gains the benefit of Expertise to a different one (but not to a skill you just gained through a swap allowed above)
+*(It's nice to have some flexibility in your character over time. While I considered holding out for an ASI-level for some of these, it generally takes several weeks--and sometimes months--to reach the next single level increase in most of my campaigns. Holding out for 4 levels would be an eternity.)*
 
 ### Inspiration
 
@@ -31,3 +30,5 @@ You can spend your inspiration before a roll to:
 Or you can spend inspiration after a roll to:
 * Reroll (including any additional adv/disadv d20 dice)
 * Take 10 (or 1/2 of max value).  If you have adv/disadv: +5/-5 to the 10
+
+You can spend your inspiration to recover one HD.

@@ -9,12 +9,12 @@ The changes listed below are those significant enough to highlight up front. Ent
 ##### [Classes](Classes.md)
 
 + Some minor nerfs:
-	+ Paladin's **Divine Smite** now requires a bonus action (but you can potentially smite at range and the various Smite spells have been improved).
 	+ Barbarian's **Totem Warrior (Bear)**, Cleric's **Twilight Domain**, and **Druid's Wildfire Circle** each lost a little bit of power from a class feature.
-	+ Sorcerer's **Aberrant Mind** and **Clockwork Soul** receive only half as many bonus spells.
+	+ Paladin's **Divine Smite** now requires a bonus action (but you can potentially smite at range and the various Smite spells have been improved).
+	+ Sorcerer's **Aberrant Mind** and **Clockwork Soul** receive only half as many bonus spells, and twinning a spell costs +1 spell point.
 	+ Warlock's **Hexblade** is disallowed by default (but Pact of the Blade is improved to reflect its essential feature).
 + Nearly all classes received minor buffs and/or added features at the top level, as well as some subclass buffs.
-+ All sorcerer, warlock, and school-devoted wizard subclasses receive five themed bonus spells known or prepared.
++ All sorcerer, warlock, and school-devoted wizard subclasses received five themed bonus spells known or prepared.
 + Most (but not all) TCE options are available, including the expanded class spell lists.
 
 ##### [Feats](Feats.md)

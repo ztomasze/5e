@@ -7,7 +7,7 @@ Or can do only two +1s (instead of 3)
 Or everyone gets a PHB feat at level 1, which you can spend on Customized Lineage
 -->
 
-Below are specific racial tweaks.
+Below are specific racial tweaks:
 
 ##### Astral Elf
 An astral elf should gain either +2/+1 or +1/+1/+1 bonuses spread between DEX, INT, WIS, or CHA.

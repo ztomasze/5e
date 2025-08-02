@@ -4,14 +4,16 @@
 The following states the changes (rather than giving full replacement text) for certain feats.
 
 #### Athlete
+
 * **Add:** Add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
-* *(Dropped this from Fighter: Champion and this feat could use some help.)*
+* *(Originally from Fighter: Champion; this feat could use some help.)*
 
 #### Charger
 
-* **Add:** You can Dash as a bonus action.
-* **Replace:** "before taking this bonus action" with "before you hit with a melee attack as part of the Attack action".  (In other words, you can make a special charge attack as part of the Attack action, instead of as a bonus action after a Dash, provided you move at least 10 in a straight line first.)
-* *(Buff to a weak feat; changes inspired by 2024 version; see Weapon Mastery Properties sidebar below for more.) 
++ **Replace** with: 
+	+ You can Dash as a bonus action.
+	+ Once per turn, if you move at least 10 feet in a straight line immediately before you hit with a melee attack as part of the Attack action, you either gain a +5 bonus to the attack's damage (if you choose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
++ *(Buff to a weak feat: Add free dash and let you charge on any Attack action.  Change to Attack action inspired by the 2024 version. See Weapon Mastery Properties sidebar below for more.)* 
 
 #### Crossbow Expert
 
@@ -36,10 +38,10 @@ The following states the changes (rather than giving full replacement text) for 
 
 #### Grappler
 
-* Prerequisite is Strength 13+ or Dexterity 13+
+* Prerequisite is Strength 13+ **or Dexterity 13+**
+* The advantage you have on attacks rolls versus an opponent you are currently grappling also applies to any combat maneuver contests (see [Combat](Combat.md)).
 * **Add:** You can attempt a grapple in place of any attack, rather than only those made as part of the Attack action.
-* **Add:** When you hit a creature with an unarmed strike on your turn, you can use a bonus action at attempt to grapple the target.
-* The advantage you have on attacks rolls versus an opponent you are currently grappling also applies to any combat maneuvers (see [Combat](Combat.md)).
+* **Add:** When you hit a creature with an unarmed strike on your turn, you can use a bonus action to attempt to grapple the target.
 * Note: Since everyone can now attempt to Pin (restrain), the second bullet is no longer unique to this feat.
 * Note: The third bullet was a PHB editing error and so is generally never applicable.
 * *(Buffed because this feat was pretty weak, especially after making pin/restrain available to all. Incorporated some ideas from the 2024 version.)*
@@ -64,7 +66,7 @@ The following states the changes (rather than giving full replacement text) for 
 #### Savage Attacker
 
 * **Add:** When you miss with a heavy melee weapon attack, you can deal damage to the creature equal to the ability modifier you used to make the attack roll. This damage is the same type as the weapon, and it can be increased only by increasing the ability modifier.
-* *(Feat felt weak. Addition is 2024's Graze weapon property. See Weapon Mastery Properties sidebar below for more.)*
+* *(Feat felt weak. This addition is 2024's Graze weapon property. See Weapon Mastery Properties sidebar below for more.)*
 
 #### Sharpshooter
 
@@ -75,11 +77,11 @@ The following states the changes (rather than giving full replacement text) for 
 #### Shield Master
 
 * If you commit to taking an Attack action this turn, you may perform the bonus action shove before you attack.
-* *(Because that's how you'd do it if you were really a master!)*
+* *(Because that's how you'd do it if you were really a shield master!)*
 
 #### Spell Sniper
 
-* **Add:** Being within 5' of a hostile creature doesn't impose disadvantage on your attack rolls with spells.  
+* **Add:** Being within 5' of a hostile creature doesn't impose disadvantage on your ranged spell attack rolls.  
 * *(This feature was added in 2024; see also Crossbow Expert)*
 
 #### Tavern Brawler
@@ -100,7 +102,7 @@ The following states the changes (rather than giving full replacement text) for 
 #### Gunner
 
 * **Disallowed.**
-* *(In campaigns where guns are available, this feat's features are largely available to everyone with a firearm proficiency and a pistol.)
+* *(In campaigns where guns are available, this feat's features are largely available to everyone with a firearm proficiency and a pistol.)*
 
 #### Skill Expert
 
@@ -118,4 +120,6 @@ The following states the changes (rather than giving full replacement text) for 
 > * Slow: Slasher
 > * Topple: Tavern Brawler (revised) (unarmed/improvised only)
 > * Vex: Crusher (on crit)
+>   
+>   Alternatively, check out the [Rogue](Classes.md)'s new Cunning Strike for Sap, Slow, Trip (~Topple), and Vex abilities.
 

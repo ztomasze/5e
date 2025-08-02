@@ -53,7 +53,7 @@ Has a duration of "adventuring day"
 ##### Smite spells
 *This covers the 7 Smite spells: **Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite.*  *(From 2024, plus ranged option)*
 
-+ **Casting Time:** Can be cast as a bonus action in response to hitting with a melee weapon attack. Alternatively, can be cast as a bonus action on a ranged weapon, but the effect only takes place if the next attack with that weapon made within the duration hits a target.
++ **Casting Time:** Can be cast as a bonus action in response to hitting with a melee weapon attack. Alternatively, can be cast as a bonus action when you make an attack with a ranged weapon, but the effect only takes place if the attack hits its target.
 + **Duration:** Does not require Concentration. If the smite has a lingering effect, it lasts for up to the full duration (1 minute).
 
 ##### Witch Bolt
