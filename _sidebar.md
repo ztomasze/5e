@@ -17,6 +17,7 @@
 **DMG**
 
 * [Magic Items](Magic%20Items.md)
+* [Skill Challenges](Skill%20Challenges.md)
 
 **MM**
 

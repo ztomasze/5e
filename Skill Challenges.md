@@ -1,4 +1,4 @@
-This is a toolbox of structures to handle the resolution of narrative challenges.
+This is a toolbox of structures the DM might use to handle the resolution of narrative challenges.
 
 ### Individual Roll
 
@@ -25,7 +25,7 @@ Each character in the group makes a given skill roll.
 **Examples:**
 + Most knowledge rolls (Arcana, History, Nature, Religion) made to recall a fact tend to be strongest link: If one character remembers or determines some fact, they can tell the rest of the party.
 + Most detection rolls (Investigation, Insight, Perception) are the same: As long as one party member notices or determines some fact, they can tell the rest of the party.
-+ Stealth is often run as a a weakest link: If one character fails, it gives away the whole party.
++ Stealth is often run as a weakest link: If one character fails, it gives away the whole party.
 
 *Note: Weakest link usually isn't very fun. A group roll can often feel better.*
 
@@ -57,9 +57,9 @@ There is only a single round of rolls in a montage.
 
 **Outcome:** As per group roll: If half or more succeed, the party succeeds.
 
-**Example:** 
-* *Quell a mutiny of the party's crew.* Intimidation to exert command and force them to back down; Persuasion to help them see reason; Insight to pick out the primary instigators; Athletics to restrain the key players; Vehicles(water) to steer the ship into the wind or otherwise throw things into disarray, etc.  Spells like *charm person*, *hold person*, or *calm emotion* might give automatic individual successes.  On a failure, the party must resort to combat against their own crew members.
-* *Traverse the arid badlands to the ruins.*  Tools(nagivator's or calligrapher's) to follow the  map to the right place; Survival to wayfind or to avoid natural dangers; Athletics to regularly scale the surrounding cliffs to get clear sight lines or to support lagging members; Medicine to ensure the party stays appropriately hydrated and blister-free;  Perception to find paths (roll with advantage if seeing through the eyes of flying familiar); Diplomacy or Performance to keep the party's spirits up through the monotony; etc.
+**Examples:** 
+* *Quell a mutiny of the party's crew.* Use Intimidation to exert command and force them to back down; Persuasion to help them see reason; Insight to pick out and target the primary instigators; Athletics to restrain the key players; Vehicles(water) to steer the ship into the wind or otherwise throw things into disarray, etc.  Spells like *charm person*, *hold person*, or *calm emotion* might give automatic individual successes.  On a failure, the party must resort to combat against their own crew members.
+* *Traverse the arid badlands to the ruins.*  Tools(nagivator's or calligrapher's) to follow the  map to the right place; Survival to wayfind or to avoid natural dangers; Athletics to repeatedly scale the surrounding cliffs to get clear sight lines or to support lagging members; Medicine to ensure the party stays appropriately hydrated and blister-free;  Perception to find paths (roll with advantage if seeing through the eyes of a flying familiar); Diplomacy or Performance to keep the party's spirits up through the monotony; etc.
 
 ### Gauntlet
 
@@ -97,11 +97,11 @@ If it's modelling complexity, can you narrate that complexity to give the player
 * Maybe on a 20, you work fast enough to get 2 pins.  On a 1, you accidentally drop on you already aligned.
 * Maybe taking each pin one at a time is three actions at DC15.  However, you could try to rake the pins into place as a single action at DC25.
 
-In short, just making a series of the same roll over and over again is not very fun if it it doesn't correspond to some narrative consequence.  Each roll should feel significant or present a choice.
+In short, just making a series of the same roll over and over again is neither very fun nor tactical if it it doesn't correspond to some narrative consequence.  Each roll should feel significant or present a choice.
 
 ##### 4e Skill Challenges
 
-4e developed a system wherein the players must earn a given number of successes before rolling 3 failures.  It's otherwise run similarly to a Montage above (and indeed was were my Montage framework came from).
+4e developed a system wherein the players must earn a given number of successes before rolling 3 failures.  It's otherwise run similarly to a Montage above (and indeed this was where my Montage framework came from).
 
 However, there are some things I don't like about 4e's version of this:
 
@@ -109,4 +109,4 @@ However, there are some things I don't like about 4e's version of this:
 + It's not clear who should participate.  Strategically, only the characters with the highest chance of success at any given allowed skill should roll that.  (A Montage requires one roll from everyone.)
 + Longer challenges tend to have things like "You can earn 4 successes from Arcana", which is a nested sequential roll.  What do each of these successes represent?
 
-The Angry GM gives a nice rant on why [there's no such thing as a skill challenge](https://theangrygm.com/no-skill-challenges/).  The crux of it is that 4e's skill challenges (and sequential rolls) are defining the narrative problem in terms of abstract action resolution mechanics, instead of as a description of the narrative world. It breaks you out of the narrative to just roll mechanics. That can be a fine compromise for a GM-less system.  But even later versions of 4e's skill challenges recognized that they're often more fun if you could hide the fact that you're even doing one by instead focusing on the narrative rather than the list of skills and number of successes.  Compare instead to Angry's open-ended [Whatever Stat](https://theangrygm.com/the-whatever-stat/).
+The Angry GM gives a nice rant on why [there's no such thing as a skill challenge](https://theangrygm.com/no-skill-challenges/).  The crux of it is that 4e's skill challenges (and sequential rolls) are defining the narrative problem in terms of abstract action resolution mechanics, instead of as a description of the narrative world. It breaks you out of the narrative to just roll mechanics. That can be a fine compromise for a GM-less system.  But even later versions of 4e's skill challenges recognized that they're often more fun if you could hide the fact that you're even doing a skill challenge by instead focusing on the narrative rather than the list of skills and number of successes.  Compare instead to Angry's open-ended [Whatever Stat](https://theangrygm.com/the-whatever-stat/).

@@ -47,6 +47,7 @@ Some additional actions you can take in combat.
 | **Influence** | bonus          | While speaking a sentence or two is a free action, giving it enough weight to attempt to convince, intimidate, or otherwise influence another creature requires a bonus action.                                                                                                                                                                                                                                             |
 | **Potion**    | bonus / action | You can drink a held potion as a bonus action. It takes an action to feed a potion to another creature.                                                                                                                                                                                                                                                                                                                     |
 | **Search**    | bonus          | Peering around the battlefield to attempt to actively locate a hidden creature, to look for footprints appearing in the sand, to guess a creature's intent or motivation, or to otherwise give your close attention to something for a couple seconds requires a bonus action.                                                                                                                                              |
+
 *(A few useful actions imported from 2024 and 3.5e. Adding a custom flee mechanic.)*
 
 ### Cover

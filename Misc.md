@@ -20,3 +20,15 @@ There are still a few save-or-die effects around, such as petrify, disintegrate,
 Drop to 0 hp and take 2 fails (as for a crit hit).
 Still dying, so you'll have to make that last save on your turn.
 (Also a lasting injury?)
+
+
+### DM Misc
+
+social
+hostile, friendly, or indifferent
+influence DC (+10 to roll for friendly, -10 for hostile
+30 will take significant risk or sacrifice to help
+20 will take minor risk or sacrifice to help
+10 will help if no risk
+0 wont help but also wont harm
+-10 will seek to oppose or harm (even at slight risk)

@@ -39,12 +39,12 @@ The following states the changes (rather than giving full replacement text) for 
 #### Grappler
 
 * Prerequisite is Strength 13+ **or Dexterity 13+**
-* The advantage you have on attacks rolls versus an opponent you are currently grappling also applies to any combat maneuver contests (see [Combat](Combat.md)).
+* The advantage you have on attacks rolls versus an opponent you are currently grappling also applies to most combat maneuver contests (see [Combat](Combat.md)).
 * **Add:** You can attempt a grapple in place of any attack, rather than only those made as part of the Attack action.
 * **Add:** When you hit a creature with an unarmed strike on your turn, you can use a bonus action to attempt to grapple the target.
 * Note: Since everyone can now attempt to Pin (restrain), the second bullet is no longer unique to this feat.
 * Note: The third bullet was a PHB editing error and so is generally never applicable.
-* *(Buffed because this feat was pretty weak, especially after making pin/restrain available to all. Incorporated some ideas from the 2024 version.)*
+* *(Buffed because this feat was pretty weak, especially after making pin/restrain available to all. Incorporated some ideas, like punch-and-grab, from the 2024 version.)*
 
 #### Great Weapon Master
 
@@ -102,7 +102,7 @@ The following states the changes (rather than giving full replacement text) for 
 #### Gunner
 
 * **Disallowed.**
-* *(In campaigns where guns are available, this feat's features are largely available to everyone with a firearm proficiency and a pistol.)*
+* *(In my campaigns where guns are available, this feat's features are largely available to everyone with a firearm proficiency and a pistol.)*
 
 #### Skill Expert
 
@@ -121,5 +121,5 @@ The following states the changes (rather than giving full replacement text) for 
 > * Topple: Tavern Brawler (revised) (unarmed/improvised only)
 > * Vex: Crusher (on crit)
 >   
->   Alternatively, check out the [Rogue](Classes.md)'s new Cunning Strike for Sap, Slow, Trip (~Topple), and Vex abilities.
+>   Alternatively, check out the [Rogue](Classes.md)'s new Cunning Strike for the Sap, Slow, Trip (~Topple), and Vex abilities.
 
