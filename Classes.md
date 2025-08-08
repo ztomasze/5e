@@ -165,16 +165,15 @@ This **requires a bonus action**, which can be performed upon hitting a creature
 + Additional Fighting Style options
 + Spellcasting Focus (lvl 2)
 
-These are also available replacements (although I personally prefer my improvements to the original 2014 version below): 
+These are also available replacements (although I personally prefer my improvements to the original 2014 version, given below): 
 
 + Deft Explorer (lvl 1)
 + Favored Foe (lvl 2)
 + Primal Awareness (lvl 3)
 
 ##### Favored Enemy (lvl 1)
-Add:
 * Add your proficiency bonus to weapon damage rolls dealt to your favored enemies.
-* As part of a level up, you may replaced one favored enemy type with another.  You must have fought and learned more about this new favored enemy during your adventures. You cannot change any associated language that you have learned, but, if your first favored enemy choice did not give you a language, you can choose one now.
+* As part of a level up, you may replace one favored enemy type with another. You must have fought and learned more about this new favored enemy during your adventures. You cannot change any associated language that you have learned, but, if your initial favored enemy choice did not give you a language, you can choose one now.
 
 ##### Natural Explorer (lvl 1)
 You gain these additional movement benefits while in one of your favored terrains:
@@ -186,10 +185,10 @@ You gain these additional movement benefits while in one of your favored terrain
 As part of a level up, you may replace one favored terrain with another that you have explored during your adventures.
 
 ##### Spellcasting (lvl 2)
-You can prepare your spells, choosing to replace any of them each long rest, like a druid or paladin.
+You can prepare your spells, choosing to replace any of them each long rest, like a druid or paladin.  *(Added for consistency; also in 2024)*
 
 ##### Primeval Awareness (lvl 3)
-Optionally, instead of spending a spell slot, you can spend 1 minute in uninterrupted concentration to sense the presence of any favored enemies (only).
+Optionally, instead of spending a spell slot, you can spend 1 minute in uninterrupted concentration to sense the presence of any favored enemies (only). *(Option used in one campaign.)*
 
 ##### Land's Stride (lvl 8)
 *Add:* You can Dash as a bonus Action.
@@ -201,7 +200,7 @@ Optionally, instead of spending a spell slot, you can spend 1 minute in uninterr
 ##### Hide in Plain Sight (lvl 10)
 *Replace with:* You can spend 1 minute creating camouflage for yourself befitting the local environment and infusing it with the powers of nature. You must have access to a disguise kit or to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
-Once camouflaged, you can attempt to hide even if you are only lightly obscured by natural phenomena (such as foliage, heavy rain, falling snow, or mist) or if you are up against a solid surface that is at least as tall and wide as you are.  When you hide while camouflaged in this way, you automatically become invisible (no roll needed) for as long as you remain motionless.
+Once camouflaged, you can attempt to hide even if you are only lightly obscured by natural phenomena (such as foliage, heavy rain, falling snow, or mist) or if you are up against a solid surface that is at least as tall and wide as you are.  When you hide while camouflaged in this way, you automatically become invisible (no roll needed) for as long as you remain motionless. *(A blend of 2014's gritty-but-lame version and TCE/2024's auto-magical invisibility.)*
 
 ##### Natural Explorer Improvement (lvl 10)
 You can select from any of these additional favored terrains that you have adventured in: dungeon, planar (specific plane), urban.
@@ -210,7 +209,7 @@ You can select from any of these additional favored terrains that you have adven
 You gain advantage on saving throws against the innate spells and abilities of any non-humanoid favored enemies. 
 
 ##### Archetype: Beast Master
-*(The original Ranger's Companion feels weak and is hard to balance over all possible animals. TCE's Primal Companion mostly became the 2024 version. It is good if you want to summon an obviously magical spirit creature. The following Beast Companion option attempts to blend the two to retain the original's realism and various animal options while also incorporating TCE's buffs, simplicity, and scaling.)*
+*(The original Ranger's Companion feels weak and is hard to balance over all possible animals. TCE's Primal Companion mostly became the 2024 version. It is good if you want to summon an obviously magical spirit creature. The following Beast Companion option attempts to blend the two to retain the original's realism and various animal options while still incorporating TCE's buffs, simplicity, and scaling.)*
 
 **Beast Companion (lvl 3):** You form a bond with a natural creature (beast), which is then subtly augmented by your magic.
 
@@ -221,6 +220,8 @@ You gain advantage on saving throws against the innate spells and abilities of a
 + While traveling through your favored terrain with only your beast companion, you can move stealthily at a normal pace.
 + If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with 1 hit point. Like any creature, the beast can spend Hit Dice during a short rest and recovers all hit points on a long rest.
 + Your bond ends if you die. You can also end your bond over a short or long rest. When a bond ends, a living beast returns to the local wilds. If you later summon a native creature again in the same area, you can choose to recall a previously bonded companion.
+
+<!-- Considering:  Healing spells that you cast on your beast companion restore double hit points. -->
 
 Your beast companion uses TCE's Beast of the Land, Beast of the Sea, or Beast of the Sky stat block, but modified as follows based on the specific type of the beast.
 
@@ -244,7 +245,7 @@ _**Beast of the Land**_
 **_Beast of the Sea_** 
 
 + Sea beasts breathe either air or water.  The table below states how long they can survive (hold their breath) in the other element.
-+ Attack benefit.  Grapple is the default. This grapple effect is limited to creatures up to one size larger. It may be replaced by the noted ability.
++ Attack benefit: Grapple is the default. This grapple effect is limited to creatures up to one size larger. It may be replaced by the noted ability.
 
 | Beast               | Size  | AC    | Land  | Swim  | In water | In air   | Attack                                                        | Damage |
 | ------------------- | ----- | ----- | ----- | ----- | -------- | -------- | ------------------------------------------------------------- | ------ |
@@ -269,7 +270,6 @@ Sorely tempted... but Giant Killer got cut in 2024, so let's not bother to redee
 ##### Archetype: Hunter
 **Hunter's Prey (lvl 3):** Add **Retaliator:** When a creature within 5 feet of you hits you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.  *(Intended to replace the never-used Giant Killer option. Just dropping the Large+ restriction felt too strong, so this also requires that you actually get hit first.)*
 -->
-
 
 ### Rogue
 
@@ -303,7 +303,7 @@ You can use two Cunning Strike effects when you deal Sneak Attack damage. You mu
 	+ Seeking Spell only costs +1 sorcery point *(From 2024)*
 
 ##### Spellcasting (lvl 1)
-Most Sorcerous Origins give you list of origin spells: Two spells for each spell level between 1 and 5. If any of these origin spells are not sorcerer spells, you can add them to your class spell list, meaning that you can learn and cast them as sorcerer spells.  When you gain the ability to cast sorcerer spells of the given spell level, choose one of the origin spells provided for that spell level. You add that chosen spell to your spells known.  You cannot replace that spell when you level up, except if you swap it for another spell of the same level from your origin spell list.
+Most Sorcerous Origins give you list of origin spells: Two spells for each spell level between 1 and 5. If any of these origin spells are not sorcerer spells, you can add them to your class spell list, meaning that you can learn and cast them as sorcerer spells.  When you gain the ability to cast sorcerer spells of the given spell level, choose one of the origin spells provided for that spell level. You add that chosen spell as a bonus to your spells known.  You cannot replace that spell when you level up, except if you swap it for another spell of the same level from your origin spell list.
 
 ##### Innate Sorcery (+lvl 1)
 As a bonus action, you can unleash an aura of raw magic for 1 minute. This always creates a visual effect around you related to your sorcerous origin, such as a spectral fire, swirling mists, flickering shadows, glowing eyes, crackling cold, etc. During this minute:
@@ -327,15 +327,15 @@ Once per day when you finish a short rest, you can choose expended spell slots t
 * *(From 2024)*
 
 ##### Origin: Aberrant Mind
-**Spellcasting: Psionic Spells (lvl 1):** You learn the *mind sliver* cantrip. You **gain only one psionic spell known per spell level**, although you can learn the other spell as a normal sorcerer spell (see Spellcasting, above).
+**Spellcasting: Psionic Spells (lvl 1):** You learn the *mind sliver* cantrip. You **gain only one psionic spell known per spell level**, although you can learn the other spell as a normal sorcerer spell. (See Spellcasting, above, for more.)
 
 ##### Origin: Clockwork Soul
-**Spellcasting: Clockwork Magic (lvl 1):** You **gain only one clockwork magic spell known per spell level**, although you can learn the other spell as a normal sorcerer spell (see Spellcasting, above).
+**Spellcasting: Clockwork Magic (lvl 1):** You **gain only one clockwork magic spell known per spell level**, although you can learn the other spell as a normal sorcerer spell (See Spellcasting, above, for more.)
 
 ##### Origin: Divine Soul
 **Spellcasting: Divine Magic (lvl 1):** 
 * You do not gain a single spell based on your affinity.
-* Instead, choose the domain spell list from one cleric domain. As you gain access to each spell level, choose one of the domain spells of that level to learn. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known.
+* Instead, choose the domain spell list from one cleric domain. These spells are sorcerer spells for you. As you gain access to each spell level, choose one of the two domain spells of that level to learn. It doesn't count against your number of sorcerer spells known. (See Spellcasting, above, for more.)
 
 ##### Origin: Draconic Bloodline
 **Spellcasting: Draconic Spells (+lvl 1):** 
@@ -377,7 +377,7 @@ You gain one bonus spell known at each spell level, up to the highest sorcerer s
 
 When you gain access to a new bonus spell known through this means, randomly select a PHB sorcerer spell of that spell level.  If this produces a spell you already know, roll again.
 
-Each time you level up, you can choose to regenerate your full list of bonus spells known. Randomly select a new PHB sorcerer spell for each bonus spell level that you have.
+Each time you level up, you can choose to regenerate your full list of bonus spells known. Randomly select a new PHB sorcerer spell for each bonus spell level that you have. (See Spellcasting, above, for more.)
 
 
 ### Warlock
@@ -399,7 +399,7 @@ Replaces **Pact of the Blade:**
 + As a bonus action, you can conjure a pact weapon in your hand. You can choose the form of this weapon each time. It must be a simple or martial melee weapon that lacks the two-handed property. The weapon counts as magical for the purposes of overcoming resistances and immunity. The weapon disappears if it is more than 5 feet from you for 1 minute or more, if you dismiss it as a free action, if you conjure another pact weapon, or if you die.
 + While wielding your pact weapon, you have proficiency with the weapon, can use it as a spellcasting focus, and can use your Charisma in place of Strength or Dexterity when you attack with it.
 + You can perform a 1-hour ritual, which can be performed over a short rest, to bond with a magical weapon you touch and make it your pact weapon. You can't bond with a magic weapon if someone else is attuned to it or has bonded with it as a pact weapon, if it is a sentient or artifact weapon, or if it is of a weapon type you could not conjure as a pact weapon. You remain bonded until you die, bond with a different weapon, or perform a similar 1-hour ritual to break the bond. While bonded, whenever you conjure a pact weapon, the bonded weapon teleports to your hand if it is on the same plane of existence. You cannot conjure any other pact weapon while so bonded.
-*(From 2024, mostly, while retaining some of the original flavor and limitations)*
+*(From 2024, mostly, while retaining some of the original 2014 flavor and limitations)*
 
 ##### Patron: Archfey
 Add *misty step* to the patron expanded spell list. *(From 2024)*
@@ -412,7 +412,7 @@ Add *misty step* to the patron expanded spell list. *(From 2024)*
 **Dark One's Blessing (lvl 1):** You also gain these temporary hit points if someone else reduces an enemy within 10 feet of you to 0 hit points. *(From 2024)*
 
 ##### Patron: Hexblade
-**Disallowed.**  *(The Hexblade lacks good flavor, and it is regularly abused for small Warlock dips. Given the change to Pact of the Blade above to capture the essence of a martial warlock, there is less value to this subclass. If you have a good story reason for this patron, we can talk.)*
+**Disallowed.**  *(The Hexblade lacks good flavor, and it is regularly abused for short Warlock dips. Given the change to Pact of the Blade above to capture the essence of a martial warlock, there is less value to this subclass. If you still have a good story reason for this patron, we can talk.)*
 
 
 ### Wizard
@@ -450,8 +450,8 @@ You may choose to swap the order in which you gain the Sculpt Spells and Potent 
 
 TCE's Aberrant Mind and Clockwork Soul subclasses for the Sorcerer added "domain spells" to the sorcerer: Two spells known per spell level.  2024 kept this design and doubled-down on it by also giving domain spells to the Draconic Bloodline. They then gave the Sorcerer 7 more spells known overall and gave the Warlock subclasses domain spells.
 
-I'm not a big fan of this direction because I think of the Wizard as the versatile arcane spellcaster.  Both the Sorcerer and Warlock should have a handful of powerful spells, favoring evocation and damage, that they can cast more often than the Wizard. But the Wizard did not receive any increase in versatility other than the ability to swap out one spell per short rest at level 5. 
+I'm not a big fan of this direction because I think of the Wizard as the versatile arcane spellcaster.  I think both the Sorcerer and Warlock should have a handful of powerful spells, favoring evocation and damage, that they can cast more often than the Wizard. But the Wizard did not receive any increase in versatility other than the ability to swap out one spell per short rest at level 5. 
 
-However, rather than completely bucking the direction of the game, I've come up with a compromise I'm comfortable with.  All three of these arcane spellcasters--Sorcerer, Warlock, and Wizard--get one additional domain spell known per spell levels 1 through 5. (There may be some subclass exceptions.) And the Sorcerer gets to recover spell slots at least as well as the Wizard.
+However, rather than completely bucking the direction of the game, I've come up with a compromise I'm comfortable with.  All three of these arcane spellcasters--Sorcerer, Warlock, and Wizard--get one additional domain spell known at spell levels 1 through 5. (There may be some subclass exceptions.) And the Sorcerer gets to recover spell slots at least as well as the Wizard.
 
-Speaking of domain spells, I'm also not a fan of cleric domains that give you access to only cleric spells that you could choose to prepare yourself.  While it is nice to have such spells always prepared to support the theme of your domain in play, it'd be nice to sometimes have some some personal options regarding the details of that theme.
+Speaking of domain spells, I'm also not a fan of cleric domains that give you access to only cleric spells that you could choose to prepare yourself.  While it is nice to have such spells always prepared to support the theme of your domain in play, it'd be nice to sometimes have some some personal options regarding the details of that theme. Thus, I've added the option to customize certain cleric domains to a small degree.
