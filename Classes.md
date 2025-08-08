@@ -314,6 +314,10 @@ You can use this feature once per long rest. *(From 2024, half as often, plus a 
 ##### Sorcerous Recovery (+lvl 2)
 Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your sorcerer level (rounded up), and none of the slots can be 6th level or higher. *(Inspired by 2024's lvl 5 Sorcerous Restoration, but using the same existing mechanic as Wizard & Druid:Land. At level 2 to require more than a single level dip.)*
 
+<!--
+Sorcery Points: You cannot use sorcery points to create new spell slots. Instead, you can recover expended spell slots equivalent to those you would have created.
+-->
+
 ##### Metamagic (lvl 3)
 + **Careful spell:** Also, chosen creatures take no damage if they would normally take half damage on a successful save. *(From 2024)*
 + **Extend Spell:** If the affected spell requires concentration, you have advantage on any saving throw you make to maintain that concentration. *(From 2024)*

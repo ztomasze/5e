@@ -93,3 +93,11 @@ Lasts up to 1 hour.
 #### Silence
 + Can be cast (not as a ritual) on an object or creature (Will save negates), which then moves with that object.
 + *(Reviving an effect from earlier editions, similar to Light or Darkness)*
+
+
+...
+duration of 1 minute - combat (if cast in combat)
+
+Barkskin
+
+Conjure Animals - one CR 2, two CR1, or four CR 1/4 (or lower)

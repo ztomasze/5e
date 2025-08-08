@@ -11,6 +11,15 @@ You are at disadvantage to swim in medium or heavy armor or while wielding a shi
 ##### Ammunition
 Although it typically requires a free hand to draw ammunition, a sling can be reloaded while wielding a shield.  
 
+<!--
+Quarterstaff 
+Can be used to attack with each end, as if you held a d6 bludgeoning weapon in each hand.
+If you have proficiency with martial weapons or monk weapons, you can make an attack with a quarterstaff as a reach weapon. You must be holding the weapon in two hands to do this, and the damage die on a hit is a d6.
+
+Spear
+If you have proficiency with martial weapons or monk weapons, you can make an attack with a spear as a reach weapon. You must be holding the weapon in two hands to do this, and the damage die on a hit is a d6.
+-->
+
 ##### Additional Weapons
 
 | Weapon      | Type          | Cost | Damage           | Weight | Properties                                      |
@@ -31,5 +40,21 @@ Although it typically requires a free hand to draw ammunition, a sling can be re
 | ------------------ | ---- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Smelling salts** | 2 gp | 1/2 lb | Use this vial of spirit of hartshorn to wake an unconscious creature. If the creature is stable at 0 hp, they regain 1 hp. Can be crafted with an Herbalism kit. |
 
+<!--
+### Tools
+
+Inspired by XGE, I'm going to lean into tools a little more than I usually do (though without XGE's full complexity).  Specifically:
+
+A tool proficiency is like a micro-skill proficiency.  It includes use of the tool, as well as its surrounding knowledge.
+In cases where a skill and tool proficiency would overlap, you can gain advantage on the roll. Or sometimes a tool proficiency might simply let you automatically succeed on a check.
+Artisan tool proficiencies let you craft or repair something over either a short or long rest, if you have access to your tools (not all are portable, such as a smith's forge or bewer's casks).
+Most tool proficiencies will let you earn a living during downtime 
 
 
+Miner's Tools
+A proficient character can recognize ores, determine whether a cavern is natural or excavated, and can identify weak spots in natural or excavated stonework. 
+
+Rope
+A proficient character can reliably tie knots; can splice a cut rope back together over a short rest; can use a lasso (mechanically as per net with double the range and the restrained target can still move if moving closer to you). 
+
+-->

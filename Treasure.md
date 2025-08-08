@@ -8,7 +8,7 @@ Magical potions only take a little taste (although this can expose you to poison
 
 The *identify* spell is still useful for 1) its speed (versus a short rest), 2) finding curses and hidden additional powers, and 3) examining or decoding complex magical effects, such as portals, unusual artifacts, latent magical effects, etc.
 
-Objects may have a "faint aura" if they have been shaped by magic, act as a regular conduit for magic, or have absorbed ancient or latent magical effects.  Faint auras may have no discernable school (without Identify) and cannot be detected through a barrier (only examination with direct line of sight).
+Objects may have a "faint aura" if they have been shaped by magic, act as a regular conduit for magic, or have absorbed ancient or latent magical effects.  Faint auras may have no discernible school (without Identify) and cannot be detected through a barrier (only examination with direct line of sight).
 
 Any herbal potions (ie, craftable with an herbalism kit) are mundane and so do not have a strong magical aura.  These do have a fairly standard core color/odor/taste, though, and so are pretty recognizable, despite some individual variation on the details.
 
