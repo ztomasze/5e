@@ -1,24 +1,49 @@
+## Movement
+#### Travel Pace
 
-Travel Pace
-Fast - Disadvantage on Per; can’t attempt stealth 
-Normal - Disadvantage on Stealth
-Slow - Adv in Per, Normal
+| Pace   | Base | Perception   | Stealth      |
+| ------ | ---- | ------------ | ------------ |
+| Fast   | 40'  | Disadvantage | none         |
+| Normal | 30'  | Normal       | Disadvantage |
+| Slow   | 20'  | Advantage    | Normal       |
 
-If traveling normal or slower, can gain disadvantage on perception to perform an extra task: track, forage, navigation, draw a map, 
+Remember that adv/disadv means +5/-5 to passive Perception.
 
+*(Updated from 2024, except no Stealth at Fast and Survival effect covered below instead)*
 
-Brief rest: Can expend a single HD to recover HP
+#### Activities while Traveling
 
+If you are traveling at a normal or slower pace, you can take disadvantage on Perception to perform an extra task, such as track, forage, navigate, draw a map, etc.  At a fast pace, you're also at disadvantage to any task rolls.
 
-##### Fire
+## Environment
+<!--2024's Dehydration / Malnutrition rules kept the same requirements as PHB + DMG p.111, but tweaked the rules on how you gain exhaustion levels.  The change is not really any clearer IMO.-->
+
+#### Burning
 If you are on fire, you typically take 1d10 (5) damage at the start of each of your turns.  Different sources of fire may deal different amounts, though.  For example, alchemist's fire does 1d4; oil and fire elemental ignition deals 1d10; lava deals more.
 
-Generally, you can spend your action to extinguish the flames, but, again, this can vary. The action should be appropriate (such as dropping prone and and rolling). Submerging is water is usually automatically successful. Alchemist's fire also requires a DC 10 DEX check.  
+Generally, you can spend your action to extinguish the flames, but, again, this can vary. The action should be appropriate (such as dropping prone and and rolling). Submerging is water is usually automatically successful. Alchemist's fire also requires a DC 10 DEX check.  <!--2024 does 1d4 per round until you drop and roll as an action-->
 
+#### Falling
 
-Suffocating
-As RAW: You are either holding your breath or not. 
-PHB p.177 also mentions you might need to make a Constitution-based roll for holding your breath.  Specifically, this means:
-You can grab a breath as a free action on your turn.
-If you are denied your breath when it's not your turn (pulled into the water, strangled, suddenly surrounded by gas or spores, etc), you are not holding your breath. Depending on the situation, you may get a DC 10 CON save to grab a breath as a reaction.
-You can lose your breath by talking, casting a spell with a verbal component, falling unconscious, etc.  Also, whenever you take damage (or suffer a similar significant surprise), you must make a Concentration save (as per concentrating on a spell) or lose your breath.
+For a treacherous fall (DM's discretion), the d6s can explode: If you roll a 6, roll that die again until it's not a 6, adding each result to the total. *(This keeps the core falling rule in place, but it allows for a rare fatal fall at shorter heights, and it means even those with several levels of HP should still fear falling.)*
+
+#### Suffocating
+
+As RAW: In the absence of air, you are either holding your breath (for 1+CON minutes, min: 30 seconds) or suffocating (CON rounds, min 1; then drop to 0 hp at the start of your next turn).  <!-- 2024 uses Exhaustion each round instead of CON rounds + 0 hp -->
+
+Some clarifying rulings:
+
++ If you are unexpectedly denied your breath (pulled into the water, strangled, choking, suddenly surrounded by gas or spores, etc), you are not holding your breath and so immediately start suffocating. <!-- Depending on the situation, you may get a DC 10 CON save to grab a breath as a reaction. -->
++ While suffocating, if the opportunity presents itself, you can grab a deep breath as a free action and start holding your breath again.
++ While holding your breath, you can lose your breath by talking, casting a spell with a verbal component, falling unconscious, etc.  Also, whenever you take damage or suffer a similarly significant surprise, you must make a Concentration save (as per concentrating on a spell) or lose your breath.  *(Inspired by PHB p.177 - rolling CON to hold your breath.)*
+
+## Resting
+
+#### Excursion
+
+Sometimes, the party will venture deep into the wilds or some other inhospitable domain. On such excursions, while under the general wear of long travel or the uncertainty of finding the next safe haven, the party's rests become less productive:
+
+- A **hour's rest** provides only a **brief rest** (heal 1 hp).
+- A **night's rest** provides only a **short rest**
+
+For a night's rest to provide as a long rest, it must be taken in a safe haven (as defined by the DM). *(Inspired by DMG's Gritty Realism resting variant and rationale behind Mystic Arts' [Excursion Resting](https://www.youtube.com/watch?v=VxVEF4EkJkY))*

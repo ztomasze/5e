@@ -47,8 +47,8 @@ Lasts up to 1 hour.
 
 #### Goodberry
 + **Effect:** A berry can be consumed as a bonus action. *(From 2024, and matches potion rule.)*
-+ **Ruling:**  You must spend your own (bonus) action to consume a berry. Unlike a potion or salve, you cannot spend your action to feed or squeeze the juice of a berry into another’s mouth. *(This is the downside for getting a full 10 points of divisible healing with additional benefits.)*
-+ **Ruling:** Provides only nourishment (food, as per *bead of nourishment*), not hydration. You must separately source clean drinking water.
++ **Ruling:**  You must spend your own (bonus) action to consume a berry. Unlike a potion or salve, you cannot spend your action to feed or squeeze the juice of a berry into another creatures's mouth. *(This is the downside for getting a full 10 points of divisible healing with additional benefits.)*
++ **Ruling:** Provides only nourishment (food/rations, as per *bead of nourishment*), not hydration. You must separately source clean drinking water.
 + **Ruling:** Life Cleric's Discipline of Life does not apply to the berries. *(The spell creates the berries, rather than directly restoring hit points to a creature. And because the alternative is busted.)*
 + *(In certain survival-oriented campaigns, this spell may be modified to: "berry" > "berries": It takes all 10 to provide enough sustenance for 1 person.)*
 
@@ -62,7 +62,7 @@ Lasts up to 1 hour.
 + **Duration:** Treat "8 hours" as "adventuring day", which is more like 16 hours
 
 ##### Ray of Sickness
-+ **Effect**: On a hit, the target is automatically poisoned (no save).  On a miss, the target is poisoned if they fail a CON save. 
++ **Effect**: On a hit, the target is automatically poisoned (no save). On a miss, the target is poisoned if they fail a CON save. 
 + *(Dropping the save on hit is from 2024. Retaining the save part as a miss effect helps reduce the save-or-suck.)*
 
 #### Smite spells

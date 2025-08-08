@@ -16,7 +16,8 @@
 
 **DMG**
 
-* [Magic Items](Magic%20Items.md)
+* [Treasure](Treasure.md)
+* [Running the Game](Running%20the%20Game.md)
 * [Skill Challenges](Skill%20Challenges.md)
 
 **MM**

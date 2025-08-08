@@ -1,3 +1,4 @@
+I might change anything about a monster, so that encounters with them don't get boring with time and over-exposure.
 #### Swarms
 
 * Swarms take a max of 1 point of damage per weapon attack. This is the case even if the weapon is magical. Any additional damage of another type, such as the fire damage from a flaming sword, applies normally.
