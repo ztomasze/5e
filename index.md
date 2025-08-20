@@ -33,6 +33,8 @@ The changes listed below are those significant enough to highlight up front. Ent
 ##### [Spells](Spells.md)
 
 + Buffs available to several lesser-used cantrips and low level spells.
++ **Spiritual Weapon** now requires concentration.
++ **Spirit Guardians** does not slow creatures in its area.
 + While not explicitly changed, my rulings on **Goodberry** are very strict.
 
 ##### [Conditions](Conditions.md)
