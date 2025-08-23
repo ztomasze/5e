@@ -1,3 +1,8 @@
+**Strength(Athletics):** Whenever a spell allows a Strength check to break free of an restraining effect, you can apply any Athletics proficiency as you would against a grapple.  Sample spells:  Ensnaring Strike; Entangle; Web; Evard's Black Tentacles; etc  *(From 2024)*
+
+
+
+
 You may choose to apply the changes given for each spell below.
 
 ### Cantrips
@@ -72,11 +77,11 @@ Possible TCE changes
 + *(From 2024)*
 
 #### Divine Favor
-+ **Duration:** Concentration is not required.
++ **Duration:** No concentration required.
 + *(From 2024)
 
 #### Feather Fall 
-+ **Effect:** Alternatively, target one thrown weapon or fired piece of ammunition (within range). That object becomes as light as a feather and deals no damage on hit. 
++ **Effect:** Alternatively, you can target one thrown weapon or fired piece of ammunition within range that you can see. That object becomes as light as a feather and deals no damage on hit. 
 + *(Reviving an effect from earlier editions to make this spell more useful.)*
 
 #### Goodberry
@@ -95,13 +100,15 @@ Possible TCE changes
 #### Mage Armor
 + **Duration:** Treat "8 hours" as "adventuring day", which is more like 16 hours
 + **Effect:** You can cast on a creature wearing armor, but only the better AC calculation applies.
++ *(Reflects how I tend to play this spell in practice.)*
 
 #### Ray of Sickness
 + **Effect**: On a hit, the target is automatically poisoned (no save). On a miss, the target is poisoned if they fail a CON save. 
-+ *(Dropping the save on hit is from 2024. Retaining the save part as a miss effect helps reduce the save-or-suck.)*
++ *(Dropping the save on hit is from 2024. Retaining the save part as a miss effect is to reduce save-or-suck.)*
 
 #### Shield of Faith
-+ **Effect:** When cast on yourself, you automatically succeed Constitution saves to maintain concentration on this spell when taking damage.  <!-- minimal change - still requires concentration, even on self.  Should probably auto-save only be vs weapon attacks, and not area effects, etc, but too hard to remember that additional distinction -->
++ **Effect:** Does not require concentration when cast on yourself.  <!-- Minimal change: "When cast on yourself, you automatically succeed Constitution saves to maintain concentration on this spell when taking damage."  But weird versus everything else. -->
++ *(It feels lame to need to make a CON save every time you get hit to keep up a spell like this that grants you armor so you can wade into battle. However, this change shouldn't let you just spam it on everyone in the party.)*
 
 #### Smite spells
 *This covers the 7 Smite spells: **Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite.*  *(From 2024, plus ranged option)*
@@ -154,6 +161,24 @@ Considered changes
 
 ### Level 2
 
+#### Barkskin
++ **Casting time:** Bonus action
++ **Duration:** 1 hour (no concentration required)
++ **Effect:** AC17
++ *(From 2024)*
+
+#### Cloud of Daggers
++ **Effect:** A creature takes damage when the cube enters its space for the first time on a turn, when the creature enters the cube for the first time on a turn, or when the creature ends its turn in the cube. As an action, you can move the cube 5 feet.
++ *(From 2024, but with less repositioning)*
+
+#### Cordon of Arrows
++ **Effect:** Each arrow deals 2d4 damage.
++ *(From 2024)*
+
+#### Mirror Image
++ **Effect:** Roll a d12 (instead of d20), as it is more easily divisible & memorable.  You are always the first target, then your images, so you are hit on a 1-3 with three images, 1-4 with two images, or 1-6 with one image.
++ *(Personal reason: Braum)*
+
 #### Prayer of Healing
 + **Effect:** When choosing up to six targets, you can select a target more than once, up to six total applications. Each extra application to a target heals +1d8 (equivalent to casting at 1 level higher for that target).
 + (Also true in kind for: **Mass Healing Word** and **Mass Cure Wounds**.)
@@ -162,7 +187,7 @@ Considered changes
 + **Effect:** Instead of making a ranged attack, the target must make a CON save: 
 	+ Success: The target has disadvantage on the next attack roll it makes until the start of your next turn.
 	+ Failure: In addition to dealing only half damage with Strength-based weapon attacks until the spell ends, the target has disadvantage on Strength-based attacks, checks, and saves.
-+ *(Incorporating 2024's changes, but keeping half weapon damage rather than -1d8 damage.)*
++ *(Incorporating 2024's changes, but keeping half STR weapon damage rather than -1d8 damage.)*
 
 #### Silence
 + Can be cast (not as a ritual) on an object or creature (Will save negates), which then moves with that object.
@@ -172,17 +197,60 @@ Considered changes
 + **Duration:** Concentration, up to 1 minute
 + *(From 2024)*
 
+#### Web
++ **Effect:** Creatures make a save versus being restrained when the spell is cast, when they first enter the area on a turn (voluntarily or not), and when they end their turn in the area.
++ *(I've long seen creatures being fully unrestrained until their turn as a problem with this spell, since it can't grant attack advantage on targets or inhibit their OAs in the meantime.  2024 updates some spells like Gust of Wind and Moonbeam by moving saves from the start of turn to the end, so applying the same idea here for Web.)*
+
 <!--
-Barkskin
+2024 changes (beyond rewordings)
++ Alter Self - can use your spellcasting mod for the natural attacks
++ Animal Messenger - animal gets a save; CR0 is relevant
++ (Barkskin) - bonus action; no concentration; AC17
++ Beast Sense - You don't lose your own senses
++ Branding Smite - Renamed to Shining Smite
++ (Cloud of Daggers) - You can teleport the cube up to 30 feet as an action. A creature takes damage (up to once per turn) if it enters the cube, the cube enters its space, or if it ends its turn in the cube.
++ (Cordon of Arrows - Deals 2d4 (instead of 1d6) damage
++ Darkvision - Grands 150' darkvision
++ Detect Thoughts - (significantly cleaned up); creature saves rather than contests to end your probing
++ Enhance Ability - dropped CON buff; only get advantage on checks with no other riders; you can choose a different effect for each additional creature
++ Enthrall - -10 to Perception (rather than just disadv)
++ Find Steed - Provides a stat block; when recasting, you can choose to summon the same or a different mount
++ Gust of Wind - A creature saves if it ends it turn (rather than starts)
++ Hold Person - extra targets don't need to be near each other
++ Invisibility - spell also ends if you deal damage
++ Lesser Restoration - bonus action.  Doesn't cure disease.
++ Mirror Image - Roll when you are hit (rather than determining what is hit first); then roll a d6 for each image and an image is hit of 3+ is rolled on at least one of them.
++ Moonbeam - Reverts any shapeshifted creature, including polymorph, etc.  Makes the save (only once per turn) when the area moves into its space, it enters the area, or it ends it turn there.
++ Phantasmal Force - Deals 2d8 (instead of 1d6) damage
++ Prayer of Healing - 5 creatures; also grants a short rest (once per long rest)
++ (Ray of Enfeeblement) - CON save instead of ranged attack; on fail, still gets disadvantage on its next attack; on a success, disadvantage on all STR tests and -1d8 from all damage rolls.
++ Shatter - Clarified that any construct has disadvantage
++ (Spiritual Weapon) - concentration
++ Suggestion - limited to 25 words; can't suggest anything that would damage the target's allies either
+
+Added spells
++ Arcane Vigor - Can roll 1 or 2 HD.
++ Dragon's Breath
++ Mind Spike
++ Summon Beast
+
+Considered changes
++ Spider Climb - Works like a personal gravity change
 -->
 
 ### Level 3
+
+#### Conjure Animals
++ **Effect:** You can summon one CR 2 beast, two CR 1 beasts, or **four CR 1/4 beasts**. (Lower CR is always an option.)  
++ **Effect:** Creatures act on your turn, immediately after you.
++ **Ruling:** Beasts are generally dumb. Each turn, you can issue a short one-sentence command to all summoned creatures or a command to one of them.
 
 #### Spirit Guardians
 + **Effect:**  You do not need to see a creature to designate it as unaffected. *(From 2024)*
 + **Effect:** Whenever a creature would take damage from this spell, you can add it to those creatures you've designated as unaffected by this spell. *(Generally how we play it at the table)*
 + **Effect:** **Does not halve creatures' speed** in the area.
++ *(I have a hard time remembering this effect in battle, and I think this spell is strong enough without it.)*
 
 <!--
-Conjure Animals - one CR 2, two CR1, or four CR 1/4 (or lower)
+Conjure Animals - 
 -->

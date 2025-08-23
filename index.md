@@ -32,10 +32,12 @@ The changes listed below are those significant enough to highlight up front. Ent
 
 ##### [Spells](Spells.md)
 
-+ Buffs available to several lesser-used cantrips and low level spells.
-+ **Spiritual Weapon** now requires concentration.
++ Buffs available to several cantrips and low level spells.
++ **Spiritual Weapon** now requires concentration (as per 2024).
++ **Conjure Animals** is limited to 4 animals.
 + **Spirit Guardians** does not slow creatures in its area.
-+ While not explicitly changed, my rulings on **Goodberry** are very strict.
++ While not explicitly changed, my rulings are strict for **Goodberry**. 
++ There are some minor implementation tweaks for **Mirror Image** and **Web**.
 
 ##### [Conditions](Conditions.md)
 
