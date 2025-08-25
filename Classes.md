@@ -92,6 +92,9 @@ As an **action**, you can expend a use of Channel Divinity to regain a **level 1
 + Additional Druid Spells (lvl 1) - Added to class spell list. *(As per 2024 too)*
 + Wild Companion (lvl 2) - But only for Circle of the Dreams, Land, and Stars. Summoned familiars are beasts with intelligence 5. May include the following additional creatures as options: almiraj/jackalope, awakened shrub (can't speak), badger, deer, eagle, fox, hare, jackal/coyote, vulture.  The creature's attack bonus can be replaced with DEX+2 (eg, cat).  This familiar can attack on its turn, but it deals a max of 2 base damage per hit (eg, almiraj, etc).
 
+##### Wild Shape (lvl 2)
+You may speak crudely in animal form if that form is capable of vocalizing.  *(From 2024, mostly)*
+
 ##### Circle: Land
 **Circle Spells (lvl 2):** When you complete a long rest in a natural setting, you can choose to swap the land of your Circle Spells to that of the terrain you rested in.  *(Slight buff to Land)*
 

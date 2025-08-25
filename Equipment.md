@@ -32,7 +32,7 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 ### Gear
 
 **Oil:** Instead of adding 5 points of fire damage to any fire-based attack on an oil-soaked creature, any spark or fire damage ignites the oil. Ignited oils burns for 2 rounds, either on a creature or in a square.  The burning oil deals 5 (1d10) damage at the start of an affected creature's turn, whether that creature is doused or standing in a burning square.  (See also: [Adventuring](Adventuring.md): Fire.)  
-*(Trying to standardize burning effects to the start of turn. Compare to alchemist's fire and 2024's Burning condition. Compared to alchemist's fire, oil burns out faster and is easier to extinguish, but it does more damage in the short term.)*
+*(Standardizing burning effects to the start of turn. Compare to alchemist's fire and 2024's Burning condition. It's possible to jump over/through a burning square, but you can't linger there. Compared to alchemist's fire, oil burns out faster and is easier to extinguish, but it does more damage in the short term.)*
 
 ##### Additional Gear
 

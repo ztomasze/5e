@@ -1,9 +1,46 @@
-**Strength(Athletics):** Whenever a spell allows a Strength check to break free of an restraining effect, you can apply any Athletics proficiency as you would against a grapple.  Sample spells:  Ensnaring Strike; Entangle; Web; Evard's Black Tentacles; etc  *(From 2024)*
+I will apply the General Rulings to all affected spells by default.  The spell-specific details are options you can adopt as desired.
 
+### General Rulings
 
+2024 experimented with standardizing certain mechanics, though it still doesn't always do it consistently. Running with that idea, I'd like to standardize the following effects.  Spells are the most common source of these, but items and abilities sometimes produce them too.
 
+(Affected spell lists focus on lower-level PHB spells and may not be complete yet.)
 
-You may choose to apply the changes given for each spell below.
+#### Attack augmentation spells
+This covers the 7 **Smite** spells (**Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite), as well as some of the ranger spells (**Ensnaring Strike**, **Hail of Thorns**).  Rather than needing to cast them beforehand as a bonus action and concentrate until you hit, you can immediately cast them as a bonus action on hit:
+
++ **Casting Time:** Can be cast as a bonus action in response to hitting with a weapon attack. 
++ **Duration:** Does not require Concentration. If the spell has a lingering effect, it lasts for up to the full duration (1 minute).
+
+**Smites:**  The smite spells only work as described with melee weapon attacks *(as per 2024)*. However, they can be cast as a bonus action when you make an attack with a ranged weapon, but the effect only takes place if the attack then hits its target.
+
+<!-- Ensnaring Strike might want to be Concentration so you can end it early. -->
+
+#### Breaking free of restraint
+Whenever a spell allows a Strength check to break free of an restraining effect, you can use **Strength(Athletics)** as you would against a grapple.  
+
+Affected spells:  **Ensnaring Strike**, **Entangle**, **Web**; **Evard's Black Tentacles**; etc 
+
+#### Recurring areas of effect
+For any area that causes repeated damage, save, or healing, the area should:
+
++ Trigger that damage or save as soon as it is cast
++ Trigger whenever a creature enters or is transported into the area
++ Trigger at the end of an affected creature's turn, if it has not yet triggered this turn
++ The area should only trigger once per turn
+
+Affected spells (those with a * already work with way in 2014): **Grease**\*; **Cloud of Daggers**, **Cordon of Arrows**\*, **Gust of Wind**, **Moonbeam** (on later turns, the beam only damages when it stops moving), **Web**; **Sleet Storm**, **Spirit Guardians**; **Control Water** (whirlpool), **Evard's Black Tentacles**, **Wall of Fire**\*; **Cloudkill**.  Also: **Healing Spirit**.
+
+#### Roll augmentation effects
+If an effect lets you modify a given roll, such as reroll it or add a bonus to it, you first get to know whether the roll succeeds or fails.  *(This both feels better and doesn't require someone to interrupt the roll fast enough to avoid learning the result of the roll.)*
+
+Example abilities: **Guidance**, **Resistance**; Bard's Bardic Inspiration, Cleric (War)'s Guiding Strike, etc.
+
+#### Summon Spells from TCE
+The *Summon X* spells from Tasha's are allowed with the changes:
++ **Duration:** Concentration, up to 1 minute.
++ **Effect:** You must spend a bonus action to (mentally) issue a command to the summoned creature
++ *(Like many things in Tasha's, I think these spells are a little too powerful.  The bonus action to command is on par with Unseen Servant, Animate Dead, or XGE's Tiny Servant)*
 
 ### Cantrips
 
@@ -12,7 +49,7 @@ You may choose to apply the changes given for each spell below.
 * **Effect:** (You can target other creatures.)
 
 #### Dancing Lights
-+ **Effect:** You can combine the 4 floating lights into single fist-sized torch-like source of bright light. 
++ **Effect:** You can combine the 4 floating lights into single fist-sized source of torch-like bright light. 
 
 #### Friends
 + **Range:** 10 ft
@@ -50,7 +87,7 @@ Lasts up to 1 hour.
 + (Blade Ward) - -1d4 damage from attack rolls on you
 + Chill Touch - Melee, d10, no undead effect
 + Guidance - Applies to a given skill for the duration, rather than a single ability check
-+ Poison Spray - 30'
++ Poison Spray - 30'; ranged attack instead of save; necromancy instead of conjuration
 + Produce Flame - twice as bright, twice as far (60' range); bonus to cast, action to use
 + Resistance - -1d4 damage of a given type, once per round, for 1 min
 + Shocking Grasp - (no more advantage for target being in metal armor)
@@ -66,7 +103,7 @@ New Cantrips
 
 Possible TCE changes
 + Thunderclap - d8?
-+ Toll the Dead - Only d10 ovsk injured
++ Toll the Dead - Only d10 on injured
 
 -->
 
@@ -106,16 +143,13 @@ Possible TCE changes
 + **Effect**: On a hit, the target is automatically poisoned (no save). On a miss, the target is poisoned if they fail a CON save. 
 + *(Dropping the save on hit is from 2024. Retaining the save part as a miss effect is to reduce save-or-suck.)*
 
+#### Searing Smite
++ **Effect:** At the start of each of the target's turns, take the 1d6 fire damage and then make the save to end the spell.
++ *(From 2024)*
+
 #### Shield of Faith
 + **Effect:** Does not require concentration when cast on yourself.  <!-- Minimal change: "When cast on yourself, you automatically succeed Constitution saves to maintain concentration on this spell when taking damage."  But weird versus everything else. -->
 + *(It feels lame to need to make a CON save every time you get hit to keep up a spell like this that grants you armor so you can wade into battle. However, this change shouldn't let you just spam it on everyone in the party.)*
-
-#### Smite spells
-*This covers the 7 Smite spells: **Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite.*  *(From 2024, plus ranged option)*
-
-+ **Casting Time:** Can be cast as a bonus action in response to hitting with a melee weapon attack. Alternatively, can be cast as a bonus action when you make an attack with a ranged weapon, but the effect only takes place if the attack hits its target.
-+ **Duration:** Does not require Concentration. If the smite has a lingering effect, it lasts for up to the full duration (1 minute).
-+ ***Searing Smite:*** At the start of each of the target's turns, take the 1d6 fire damage and then make the save to end the spell.
 
 #### Witch Bolt
 * **Range:** 60'
@@ -128,6 +162,8 @@ Possible TCE changes
 <!--
 2024 changes (beyond rewordings)
 + Animal Friendship - Don't need to hear; no INT limit
++ Armor of Agathys - bonus action to cast
++ Bless - requires a holy symbol worth 5+ gp
 + Chromatic orb - Includes a jump mechanic like chaos bolt
 + Color Spray - Switched to a CON save instead of "auto based on HP"
 + Command - Dropped restrictions: undead, can hear you, share a language, not directly harmful
@@ -135,13 +171,13 @@ Possible TCE changes
 + Cure Wounds - 1d8 -> 2d8
 + Dissonant Whisper - Dropped hearing requirement
 + (Divine Favor) - Does not require concentration
-+ Ensnaring Strike - Can cast on hit, rather than before the attack
++ (Ensnaring Strike) - Can cast on hit, rather than before the attack
 + Entangle - You are immune to the restraining effect of your own spell; can use Athletics to break free
 + False Life - 1d4 -> 2d4
 + Find Familiar - Dropped crab, poisonous snake, and fish, but more formally opened up to any CR 0 creature. Can see through its senses as a bonus action, and do not lose your own senses while doing so.
 + (GoodBerry) - Can consume as a bonus action
 + Grease - The grease is explicitly non-flammable. 
-+ Hail of Thorns  - Can cast on hit, rather than before the attack
++ (Hail of Thorns)  - Can cast on hit, rather than before the attack
 + Healing Word - 1d4 -> 2d4
 + Hunter's Mark - Extra damage is force damage
 + Inflict Wounds - melee attack for 3d10 -> 2d10, CON for half
@@ -168,16 +204,23 @@ Considered changes
 + *(From 2024)*
 
 #### Cloud of Daggers
-+ **Effect:** A creature takes damage when the cube enters its space for the first time on a turn, when the creature enters the cube for the first time on a turn, or when the creature ends its turn in the cube. As an action, you can move the cube 5 feet.
-+ *(From 2024, but with less repositioning)*
++ **Effect:** As an action, you can move the cube 5 feet.
++ *(From 2024, but less so)*
 
 #### Cordon of Arrows
 + **Effect:** Each arrow deals 2d4 damage.
 + *(From 2024)*
 
 #### Mirror Image
-+ **Effect:** Roll a d12 (instead of d20), as it is more easily divisible & memorable.  You are always the first target, then your images, so you are hit on a 1-3 with three images, 1-4 with two images, or 1-6 with one image.
-+ *(Personal reason: Braum)*
++ **Effect:** Instead of rolling a d20, roll a d8 with 3 images, d6 with 2 images, or d4 with 1 image. In all cases, you are hit on a 1 or 2, and an image is hit on any other result.
++ *(Easier to remember and implement at the table. Personal reason: Braum)*
+
+<!--
+choose one of these easier-to remember methods:
+	1. Roll a d12. You are always the first target, then your images, so you are hit on a 1-3 with three images, 1-4 with two images, or 1-6 with one image.
+	2. Roll a d4 with 3 image, d3 with 2 images, or d2 with 1 image.  You are hit on a 1; an image is hit on anything else.
+using a d8, d6, d4 uses real dice (handy when not playing virtually) which you could actually put on the table next to a figure
+-->
 
 #### Prayer of Healing
 + **Effect:** When choosing up to six targets, you can select a target more than once, up to six total applications. Each extra application to a target heals +1d8 (equivalent to casting at 1 level higher for that target).
@@ -195,11 +238,8 @@ Considered changes
 
 #### Spiritual Weapon
 + **Duration:** Concentration, up to 1 minute
-+ *(From 2024)*
-
-#### Web
-+ **Effect:** Creatures make a save versus being restrained when the spell is cast, when they first enter the area on a turn (voluntarily or not), and when they end their turn in the area.
-+ *(I've long seen creatures being fully unrestrained until their turn as a problem with this spell, since it can't grant attack advantage on targets or inhibit their OAs in the meantime.  2024 updates some spells like Gust of Wind and Moonbeam by moving saves from the start of turn to the end, so applying the same idea here for Web.)*
++ **Effect:** You can move the weapon to anywhere within range of you.
++ *(Concentration change from 2024; movement rate from long slogs to catch up)*
 
 <!--
 2024 changes (beyond rewordings)
@@ -207,6 +247,7 @@ Considered changes
 + Animal Messenger - animal gets a save; CR0 is relevant
 + (Barkskin) - bonus action; no concentration; AC17
 + Beast Sense - You don't lose your own senses
++ Blindness/Deafness - 120' range
 + Branding Smite - Renamed to Shining Smite
 + (Cloud of Daggers) - You can teleport the cube up to 30 feet as an action. A creature takes damage (up to once per turn) if it enters the cube, the cube enters its space, or if it ends its turn in the cube.
 + (Cordon of Arrows - Deals 2d4 (instead of 1d6) damage
@@ -214,7 +255,7 @@ Considered changes
 + Detect Thoughts - (significantly cleaned up); creature saves rather than contests to end your probing
 + Enhance Ability - dropped CON buff; only get advantage on checks with no other riders; you can choose a different effect for each additional creature
 + Enthrall - -10 to Perception (rather than just disadv)
-+ Find Steed - Provides a stat block; when recasting, you can choose to summon the same or a different mount
++ Find Steed - only an action to cast; Provides a stat block (with three 1/day ability: fear, misty step, heal); when recasting, you can choose to summon the same or a different mount
 + Gust of Wind - A creature saves if it ends it turn (rather than starts)
 + Hold Person - extra targets don't need to be near each other
 + Invisibility - spell also ends if you deal damage
@@ -240,17 +281,70 @@ Considered changes
 
 ### Level 3
 
+#### Aura of Vitality
++ **Effect:** Instead of requiring a bonus action, you can heal when you cast the spell and once at the start of each of your turns.
++ *(From 2024)*
+
 #### Conjure Animals
-+ **Effect:** You can summon one CR 2 beast, two CR 1 beasts, or **four CR 1/4 beasts**. (Lower CR is always an option.)  
-+ **Effect:** Creatures act on your turn, immediately after you.
-+ **Ruling:** Beasts are generally dumb. Each turn, you can issue a short one-sentence command to all summoned creatures or a command to one of them.
++ **Effect:** The conjured beasts act on your initiative, immediately after you.  *(To keep initiative simple and speed play)*
++ **Ruling:** All summoned beasts should be of the same type.  *(To speed play.)*
++ **Ruling:** When summoning more than one beast, successive beasts must appear in unoccupied spaces as close as possible to the first one you placed.  *(Reduces strategic optimization of large groups.)*
++ **Ruling:** The conjured beasts deal expected damage (skip any poison saves and just deal 3/4 that damage); just roll to hit. The DM may use mob rules with large packs.  *(To speed play)*
++ **Ruling:** Your verbal commands each turn must be limited to a single short sentence, such as "Attack that creature", "Defend me", "Carry us", or "Guard this hallway." You issue commands to the pack as a whole, rather than to individual creatures.  For example, if a large pack downs a designated target, any remaining attacks may be wasted that turn until you can assign them another target. With the exception of giant eagles, most beasts are not very smart. The DM is the final arbitrator of how the conjured animals interpret your commands.  *(You cannot easily optimize a large pack's movement and target selection.)*
++ **Ruling:** You are initially limited to summoning beasts that appear in Appendix D of the PHB (plus a few CR 2 creatures provided below).  Other beasts might be added to your roster through play.
+
+| CR  | Beasts                                                        |
+| --- | ------------------------------------------------------------- |
+| 0   | bat, cat, frog, hawk, owl, rat, raven                         |
+| 1/8 | mastiff, mule, poisonous snake                                |
+| 1/4 | boar, constrictor snake, panther, riding horse, wolf          |
+| 1/2 | black bear, crocodile, reef shark, warhorse                   |
+| 1   | brown bear, dire wolf, giant eagle, giant spider, lion, tiger |
+| 2   | (cave bear, giant constrictor snake, hunter shark)            |
+
+#### Conjure Barrage
++ **Effect:** Deals 5d8 force damage.
++ *(From 2024)*
+
+#### Daylight
++ **Effect:**  If cast using a spell slot of 5th level or higher, the light counts as sunlight.
++ *(From 2024, but less so)*
 
 #### Spirit Guardians
-+ **Effect:**  You do not need to see a creature to designate it as unaffected. *(From 2024)*
++ **Effect:**  You do not need to currently see a creature to designate it as unaffected. *(From 2024)*
 + **Effect:** Whenever a creature would take damage from this spell, you can add it to those creatures you've designated as unaffected by this spell. *(Generally how we play it at the table)*
-+ **Effect:** **Does not halve creatures' speed** in the area.
-+ *(I have a hard time remembering this effect in battle, and I think this spell is strong enough without it.)*
 
 <!--
-Conjure Animals - 
+Would really like to drop the movement reduction, or at least convert it to difficult terrain, because this spell is so strong, but...
+-->
+
+<!--
+2024 changes (beyond rewordings)
++ (Aura of vitality) - instead of requiring a bonus action, you can heal when you cast the spell and at the start of each of your turns.
++ Blink - switched to rolling a d6 instead of a d20
++ Clairvoyance - You can switch between seeing and hearing as a bonus action
++ Conjure Animals - only 10 minutes; creates a Large pack that deals damage 3d10 to creatures within 10 feet, DEX negates
++ (Conjure Barrage) - upgraded to 5d8 Force, instead of 3d8 normal.
++ Counterspell - Clarifies that the spell needs VSM to be seen; spell level doesn't matter; target makes a CON save to cast; if casting with a spell slot, it's not used
++ Daylight - creates sunlight!
++ Gaseous Cloud - The target can spend an action to end the spell; can target an additional creature per spell level.
++ Lightning Arrow - Can be cast as a bonus action on hitting or missing with an attack (which means you know whether you hit before casting it)
++ Mass Healing Word - 1d4 -> 2d4
++ Sending - can send to someone who is described to you by someone who met them; a creature can block you for 8 hours
++ Slow - instead of a 50% chance of taking 2 turns to cast a spell, there's a 25% chance of failing to cast any spell with a S component
++ Sleet Storm - 20' radius, 40' tall (instead of 40' radius, 20' tall)
++ Spirit Guardians - Damages when first entered on a turn, when it enters a creatures space, or at the end of their turn.
++ Stinking Cloud - gain Poisoned and can't perform neither actions nor bonus actions (but there's a general 2014 rule that no action means no bonus action?)
++ Tongues - now includes sign language
++ Water Walk - dropped that this carries a creature in liquid to the surface; added that a target can spend a bonus action to cross the surface of the liquid, and falling automatically passes through.
++ Wind Wall - Deals 4d8 damage
+
+Added spells
++ Summon Fey
++ Summon Undead
+
+Considered changes
++ Bestow curse - still kinda sucks IMO
++ Lightning Bolt - something 
+
 -->
