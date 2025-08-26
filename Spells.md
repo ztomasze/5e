@@ -9,10 +9,11 @@ The spell-specific details that follow that are all **options** you can adopt as
 (Affected spell lists focus on lower-level PHB spells and may not be complete yet.)
 
 #### Attack augmentation spells
-This covers the 7 **Smite** spells (**Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite), as well as some of the ranger spells (**Ensnaring Strike**, **Hail of Thorns**).  Rather than needing to cast them beforehand as a bonus action and concentrate until you hit, you can immediately cast them as a bonus action on hit:
+This covers the 7 **Smite** spells (**Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite), as well as some of the ranger spells (**Ensnaring Strike**, **Hail of Thorns**, **Lightning Arrow**).  Rather than needing to cast them beforehand as a bonus action and concentrate until you hit, you can immediately cast them as a bonus action on hit:
 
 + **Casting Time:** Can be cast as a bonus action in response to hitting with a weapon attack. 
 + **Duration:** Does not require Concentration. If the spell has a lingering effect, it lasts for up to the full duration (1 minute).
++ **Higher Level:** All can be cast at higher level to deal one additional die of damage (Thunderous Smite, Wrathful Smite, Blinding Smite, Staggering Smite)
 
 **Smites:**  The smite spells only work as described with melee weapon attacks *(as per 2024)*. However, they can be cast as a bonus action when you make an attack with a ranged weapon, but the effect only takes place if the attack then hits its target.
 
@@ -93,7 +94,9 @@ Lasts up to 1 hour.
 + Produce Flame - twice as bright, twice as far (60' range); bonus to cast, action to use
 + Resistance - -1d4 damage of a given type, once per round, for 1 min
 + Shocking Grasp - (no more advantage for target being in metal armor)
++ Thaumaturgy - booming voice grants advantage to Intimidate checks
 + (True Strike) - Weapon uses spellcasting ability mod and can deal radiant damage instead
++ Vicious Mockery - d4 -> d6
 
 New Cantrips
 + Elementalism - minor effects
@@ -173,7 +176,7 @@ Possible TCE changes
 + Bless - requires a holy symbol worth 5+ gp
 + Chromatic orb - Includes a jump mechanic like chaos bolt
 + Color Spray - Switched to a CON save instead of "auto based on HP"
-+ Command - Dropped restrictions: undead, can hear you, share a language, not directly harmful
++ Command - Dropped restrictions: undead, can hear you, share a language, not directly harmful; set command list
 + (Compelled Duel) - Target doesn't get to make WIS saves to move away; just can't.
 + Cure Wounds - 1d8 -> 2d8
 + Dissonant Whisper - Dropped hearing requirement
@@ -191,8 +194,10 @@ Possible TCE changes
 + (Jump) - Bonus action; can jump 30 feet with 10 feet of move once on each of its turns
 + Protection from Evil - Consumes a full flask of holy water each time (25 gp)
 + (Ray of Sickness) - Dropped CON save vs the the poisoned effect
++ Sanctuary - worse: only protects from damaging (not harmful) spells and ends if cast any spell (rather than just one that affects an enemy)
 + (Searing Smite) - Can cast on hit; no concentration. At the start of each turn, take the damage and then make the save to send the spell.
 + Sleep - 5' radius sphere.  WIS save or Incapacitated till end of its next turn; Then save again or Unconscious. Those immune to exhaustion (not charm) are unaffected.
++ Speak with Animals - can Influence, which means you get to use an CHA skill if the creature understands you
 
 Added spells
 + Ice Knife
@@ -219,6 +224,7 @@ Considered changes
 + *(From 2024)*
 
 #### Magic Weapon
++ **Casting time:** Bonus action
 + **Duration:** 1 hour (does not require concentration). The spell ends early if you cast it again.
 + *(From 2024)*
 
@@ -250,7 +256,8 @@ using a d8, d6, d4 uses real dice (handy when not playing virtually) which you c
 #### Spiritual Weapon
 + **Duration:** Concentration, up to 1 minute
 + **Effect:** You can move the weapon to anywhere within range of you.
-+ *(Concentration change from 2024; movement rate improved after many long slogs waiting for one to catch up)*
++ **Higher level:** Damage increases by 1d8 every one (rather than two) levels
++ *(Concentration and level changes from 2024; movement rate improved after many long slogs waiting for one to catch up)*
 
 <!--
 2024 changes (beyond rewordings)
@@ -262,23 +269,26 @@ using a d8, d6, d4 uses real dice (handy when not playing virtually) which you c
 + Branding Smite - Renamed to Shining Smite
 + (Cloud of Daggers) - You can teleport the cube up to 30 feet as an action. A creature takes damage (up to once per turn) if it enters the cube, the cube enters its space, or if it ends its turn in the cube.
 + (Cordon of Arrows - Deals 2d4 (instead of 1d6) damage
++ Darkness - can't target a worn object; emanation around the object
 + Darkvision - Grands 150' darkvision
 + Detect Thoughts - (significantly cleaned up); creature saves rather than contests to end your probing
 + Enhance Ability - dropped CON buff; only get advantage on checks with no other riders; you can choose a different effect for each additional creature
-+ Enthrall - -10 to Perception (rather than just disadv)
++ Enthrall - auto succeeds the save if you are fighting it; -10 to Perception (rather than just disadv)
 + Find Steed - only an action to cast; Provides a stat block (with three 1/day ability: fear, misty step, heal); when recasting, you can choose to summon the same or a different mount
++ Flame Blade - Adds your spellcasting mod to damage
 + Gust of Wind - A creature saves if it ends it turn (rather than starts)
 + Hold Person - extra targets don't need to be near each other
 + Invisibility - spell also ends if you deal damage
 + Lesser Restoration - bonus action.  Doesn't cure disease.
++ (Magic Weapons) - bonus action, no concentration
 + Mirror Image - Roll when you are hit (rather than determining what is hit first); then roll a d6 for each image and an image is hit of 3+ is rolled on at least one of them.
 + Moonbeam - Reverts any shapeshifted creature, including polymorph, etc.  Makes the save (only once per turn) when the area moves into its space, it enters the area, or it ends it turn there.
 + Phantasmal Force - Deals 2d8 (instead of 1d6) damage
 + Prayer of Healing - 5 creatures; also grants a short rest (once per long rest)
 + (Ray of Enfeeblement) - CON save instead of ranged attack; on fail, still gets disadvantage on its next attack; on a success, disadvantage on all STR tests and -1d8 from all damage rolls.
 + Shatter - Clarified that any construct has disadvantage
-+ (Spiritual Weapon) - concentration
-+ Suggestion - limited to 25 words; can't suggest anything that would damage the target's allies either
++ (Spiritual Weapon) - concentration; improves faster at higher levels
++ Suggestion - limited to 25 words; can't suggest anything that would damage the target's allies either; is considered charmed for the duration
 
 Added spells
 + Arcane Vigor - Can roll 1 or 2 HD.
@@ -338,17 +348,21 @@ Would really like to drop the movement reduction, or at least convert it to diff
 + (Conjure Barrage) - upgraded to 5d8 Force, instead of 3d8 normal.
 + Counterspell - Clarifies that the spell needs VSM to be seen; spell level doesn't matter; target makes a CON save to cast; if casting with a spell slot, it's not used
 + Daylight - creates sunlight!
-+ Gaseous Cloud - The target can spend an action to end the spell; can target an additional creature per spell level.
++ Fireball - no longer spreads around corners
++ Gaseous Form- The target can spend an action to end the spell; can target an additional creature per spell level.
++ Haste - end of spell effect is much worse (incapacitated, speed 0)
 + Lightning Arrow - Can be cast as a bonus action on hitting or missing with an attack (which means you know whether you hit before casting it)
++ Major Image - permanent version is lvl 4 rather than 6
 + Mass Healing Word - 1d4 -> 2d4
 + Sending - can send to someone who is described to you by someone who met them; a creature can block you for 8 hours
 + Slow - instead of a 50% chance of taking 2 turns to cast a spell, there's a 25% chance of failing to cast any spell with a S component
 + Sleet Storm - 20' radius, 40' tall (instead of 40' radius, 20' tall)
++ Speak with Plants - drooped explicit suggestion that you might be able to convince them to help you, including entangle plants releasing a restrained creature
 + Spirit Guardians - Damages when first entered on a turn, when it enters a creatures space, or at the end of their turn.
-+ Stinking Cloud - gain Poisoned and can't perform neither actions nor bonus actions (but there's a general 2014 rule that no action means no bonus action?)
++ Stinking Cloud - gain Poisoned and can't perform neither actions nor bonus actions (but there's a general 2014 rule that no action means no bonus action?); immediately disperses in strong wind
 + Tongues - now includes sign language
 + Water Walk - dropped that this carries a creature in liquid to the surface; added that a target can spend a bonus action to cross the surface of the liquid, and falling automatically passes through.
-+ Wind Wall - Deals 4d8 damage
++ Wind Wall - Deals 3d8 -> 4d8 damage
 
 Added spells
 + Summon Fey
@@ -358,4 +372,58 @@ Considered changes
 + Bestow curse - still kinda sucks IMO
 + Lightning Bolt - something 
 
+-->
+
+<!--
+For future review:
+
+4
+Aura of Purity
+Banishment
+Compulsion
+Confusion
+Conjure Minor Elementals
+Conjure Woodland Beings
+Giant Insect
+Grasping Vine
+Ice Storm
+Locate Creature
+Phantasmal Killer
+Polymorph
+Staggering Smite
+Stoneskin
+
+5
+Animate Objects
+Antilife Shell
+Banishing Smite
+Conjure Elemental
+Conjure Volley
+Contact Other Plane
+Contagion
+Dispel Evil and Good
+Dream
+Flame Strike
+Legend Lore
+Mass Cure Wounds
+Mislead
+Reincarnate
+Seeming
+Telekinesis
+Teleportation Circle
+
+6
+Circle of Death
+Conjure Fey
+Eyebite
+Flesh to Stone
+Magic Jar
+Mass Suggestion
+Move Earth
+Planar Ally
+True Seeing
+Wind Walk
+Word of Recall
+
+I've never DMed above ~lvl 9
 -->
