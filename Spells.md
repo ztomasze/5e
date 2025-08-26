@@ -30,7 +30,7 @@ For any area that causes repeated damage, save, or healing, the area should:
 + Trigger that damage or save as soon as it is cast
 + Trigger whenever a creature enters or is transported into the area
 + Trigger at the end of an affected creature's turn, if it has not yet triggered this turn
-+ The area should only trigger once per turn
++ The area should only trigger for a given creature once per turn
 
 Affected spells (those with a * already work with way in 2014): **Grease**\*; **Cloud of Daggers**, **Cordon of Arrows**\*, **Gust of Wind**, **Moonbeam** (on later turns, the beam only damages when it stops moving), **Web**; **Sleet Storm**, **Spirit Guardians**; **Control Water** (whirlpool), **Evard's Black Tentacles**, **Wall of Fire**\*; **Cloudkill**.  Also: **Healing Spirit**.
 
@@ -40,7 +40,7 @@ If an effect lets you modify a given roll, such as reroll it or add a bonus to i
 Example abilities: **Guidance**, **Resistance**; Bard's Bardic Inspiration, Bard (Lore)'s Cutting Words, Cleric (War)'s Guiding Strike, etc.
 
 #### Summon Spells from TCE
-The *Summon X* spells from Tasha's are allowed with the changes:
+The *Summon X* spells from Tasha's are allowed with these changes:
 + **Duration:** Concentration, up to 1 minute.
 + **Effect:** You must spend a bonus action to (mentally) issue a command to the summoned creature
 + *(Like many things in Tasha's, I think these spells are a little too powerful.  The bonus action to command is on par with Unseen Servant, Animate Dead, or XGE's Tiny Servant)*
@@ -68,15 +68,16 @@ Guidance, Resistance
 Lasts up to 1 hour.
 -->
 #### Magic Stone
-+ **Effect:** The damage die increases when you reach levels 5 (d8), 11 (d10), and 17 (d12). 
++ **Higher level:** The damage die increases when you reach levels 5 (d8), 11 (d10), and 17 (d12). 
 + *(From 2024's Shillelagh)*
 
 #### Shillelagh
-+ **Effect:** The damage die increases when you reach levels 5 (d10), 11 (d12), and 17 (2d6). 
++ **Higher level:** The damage die increases when you reach levels 5 (d10), 11 (d12), and 17 (2d6). 
 + *(From 2024)*
 
 #### Spare the Dying
-+ **Range:** 15 feet. This range increases with spell level: 30' at level 5, 60' at level 11, and 120' at level 17.  
++ **Range:** 15 feet. 
++ **Higher level:** The range increases with spell level: 30' at level 5, 60' at level 11, and 120' at level 17.  
 + *(From 2024; needed a buff to compete with healer's kit)*  <!-- consider: as bonus action? -->
 
 #### True Strike
@@ -136,7 +137,7 @@ Possible TCE changes
 #### Jump
 + **Casting time:** Bonus action
 + **Effect:** You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
-+ **Higher spell slot:** You can target one additional creature for each spell slot level above 1.
++ **Higher level:** You can target one additional creature for each spell slot level above 1.
 + *(From 2024 - faster, simpler, stronger, and scales with level)*
 
 #### Mage Armor
@@ -310,7 +311,7 @@ Considered changes
 + **Effect:** The conjured beasts act on your initiative, immediately after you.  *(To keep initiative simple and speed play)*
 + **Ruling:** All summoned beasts should be of the same type.  *(To speed play.)*
 + **Ruling:** When summoning more than one beast, successive beasts must appear in unoccupied spaces as close as possible to the first one you placed.  *(Reduces strategic optimization of large groups.)*
-+ **Ruling:** The conjured beasts deal expected damage (skip any poison saves and just deal 3/4 that damage); just roll to hit. The DM may use mob rules with large packs.  *(To speed play)*
++ **Ruling:** The conjured beasts deal expected damage (skip any poison saves and just deal 3/4 that damage), so you only need to roll to hit. The DM may use mob rules with large packs.  *(To speed play)*
 + **Ruling:** Your verbal commands each turn must be limited to a single short sentence, such as "Attack that creature", "Defend me", "Carry us", or "Guard this hallway." You issue commands to the pack as a whole, rather than to individual creatures.  For example, if a large pack downs a designated target, any remaining attacks may be wasted that turn until you can assign them another target. With the exception of giant eagles, most beasts are not very smart. The DM is the final arbitrator of how the conjured animals interpret your commands.  *(You cannot easily optimize a large pack's movement and target selection.)*
 + **Ruling:** You are initially limited to summoning beasts that appear in Appendix D of the PHB (plus a few CR 2 creatures provided below).  Other beasts might be added to your roster through play.
 
