@@ -1,3 +1,5 @@
+
+<!--
 ## Movement
 #### Travel Pace
 
@@ -14,8 +16,9 @@ Remember that adv/disadv means +5/-5 to passive Perception.
 #### Activities while Traveling
 
 If you are traveling at a normal or slower pace, you can take disadvantage on Perception to perform an extra task, such as track, forage, navigate, draw a map, etc.  At a fast pace, you're also at disadvantage to any task rolls.
-
+-->
 ## Environment
+
 <!--2024's Dehydration / Malnutrition rules kept the same requirements as PHB + DMG p.111, but tweaked the rules on how you gain exhaustion levels.  The change is not really any clearer IMO.-->
 
 #### Burning
