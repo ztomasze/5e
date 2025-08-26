@@ -34,7 +34,7 @@ Affected spells (those with a * already work with way in 2014): **Grease**\*; **
 #### Roll augmentation effects
 If an effect lets you modify a given roll, such as reroll it or add a bonus to it, you first get to know whether the roll succeeds or fails.  *(This both feels better and doesn't require someone to interrupt the roll fast enough to avoid learning the result of the roll.)*
 
-Example abilities: **Guidance**, **Resistance**; Bard's Bardic Inspiration, Cleric (War)'s Guiding Strike, etc.
+Example abilities: **Guidance**, **Resistance**; Bard's Bardic Inspiration, Bard (Lore)'s Cutting Words, Cleric (War)'s Guiding Strike, etc.
 
 #### Summon Spells from TCE
 The *Summon X* spells from Tasha's are allowed with the changes:
@@ -148,8 +148,13 @@ Possible TCE changes
 + *(From 2024)*
 
 #### Shield of Faith
-+ **Effect:** Does not require concentration when cast on yourself.  <!-- Minimal change: "When cast on yourself, you automatically succeed Constitution saves to maintain concentration on this spell when taking damage."  But weird versus everything else. -->
++ **Duration:** 10 minutes (does not require concentration). The spell ends early if you cast it again.
 + *(It feels lame to need to make a CON save every time you get hit to keep up a spell like this that grants you armor so you can wade into battle. However, this change shouldn't let you just spam it on everyone in the party.)*
+
+<!-- Alternatives:
++ Does not require concentration when cast on yourself.  (Again, no real precedent for this)
++ "When cast on yourself, you automatically succeed Constitution saves to maintain concentration on this spell when taking damage."  (Minimal change, but weird) 
+-->
 
 #### Witch Bolt
 * **Range:** 60'
@@ -209,6 +214,10 @@ Considered changes
 
 #### Cordon of Arrows
 + **Effect:** Each arrow deals 2d4 damage.
++ *(From 2024)*
+
+#### Magic Weapon
++ **Duration:** 1 hour (does not require concentration). The spell ends early if you cast it again.
 + *(From 2024)*
 
 #### Mirror Image

@@ -4,13 +4,16 @@
 ##### Allowed TCE Options
 
 + Primal Knowledge (lvl 3)
-+ Instinctive Pounce (lvl 7)
++ Instinctive Pounce (lvl 7) - Can also be used as part of a bonus action to extend your rage.
 
-##### Rage
+##### Rage (lvl 1)
 * You can rage for up to 10 minutes. 
 * You can spend a bonus action to extend your rage if you have not attacked a hostile creature or taken damage since your last turn. 
 * You recover 1 rage with a short rest and all of them with a long rest.
 * *(Additions/changes from 2024)*
+
+##### Brutal Critical (lvl 9)
+In addition, when you use Reckless Attack, you can forgo the granted advantage on an attack to instead deal your additional Brutal Critical damage if you hit with that attack.  *(Inspired by 2024's new Brutal Strike)*
 
 ##### Path: Berserker
 **Frenzy (lvl 3):** When you enter a frenzied rage, you can choose to suffer the effects of Reckless Attack for the duration of that rage. If you do so, you do not suffer exhaustion at the end of the rage. *(Inspired by 2024, but keeping the original Frenzy benefit)*
@@ -27,8 +30,11 @@
 
 + Additional Bard Spells (lvl 1) - Added to class spell list. *(As per 2024 too)*
 
-##### Bardic Inspiration
+##### Bardic Inspiration (lvl 1)
 You can decide to apply a Bardic Inspiration die to a roll after learning whether the initial roll succeeds or fails. *(From 2024)*
+
+##### Countercharm (lvl 6)
+Can be performed as a bonus action.  *(Inspired by 2024)*
 
 
 ### Cleric
@@ -40,6 +46,9 @@ You can decide to apply a Bardic Inspiration die to a roll after learning whethe
 
 ##### Harness Divine Power (lvl 2)
 As an **action**, you can expend a use of Channel Divinity to regain a **level 1 spell slot**. You can do this once per long rest at level 2, twice per long rest at level 6, and three times per long rest at level 18. *(From TCE, but slower to use and the spell level doesn't scale)*
+
+##### Divine Intervention (lvl 10)
+If you choose any Cleric spell of level 5 or lower that doesn't require a reaction to cast, you can automatically cast that spell (no percentile check required) without expending a spell slot or needing material components. This counts as receiving divine intervention.  *(From 2024, but retaining week rather than long-rest recovery.)*
 
 ##### Domain: Arcana
 **Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps: 
@@ -59,18 +68,38 @@ As an **action**, you can expend a use of Channel Divinity to regain a **level 1
 **Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps:
 
 1. *bless* for *heroism*; *cure wounds* for *healing word*
-2. *spiritual weapon* for *prayer of healing*
-3. *revivify* for *aura of vitality*
+2. *spiritual weapon* for *aid* or *prayer of healing*
+3. *beacon of hope* for *mass healing word*; *revivify* for *aura of vitality*
 4. *guardian of faith* for either *aura of life* or *aura of purity*
 5. *raise dead* for *greater restoration*
 
+##### Domain: Light
+**Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps:
+
+1. ...
+2. *flaming sphere* for *see invisibility*
+3. ...
+4. *guardian of faith* for *arcane eye*
+5. ...
 ##### Domain: Nature
 **Acolyte of Nature (lvl 1):** In addition, you may choose all of your cantrips from either the Cleric or Druid spell list.
 
 **Bonus Proficiency (lvl 1):** You may trade proficiency with heavy armor for a second skill proficiency choice from those provided by Acolyte of Nature.
 
 ##### Domain: Trickery
-**Blessing of the Trickster (lvl 1):** You can target yourself. *(From 2024)*
+**Blessing of the Trickster (lvl 1):** You can target yourself or any willing creature in 30 feet. *(From 2024)*
+
+**Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps:
+
+1. ...
+2. *mirror image* for *invisibility*
+3. *blink* for *hypnotic pattern*; *dispel magic* for *nondetection*
+4. *polymorph* for *confusion*
+5. ...
+
+**Cloak of Shadows (lvl 6):** You may replace this with:
+
++ *Trickster's Transposition (lvl 6)*: Whenever you take the bonus action to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
 
 ##### Domain: Twilight
 **Eyes of Night (lvl 1):** You receive **darkvision only to the normal 60' range**.
@@ -78,25 +107,42 @@ As an **action**, you can expend a use of Channel Divinity to regain a **level 1
 **Twilight Sanctuary (lvl 2):** A creature **receives temporary hit points only once** per use of this ability, immediately at the time the sanctuary appears. *(Personal reason: "Fortuna")*
 
 ##### Domain: War
-**War Priest (lvl 1):** You do not need to take the Attack action to use this feature. *(From 2024)*
+**War Priest (lvl 1):** You do not need to take the Attack action to use this feature (to make a bonus action attack). *(From 2024)*
 
-**Channel Divinity: Guided Strike (lvl 2):** Alternatively, you can give this benefit to a creature within 30 feet of you if you also use your reaction.  *(From 2024; basically, you can also use 2014's  War God's Blessing here too.)*
+**Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps:
+
+1. *divine favor* for *guiding bolt*
+2. ...
+3. ...
+4. *stoneskin* for *fire shield*
+5. *flame strike* for *steel wind strike (XGE)*
+
+**Channel Divinity: Guided Strike (lvl 2):** Alternatively, you can give this benefit to a creature within 30 feet of you as a reaction.  *(From 2024; basically, you can also use 2014's  War God's Blessing here too.)*
 
 **War God's Blessing (lvl 6):** Replace with:
 + You can expend a use of your Channel Divinity to cast *shield of faith* or *spiritual weapon* without expending a spell slot.  When you cast the spell this way, it does not require Concentration. The spell lasts for its full duration, but it ends early if you cast the spell again, are incapacitated, or die. *(From 2024)*
-
 
 ### Druid
 ##### Allowed TCE Options
 
 + Additional Druid Spells (lvl 1) - Added to class spell list. *(As per 2024 too)*
-+ Wild Companion (lvl 2) - But only for Circle of the Dreams, Land, and Stars. Summoned familiars are beasts with intelligence 5. May include the following additional creatures as options: almiraj/jackalope, awakened shrub (can't speak), badger, deer, eagle, fox, hare, jackal/coyote, vulture.  The creature's attack bonus can be replaced with DEX+2 (eg, cat).  This familiar can attack on its turn, but it deals a max of 2 base damage per hit (eg, almiraj, etc).
++ Wild Companion (lvl 2) - But only for Circle of the Dreams, Land, or Stars. Summoned familiars are beasts with intelligence 5. May include the following additional creatures as options: almiraj/jackalope, awakened shrub (can't speak), badger, deer, eagle, fox, hare, jackal/coyote, vulture.  The creature's attack bonus can be replaced with DEX+2 (eg, cat).  A wild companion familiar can attack on its turn, but it deals a max of 2 base damage per hit (eg, almiraj, etc).
+
+##### Druidic (lvl 1)
+You also always have the *Speak with Animals* spell prepared.  *(From 2024)*
 
 ##### Wild Shape (lvl 2)
-You may speak crudely in animal form if that form is capable of vocalizing.  *(From 2024, mostly)*
+You may speak crudely in wild shape if that beast form is capable of vocalizing.  *(From 2024, mostly)*  
+<!-- While it's sometimes entertaining to do the charades, most of the time its annoying not to be able to communicate with the rest of your party.  Can still do the pantomiming as a fish or spider, for example. -->
+
+##### Wild Resurgence (+lvl 5)
+Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).  In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a long rest. *(From 2024)*
 
 ##### Circle: Land
-**Circle Spells (lvl 2):** When you complete a long rest in a natural setting, you can choose to swap the land of your Circle Spells to that of the terrain you rested in.  *(Slight buff to Land)*
+**Circle Spells (lvl 2):** When you complete a long rest in a natural setting, you can choose to swap the land of your Circle Spells to that of the terrain you rested in.  *(Inspired by 2024)*
+
+##### Circle: Moon
+**Primal Strike (lvl 6):** In addition, your beast form has a minimum AC of 13 + WIS.  *(Inspired by 2024)*  <!-- Circle of Moon starts to lag a bit here, so this is a nice bump from 2024's lvl 3-->
 
 ##### Circle: Wildfire
 **Summon Wildfire Spirit (lvl 2):** The Wildfire Spirit **does not have the Fiery Teleportation** feature.  *(Personal reason: "Fortuna")*
@@ -109,12 +155,18 @@ You may speak crudely in animal form if that form is capable of vocalizing.  *(F
 + Additional Fighting Style Options (lvl 1)
 + Additional Maneuver options
 
-##### Archetype: Champion
+<!-- Don't really need with custom background option:
+##### Skills (lvl 1)
+Add Persuasion to the Fighter skill list. *(From 2024)*
+-->
+##### Indomitable (lvl 9)
+You can add your fighter level to the rerolled saving throw.  *(From 2024)*
 
-**Improved Second Wind (+lvl 3):** When you use your Second Wind, you regain additional hit points equal to your CON modifier (min: 0).
+##### Archetype: Champion
+**Improved Second Wind (+lvl 3):** You can use your Second Wind feature twice per long rest. You still regain one use per short rest.  *(Inspired by 2024)*  <!-- This is my original idea was +CON (min 1), but may as well borrow this general fighter mechanic from 2024 instead. -->
 
 **Remarkable Athlete (lvl 7):** Replace with:
-* You gain proficiency with Athletics. If you already have proficiency, gain expertise instead.  If you already have expertise, gain advantage instead.
+* You gain proficiency with Athletics. If you already have proficiency, gain expertise instead.  If you already have expertise, gain advantage instead.  <!--Clunky, but want to make sure this gives you something regardless of your prior race or multiclassing choices.-->
 * Immediately after you use your Second Wind or score a critical hit, you can move up to half your speed without provoking opportunity attacks.
 * *(Inspired by 2024)*
 
@@ -124,8 +176,18 @@ You may speak crudely in animal form if that form is capable of vocalizing.  *(F
 ##### Allowed TCE Options
 
 + Dedicated Weapon (lvl 2)
-+ Ki-Fueled Attack (lvl 3)
-+ Quickened Healing (lvl 4)
+
+<!--
+TCE
++ Ki-Fueled Attack (lvl 3) - With 2024's option to do martial arts as any bonus, this is unnecessary
++ Quickened Healing (lvl 4) - Steps on the toes of Open Hand's lvl 6 ability
+
+2024
++ Improved martial arts die by one step - But I think there's enough other improvements
++ Deflect Missles > Deflect Attacks
+-->
+##### Martial Arts (lvl 1)
+You can also use Dexterity in place of Strength when making an Athletics check. *(Inspired by 2024)*  <!-- originally only shove or grapple in 2024, but seems it should apply slipping out restraints, swimming, climbing, etc -->
 
 ##### Ki (lvl 2)
 + You can take the Dash or Disengage action as a bonus action without spending ki.
@@ -133,12 +195,31 @@ You may speak crudely in animal form if that form is capable of vocalizing.  *(F
 + **Step of the Wind (1 ki):** You can take both the Dash and Disengage action as a single bonus action and your jump distance is doubled for the turn.
 + *(From 2024)*
 
+<!--
 ##### Deflect Missiles (lvl 3)
 Rename to **Deflect Attacks**. You can also deflect melee weapon attacks. If you reduce the damage to 0 and pay 1 ki to redirect a melee weapon attack, you must target another creature within 5' of you. For either a ranged or melee attack, resolve the redirected attack as if for a martial arts (unarmed or equivalent monk weapon) attack.  *(From 2024, mostly)*
+
+Hmm... This is really strong to be able to deflect an attack every single round.  Will hold on this for now.  I like some of the other changes to flurry of blows, etc. better.
+-->
 
 ##### Stunning Strike (lvl 5)
 If the target succeeds its CON save, it still suffers an effect: Its speed is halved and it cannot take reactions until the end of your next turn. *(Inspired by 2024)*
 
+##### Ki-Empowered Strikes (lvl 6)
+In addition, you can now perform an unarmed strike (from Martial Arts) or a Flurry of Blows (from Ki) as a bonus action regardless of how you use your primary action. *(From 2024, but delayed)*
+
+##### Uncanny Metabolism (+lvl 10)
+When you roll initiative, you can regain all your expended ki.  In addition, you heal a number of hit points equal to one roll of your Martial Arts die + your Monk level. You can use this feature once per long rest. *(From 2024, delayed)*
+
+##### Way: Drunken Master
+**Drunken Technique (lvl 3):** You can replace this with:
++ You can deflect melee attacks the same way that you Deflect Missiles. If you reduce the damage to 0 and pay 1 ki to redirect a melee weapon attack, you must target another creature other than the attacker within 5' of you. The redirected attack deals damage equivalent to an unarmed strike.  *(From 2024, limited to this subclass.)*
+
+<!-- 
+Way: Mercy
+Flurry of Healing and Harm (lvl 11)
+You can only use this features WIS times per long rest.  *(From 2024)*
+-->
 ##### Way: Shadow
 **Shadow Arts (lvl 3):** You can give up *minor illusion* to add *shadow blade* to your list of 2-ki spells. You can only cast *darkvision* on yourself.  *(Have done this in two campaigns now.)*
 
@@ -153,10 +234,14 @@ If the target succeeds its CON save, it still suffers an effect: Its speed is ha
 As an **action**, you can expend a use of Channel Divinity to regain a **level 1 spell slot**. You can do this once per long rest. *(From TCE, but slower to use and the spell level doesn't scale)*
 
 ##### Divine Smite (lvl 2)
-This **requires a bonus action**, which can be performed upon hitting a creature with a melee weapon attack.  (See also: [Spells](Spells.md): Smite)  Alternatively, you can spend a bonus action when you make a ranged attack. However, if the attack then misses, the smite is wasted.  *(Change to a bonus action comes from 2024; ranged option comes from a past house rule. Personal reason for switching to bonus action: "bag of beans' mummy lord")*
+This **requires a bonus action**, which can be performed upon hitting a creature with a melee weapon attack.  (See also: [Spells](Spells.md): Smite)  Alternatively, you can spend a bonus action when you make a ranged attack. However, if the attack then misses, the smite is wasted.  *(Change to a bonus action comes from 2024; ranged option comes from a past house rule. Additional personal reason for switching to bonus action: "bag of beans' mummy lord")*
+
+
+##### Oath: Ancients
+**Channel Divinity (lvl 3): Nature's Wrath.** Replace this effect with that of the Entangle spell affecting the space 10' around you. You are immune to the spell's effects.  This effect is stationary and lasts 1 minute with no concentration required.  *(Inspired by 2024)*
 
 ##### Oath: Devotion
-**Channel Divinity (lvl 3): Sacred Weapon.** You can do this as a bonus action.  *(Personal reason: "Angel")*
+**Channel Divinity (lvl 3): Sacred Weapon.** You can do this as a bonus action.  *(Personal reason: Angel; inspired by 2024)*  <!-- 2024 lets you do it when you perform the Attack action -->
 
 
 ### Ranger
@@ -236,7 +321,7 @@ _**Beast of the Land**_
 | **Black Bear**         |       | -2 AC |               | Climb 20 ft                    |                      | No move required; no prone effect.                                   |                                              |
 | **Boar**               |       |       |               | No climb                       |                      |                                                                      | +Boar's Relentless feature                   |
 | **Brown Bear**         | Large | -3 AC | +1 HD / +5 HP | No climb                       |                      | No move required; no prone effect.                                   |                                              |
-| **Elk**                | Large | -2 AC |               | 50 ft; No climb                |                      |                                                                      | Also: Horse                                  |
+| **Elk**                | Large | -2 AC |               | 50 ft; No climb                |                      |                                                                      | Also: Horse, moose                           |
 | **Mountain Goat**      |       |       |               | Climb limited by surface.      | Bludg.               |                                                                      |                                              |
 | **Panther**            |       |       |               |                                |                      |                                                                      | Also: mountain lion, etc                     |
 | **Pony**               |       |       |               | No climb.                      | Bludg.               |                                                                      | Can carry saddle or bags. Also: donkey, mule |

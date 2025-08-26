@@ -50,6 +50,7 @@ In cases where a skill and tool proficiency would overlap, you can gain advantag
 Artisan tool proficiencies let you craft or repair something over either a short or long rest, if you have access to your tools (not all are portable, such as a smith's forge or bewer's casks).
 Most tool proficiencies will let you earn a living during downtime 
 
+Locking uses the Sleight of Hand skill *(from 2024)*
 
 Miner's Tools
 A proficient character can recognize ores, determine whether a cavern is natural or excavated, and can identify weak spots in natural or excavated stonework. 
