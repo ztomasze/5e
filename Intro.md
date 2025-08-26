@@ -20,3 +20,7 @@ In general:
 This document follows the same chapter structure as the 2014's PHB, DMG, and Monster Manual (MM).  
 
 Content in *(parenthetical italics)* provides a rationale for a given change.
+
+### Thanks
+
+This [2024 5e Transition Guide](https://rpgbot.net/dnd-2024-5e-transition-guide-and-change-log-everything-thats-different-in-the-new-players-handbook/) was incredibly helpful while reviewing the many changes introduced by 2024.

@@ -2,9 +2,16 @@ This document is my outline of the version of 5e that I run. See [Intro](Intro.m
 
 ### Essentials (TL;DR)
 
-I'm using 5e 2014. Most of the content here is either minor tweaks or added player options that you can choose to use beyond the standard rules provided in the 2014 Player's Handbook (PHB).
+I'm using 5e 2014 as my starting point.
 
-The changes listed below are those significant enough to highlight up front. Entries in **bold** reflect power-loss changes that you might want to be aware of before you use that class or feature.
++ This includes the PHB, XGE, and most (but not all) TCE options.
+
+Where I've felt some house rules are in order:
+
++ I've tried to limit the explicit changes or nerfs that I make.  Where a handful did sneak in, **any required power-loss changes appear in bold** so you can be aware of them before you use that class or feature.
++ Instead of nerfs, I've favored lots of optional buffs and variants to underused features. Like TCE, you can choose to use these as a player if you'd like to.  However, just playing the base 2014 version of a class, feat, or spell is also acceptable.
++ Where I've implemented such buffs and variants, I've tried to favor 2024's version of things in most cases.  However, sometimes that 2024 change might weakened, moved into a subclass, or appear later in the class progression.
++ There are some other minor changes and rulings that I don't think significantly change the game balance or player choices, but are documented for completeness.
 
 ##### [Classes](Classes.md)
 
@@ -32,10 +39,10 @@ The changes listed below are those significant enough to highlight up front. Ent
 
 ##### [Spells](Spells.md)
 
-+ Buffs are available for several cantrips and low level spells.
-+ I have some general rulings to standardize how certain effects work, such as smite (and similar) spells, recurring areas of effect, breaking free of restraint, and augmenting a roll.
++ Buffs are available for several cantrips and low level spells. Lots of spells are now cooler (if you want them to be).
++ I have some **general rulings** to standardize how certain effects work, such as smite (and similar) spells, recurring areas of effect, breaking free of restraint, and augmenting a roll.
 + While not explicitly changed, my rulings are quite strict/limiting for **Goodberry** and **Conjure Animals**.
-+ A modified version of **Spiritual Weapon** is encouraged: It requires concentration, but you can move it anywhere in range.
++ A modified version of **Spiritual Weapon** is encouraged: It requires concentration, but you can move it anywhere within range.
 + Spells from XGE and TCE are allowed, but **TCE's Summon spells** are nerfed a bit. 
 
 ##### [Conditions](Conditions.md)

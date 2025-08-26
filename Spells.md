@@ -1,4 +1,6 @@
-I will apply the General Rulings to all affected spells by default.  The spell-specific details are options you can adopt as desired.
+I will apply the **General Rulings** section to all affected spells by default.  
+
+The spell-specific details that follow that are all **options** you can adopt as desired.
 
 ### General Rulings
 
@@ -115,7 +117,7 @@ Possible TCE changes
 
 #### Divine Favor
 + **Duration:** No concentration required.
-+ *(From 2024)
++ *(From 2024)*
 
 #### Feather Fall 
 + **Effect:** Alternatively, you can target one thrown weapon or fired piece of ammunition within range that you can see. That object becomes as light as a feather and deals no damage on hit. 
@@ -148,7 +150,7 @@ Possible TCE changes
 + *(From 2024)*
 
 #### Shield of Faith
-+ **Duration:** 10 minutes (does not require concentration). The spell ends early if you cast it again.
++ **Duration:** No concentration required. The spell ends early if you cast it again.
 + *(It feels lame to need to make a CON save every time you get hit to keep up a spell like this that grants you armor so you can wade into battle. However, this change shouldn't let you just spam it on everyone in the party.)*
 
 <!-- Alternatives:
@@ -248,7 +250,7 @@ using a d8, d6, d4 uses real dice (handy when not playing virtually) which you c
 #### Spiritual Weapon
 + **Duration:** Concentration, up to 1 minute
 + **Effect:** You can move the weapon to anywhere within range of you.
-+ *(Concentration change from 2024; movement rate from long slogs to catch up)*
++ *(Concentration change from 2024; movement rate improved after many long slogs waiting for one to catch up)*
 
 <!--
 2024 changes (beyond rewordings)

@@ -165,7 +165,7 @@ You can add your fighter level to the rerolled saving throw.  *(From 2024)*
 ##### Archetype: Champion
 **Improved Second Wind (+lvl 3):** You can use your Second Wind feature twice per long rest. You still regain one use per short rest.  *(Inspired by 2024)*  <!-- This is my original idea was +CON (min 1), but may as well borrow this general fighter mechanic from 2024 instead. -->
 
-**Remarkable Athlete (lvl 7):** Replace with:
+**Remarkable Athlete (lvl 7):** Add (or simply replace with):
 * You gain proficiency with Athletics. If you already have proficiency, gain expertise instead.  If you already have expertise, gain advantage instead.  <!--Clunky, but want to make sure this gives you something regardless of your prior race or multiclassing choices.-->
 * Immediately after you use your Second Wind or score a critical hit, you can move up to half your speed without provoking opportunity attacks.
 * *(Inspired by 2024)*
@@ -236,7 +236,6 @@ As an **action**, you can expend a use of Channel Divinity to regain a **level 1
 ##### Divine Smite (lvl 2)
 This **requires a bonus action**, which can be performed upon hitting a creature with a melee weapon attack.  (See also: [Spells](Spells.md): Smite)  Alternatively, you can spend a bonus action when you make a ranged attack. However, if the attack then misses, the smite is wasted.  *(Change to a bonus action comes from 2024; ranged option comes from a past house rule. Additional personal reason for switching to bonus action: "bag of beans' mummy lord")*
 
-
 ##### Oath: Ancients
 **Channel Divinity (lvl 3): Nature's Wrath.** Replace this effect with that of the Entangle spell affecting the space 10' around you. You are immune to the spell's effects.  This effect is stationary and lasts 1 minute with no concentration required.  *(Inspired by 2024)*
 
@@ -249,11 +248,11 @@ This **requires a bonus action**, which can be performed upon hitting a creature
 ##### Allowed TCE Options
 
 + Additional Ranger Spells (lvl 2) - Added to class spell list. *(As per 2024 too)*
-	+ Except *Searing Smite* *(not added in 2024)*
+	+ Except *Searing Smite* *(Not added in 2024)*
 + Additional Fighting Style options
 + Spellcasting Focus (lvl 2)
 
-These are also available replacements (although I personally prefer my improvements to the original 2014 version, given below): 
+These are also available replacements *(although I personally prefer my improvements to the original 2014 version, given below)*: 
 
 + Deft Explorer (lvl 1)
 + Favored Foe (lvl 2)
@@ -281,10 +280,6 @@ Optionally, instead of spending a spell slot, you can spend 1 minute in uninterr
 ##### Land's Stride (lvl 8)
 *Add:* You can Dash as a bonus Action.
 
-##### Ambusher (+lvl 9)
-+ You have advantage on initiative rolls (regardless of the current terrain)
-+ You have advantage on attack rolls against creatures that have not yet taken a turn in combat.
-
 ##### Hide in Plain Sight (lvl 10)
 *Replace with:* You can spend 1 minute creating camouflage for yourself befitting the local environment and infusing it with the powers of nature. You must have access to a disguise kit or to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
@@ -292,6 +287,10 @@ Once camouflaged, you can attempt to hide even if you are only lightly obscured 
 
 ##### Natural Explorer Improvement (lvl 10)
 You can select from any of these additional favored terrains that you have adventured in: dungeon, planar (specific plane), urban.
+
+In addition: 
++ You have advantage on initiative rolls (regardless of the current terrain)
++ You have advantage on attack rolls against creatures that have not yet taken a turn in combat.
 
 ##### Favored Enemy Improvement (lvl 14)
 You gain advantage on saving throws against the innate spells and abilities of any non-humanoid favored enemies. 
@@ -350,7 +349,11 @@ _**Beast of the Land**_
 
 + Examples include: **Eagle**, **Hawk**, **Owl**, **Raven**.  All as is.
 
-**Exceptional Training (lvl 7):** When you use your bonus action to command your beast to take an action, you can also command it to use its bonus action to Dash, Disengage, Dodge, or Help. *(From 2024)*
+**Exceptional Training (lvl 7):** When you use your bonus action to command your beast to take an action, you can also command it to use its bonus action to Dash, Disengage, Dodge, or Help. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.  *(From TCE/2024)*
+
+**Bestial Fury (lvl 11):** When you command your beast companion to take the Attack action, the beast can make two attacks.
+
+**Share Spells (lvl 15):** When you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.
 
 <!--
 Sorely tempted... but Giant Killer got cut in 2024, so let's not bother to redeem it here.
@@ -381,6 +384,22 @@ You can gain lvl 11's Reliable Talent benefit at lvl 7. *(From 2024)*
 ##### Improved Cunning Strike (+lvl 11)
 You can use two Cunning Strike effects when you deal Sneak Attack damage. You must pay the die cost for each effect. *(From 2024)*
 
+##### Archetype: Assassin
+**Assassinate (lvl 3):** Replace with:
++ You gain advantage on initiative rolls.
++ During the first round of combat, you have advantage on attack rolls against any creature that hasn't taken a turn. If you deal sneak attack damage to such a target during that round, the target takes extra damage of the weapon's type equal to your rogue level.
++ *(From 2024)*
+
+<!-- But see Poisoner feat.
+**Infiltration Expertise (lvl 9):**  In addition, *Poisoner:*  When you use the Poison option of your Cunning Strike, the target also takes 2d6 poison damage whenever it fails the saving throw. This damage ignores resistance to poison damage. *(From 2024)* 
+(but two level early) 
+-->
+
+<!-- See Skulker feat.
+##### Archetype: Thief
+**Supreme Sneak (lvl 9):** In addition, *Hit-and-Run:* Your speed isn't reduced to 0 when using Steady Aim. *(From 2024)* 
+(but from Assassin)
+-->
 
 ### Sorcerer
 
@@ -411,7 +430,7 @@ Sorcery Points: You cannot use sorcery points to create new spell slots. Instead
 + **Extend Spell:** If the affected spell requires concentration, you have advantage on any saving throw you make to maintain that concentration. *(From 2024)*
 + **Heightened Spell:** Costs only 2 sorcery points and the target suffers disadvantage on all of the saves it make against that spell. *(From 2024)*
 + **Subtle Spell:** Also includes ignoring non-costly material components that are not consumed. *(From 2024)*
-+ **Twinned Spell:** Costs **1 + spell level** to twin a spell.  If the spell can be cast with a higher level spell slot to target an additional creature, you can instead spend 1 sorcery point to increase the spell's effective level by 1. *(From 2024, but also keeping original version at +1 cost)*
++ **Twinned Spell:** **Costs 1 + spell level** to twin a spell.  If the spell can be cast with a higher level spell slot to target an additional creature, you can instead spend 1 sorcery point to increase the spell's effective level by 1. *(From 2024, but also keeping original version at +1 cost)*
 
 ##### Sorcery Incarnate (+lvl 7)
 * You can spend two sorcery points as a bonus action to activate your Innate Sorcery aura.
@@ -435,9 +454,9 @@ Sorcery Points: You cannot use sorcery points to create new spell slots. Instead
 2. Alter Self, Dragon's Breath
 3. Fear, Fly
 4. Arcane Eye, Charm Monster
-5. Cloudkill, Legend Lore. 
+5. Cloudkill, Legend Lore
 
-See Spellcasting, above, for more. *(From 2024, but replaced 2024's Summon Dragon)*
+See Spellcasting, above, for more. *(From 2024, but replaced 2024's Summon Dragon <!--or FTD's Summon Draconic Spirit--> with Cloudkill)*
 
 ##### Origin: Shadow
 **Spellcasting: Shadow Spells (+lvl 1):** 
@@ -533,7 +552,7 @@ You may choose to swap the order in which you gain the Sculpt Spells and Potent 
 
 ##### Tradition: War Magic
  **Power Surge (lvl 6):** Replace with: 
- + You can store magical energy within yourself to later empower your damaging battlefield spells. When you force multiple creatures to make saving throws against the damage of one of your spells, you can increase the spell’s damage by half your wizard level. This increase occurs only on the turn that you cast the spell. Once you use this feature, you can’t use it again until you finish a short or long rest or until you successfully end a spell with *dispel magic* or *counterspell*.  *(Original UA version, merged with current version. Personal reason: "Glaucus")*
+ + You can store magical energy within yourself to later empower your damaging battlefield spells. When you force multiple creatures to make saving throws against the damage of one of your spells, you can increase the spell’s damage by half your wizard level. This increase occurs only on the turn that you cast the spell. Once you use this feature, you can’t use it again until you finish a short or long rest or until you successfully end a spell with *dispel magic* or *counterspell*.  *(Original UA version, merged with current version. Personal reason: Glaucus)*
 
 
 ### Design Notes
