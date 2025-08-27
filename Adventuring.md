@@ -38,7 +38,7 @@ Some clarifying rulings:
 
 + If you are unexpectedly denied your breath (pulled into the water, strangled, choking, suddenly surrounded by gas or spores, etc), you are not holding your breath and so immediately start suffocating. <!-- Depending on the situation, you may get a DC 10 CON save to grab a breath as a reaction. -->
 + While suffocating, if the opportunity presents itself, you can grab a deep breath as a free action and start holding your breath again.
-+ While holding your breath, you can lose your breath by talking, casting a spell with a verbal component, falling unconscious, etc.  Also, whenever you take damage or suffer a similarly significant surprise, you must make a Concentration save (as per concentrating on a spell) or lose your breath.  *(Inspired by PHB p.177 - rolling CON to hold your breath.)*
++ While holding your breath, you can lose your breath by talking, casting a spell with a verbal component, falling unconscious, etc.  Also, whenever you take damage or suffer a similarly significant surprise, you must make a Concentration save (as per concentrating on a spell) or lose your breath.  *(Inspired by PHB p.177 - roll CON to hold your breath.)*
 
 ## Resting
 

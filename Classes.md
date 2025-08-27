@@ -18,7 +18,7 @@ In addition, when you use Reckless Attack, you can forgo the granted advantage o
 ##### Path: Berserker
 **Frenzy (lvl 3):** When you enter a frenzied rage, you can choose to suffer the effects of Reckless Attack for the duration of that rage. If you do so, you do not suffer exhaustion at the end of the rage. *(Inspired by 2024, but keeping the original Frenzy benefit)*
 
-**Intimidating Presence (lvl 10):** If you are raging, this can be performed as a bonus action, initially and on subsequent turns.  This can be the same bonus action that you use to enter or prolong your rage. *(Inspired by 2024 and its general Influence action.)*
+**Intimidating Presence (lvl 10):** If you are raging, this can instead be performed as a bonus action, initially and on subsequent turns.  This can be the same bonus action that you use to enter or prolong your rage. *(Inspired by 2024 and its general Influence action.)*
 
 ##### Path: Totem Warrior
 **Totem Spirit: Bear (lvl 3):**  Grants resistance only to acid, cold, fire, lightning, poison, and thunder, but **not to force, necrotic, psychic, or radiant damage**.  *(From 2024, because this totem otherwise tends to dominate over all totems and even other paths.)*
@@ -62,8 +62,9 @@ If you choose any Cleric spell of level 5 or lower that doesn't require a reacti
 2. *suggestion* for *see invisibility*
 3. *nondetection* for *tongues*
 
-**Channel Divinity: Knowledge of the Ages (lvl 2):** Alternatively, you can choose to effectively have all wizard spells on your class spell list for the purpose of using scrolls and magic items for 10 minutes.
-
+<!--
+**Channel Divinity: Knowledge of the Ages (lvl 2):** Alternatively, when you use this feature, you can choose to effectively have all wizard spells on your class spell list for the purpose of using scrolls and magic items for 10 minutes.
+-->
 ##### Domain: Life
 **Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps:
 
@@ -81,13 +82,19 @@ If you choose any Cleric spell of level 5 or lower that doesn't require a reacti
 3. ...
 4. *guardian of faith* for *arcane eye*
 5. ...
+
 ##### Domain: Nature
 **Acolyte of Nature (lvl 1):** In addition, you may choose all of your cantrips from either the Cleric or Druid spell list.
 
 **Bonus Proficiency (lvl 1):** You may trade proficiency with heavy armor for a second skill proficiency choice from those provided by Acolyte of Nature.
 
+##### Domain: Peace
+**Emboldening Bond (lvl 1):**  The bond **does not grant d4 bonus to attack rolls**, but there is no limit to the number of times the d4 bonus can be applied per turn.  *(This is both too strong and not in keeping with the spirit of promoting peace; without the attack bonus, removing the limit simplifies play.)*
+
+**Balm of Peace (lvl 2):** You **can affect only one creature** per use of this ability, but you can perform this ability as a bonus action.  *(Too strong. The healing here should not be able to outshine a broken Healing Spirit or the Life cleric's Preserve Life.)*
+
 ##### Domain: Trickery
-**Blessing of the Trickster (lvl 1):** You can target yourself or any willing creature in 30 feet. *(From 2024)*
+**Blessing of the Trickster (lvl 1):** You can target yourself or any willing creature within 30 feet. *(From 2024)*
 
 **Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps:
 
@@ -97,14 +104,10 @@ If you choose any Cleric spell of level 5 or lower that doesn't require a reacti
 4. *polymorph* for *confusion*
 5. ...
 
-**Cloak of Shadows (lvl 6):** You may replace this with:
-
-+ *Trickster's Transposition (lvl 6)*: Whenever you take the bonus action to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
-
 ##### Domain: Twilight
 **Eyes of Night (lvl 1):** You receive **darkvision only to the normal 60' range**.
 
-**Twilight Sanctuary (lvl 2):** A creature **receives temporary hit points only once** per use of this ability, immediately at the time the sanctuary appears. *(Personal reason: "Fortuna")*
+**Twilight Sanctuary (lvl 2):** The sphere **does not grant temporary hit points**. Creatures you choose cannot be charmed or frightened while in the sphere. You can still use the sphere's ability to end such an effect on a creature that ends its turn in the sphere. *(Too strong versus other domains; personal reason: "Fortuna")*
 
 ##### Domain: War
 **War Priest (lvl 1):** You do not need to take the Attack action to use this feature (to make a bonus action attack). *(From 2024)*
@@ -126,17 +129,22 @@ If you choose any Cleric spell of level 5 or lower that doesn't require a reacti
 ##### Allowed TCE Options
 
 + Additional Druid Spells (lvl 1) - Added to class spell list. *(As per 2024 too)*
-+ Wild Companion (lvl 2) - But only for Circle of the Dreams, Land, or Stars. Summoned familiars are beasts with intelligence 5. May include the following additional creatures as options: almiraj/jackalope, awakened shrub (can't speak), badger, deer, eagle, fox, hare, jackal/coyote, vulture.  The creature's attack bonus can be replaced with DEX+2 (eg, cat).  A wild companion familiar can attack on its turn, but it deals a max of 2 base damage per hit (eg, almiraj, etc).
++ Wild Companion (lvl 2) - But only for Circle of the Dreams, Land, or Stars. 
+	+ Summoned familiars are beasts with intelligence 5. May include the following additional creatures as options: almiraj/jackalope, awakened shrub (can't speak), badger, deer, eagle, fox, hare, jackal/coyote, vulture.  The creature's attack bonus can be replaced with DEX+2 (eg, cat).  A wild companion familiar can attack on its turn, but it deals a max of 2 base damage per hit (eg, almiraj, etc).
 
 ##### Druidic (lvl 1)
 You also always have the *Speak with Animals* spell prepared.  *(From 2024)*
 
 ##### Wild Shape (lvl 2)
-You may speak crudely in wild shape if that beast form is capable of vocalizing.  *(From 2024, mostly)*  
-<!-- While it's sometimes entertaining to do the charades, most of the time its annoying not to be able to communicate with the rest of your party.  Can still do the pantomiming as a fish or spider, for example. -->
+You may speak crudely in wild shape if that beast form is capable of vocalizing.  *(From 2024, mostly.)
+<!--(While it's sometimes entertaining to do the charades, most of the time it's annoying not to be able to communicate with the rest of your party.  You still get a chance to do the pantomiming sometimes, though, such as when you're a fish or spider)-->
 
 ##### Wild Resurgence (+lvl 5)
-Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).  In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a long rest. *(From 2024)*
+As an action, you can expend a use of Wild Shape to regain a level 1 spell slot. You can do this once per long rest. *(From 2024, partly)*
+<!-- 
+Similar to the cleric's Harness Divinity, which I like. 
+2024 also lets you convert spell slots to while shapes, but I think that's too strong in 2014. 
+-->
 
 ##### Circle: Land
 **Circle Spells (lvl 2):** When you complete a long rest in a natural setting, you can choose to swap the land of your Circle Spells to that of the terrain you rested in.  *(Inspired by 2024)*
@@ -155,7 +163,7 @@ Once on each of your turns, if you have no uses of Wild Shape left, you can give
 + Additional Fighting Style Options (lvl 1)
 + Additional Maneuver options
 
-<!-- Don't really need with custom background option:
+<!-- Don't really need this with a custom background option:
 ##### Skills (lvl 1)
 Add Persuasion to the Fighter skill list. *(From 2024)*
 -->
@@ -165,8 +173,8 @@ You can add your fighter level to the rerolled saving throw.  *(From 2024)*
 ##### Archetype: Champion
 **Improved Second Wind (+lvl 3):** You can use your Second Wind feature twice per long rest. You still regain one use per short rest.  *(Inspired by 2024)*  <!-- This is my original idea was +CON (min 1), but may as well borrow this general fighter mechanic from 2024 instead. -->
 
-**Remarkable Athlete (lvl 7):** Add (or simply replace with):
-* You gain proficiency with Athletics. If you already have proficiency, gain expertise instead.  If you already have expertise, gain advantage instead.  <!--Clunky, but want to make sure this gives you something regardless of your prior race or multiclassing choices.-->
+**Remarkable Athlete (lvl 7):** Replace with:
+* You gain proficiency with Athletics. If you already have proficiency, gain expertise instead.  If you already have expertise, gain advantage instead.  <!--Clunky, but I want to make sure this gives you something regardless of your prior race or multiclassing choices.-->
 * Immediately after you use your Second Wind or score a critical hit, you can move up to half your speed without provoking opportunity attacks.
 * *(Inspired by 2024)*
 
@@ -184,7 +192,7 @@ TCE
 
 2024
 + Improved martial arts die by one step - But I think there's enough other improvements
-+ Deflect Missles > Deflect Attacks
++ Deflect Missiles > Deflect Attacks  (actually really strong!)
 -->
 ##### Martial Arts (lvl 1)
 You can also use Dexterity in place of Strength when making an Athletics check. *(Inspired by 2024)*  <!-- originally only shove or grapple in 2024, but seems it should apply slipping out restraints, swimming, climbing, etc -->
@@ -195,25 +203,17 @@ You can also use Dexterity in place of Strength when making an Athletics check. 
 + **Step of the Wind (1 ki):** You can take both the Dash and Disengage action as a single bonus action and your jump distance is doubled for the turn.
 + *(From 2024)*
 
-<!--
-##### Deflect Missiles (lvl 3)
-Rename to **Deflect Attacks**. You can also deflect melee weapon attacks. If you reduce the damage to 0 and pay 1 ki to redirect a melee weapon attack, you must target another creature within 5' of you. For either a ranged or melee attack, resolve the redirected attack as if for a martial arts (unarmed or equivalent monk weapon) attack.  *(From 2024, mostly)*
-
-Hmm... This is really strong to be able to deflect an attack every single round.  Will hold on this for now.  I like some of the other changes to flurry of blows, etc. better.
--->
-
 ##### Stunning Strike (lvl 5)
 If the target succeeds its CON save, it still suffers an effect: Its speed is halved and it cannot take reactions until the end of your next turn. *(Inspired by 2024)*
 
 ##### Ki-Empowered Strikes (lvl 6)
-In addition, you can now perform an unarmed strike (from Martial Arts) or a Flurry of Blows (from Ki) as a bonus action regardless of how you use your primary action. *(From 2024, but delayed)*
+In addition, you can now perform an unarmed strike (from *Martial Arts*) or a Flurry of Blows (from *Ki*) as a bonus action regardless of how you use your primary action. *(From 2024, but delayed)*
 
 ##### Uncanny Metabolism (+lvl 10)
 When you roll initiative, you can regain all your expended ki.  In addition, you heal a number of hit points equal to one roll of your Martial Arts die + your Monk level. You can use this feature once per long rest. *(From 2024, delayed)*
 
 ##### Way: Drunken Master
-**Drunken Technique (lvl 3):** You can replace this with:
-+ You can deflect melee attacks the same way that you Deflect Missiles. If you reduce the damage to 0 and pay 1 ki to redirect a melee weapon attack, you must target another creature other than the attacker within 5' of you. The redirected attack deals damage equivalent to an unarmed strike.  *(From 2024, limited to this subclass.)*
+**Drunken Technique (lvl 3):** In addition, until the start of your next turn, you can deflect melee attacks the same way that you Deflect Missiles. If you reduce the damage to 0 and pay 1 ki to redirect a melee weapon attack, you must target another creature other than the attacker within 5' of you. The redirected attack deals damage equivalent to an unarmed strike.  *(From 2024, limited to this subclass, when using Flurry of Blows.)*
 
 <!-- 
 Way: Mercy
@@ -419,7 +419,7 @@ As a bonus action, you can unleash an aura of raw magic for 1 minute. This alway
 You can use this feature once per long rest. *(From 2024, half as often, plus a visual effect.)*
 
 ##### Sorcerous Recovery (+lvl 2)
-Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your sorcerer level (rounded up), and none of the slots can be 6th level or higher. *(Inspired by 2024's lvl 5 Sorcerous Restoration, but using the same existing mechanic as Wizard & Druid:Land. At level 2 to require more than a single level dip.)*
+Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your sorcerer level (rounded up), and none of the slots can be 6th level or higher. *(Inspired by 2024)* <!-- From 2024's lvl 5 Sorcerous Restoration, but using the same existing mechanic as Wizard & Druid:Land. At level 2 to require more than a single level dip.)-->
 
 <!--
 Sorcery Points: You cannot use sorcery points to create new spell slots. Instead, you can recover expended spell slots equivalent to those you would have created.
@@ -565,4 +565,4 @@ I'm not a big fan of this direction because I think of the Wizard as the versati
 
 However, rather than completely bucking the direction of the game, I've come up with a compromise I'm comfortable with.  All three of these arcane spellcasters--Sorcerer, Warlock, and Wizard--get one additional domain spell known at spell levels 1 through 5. (There may be some subclass exceptions.) And the Sorcerer gets to recover spell slots at least as well as the Wizard.
 
-Speaking of domain spells, I'm also not a fan of cleric domains that give you access to only cleric spells that you could choose to prepare yourself.  While it is nice to have such spells always prepared to support the theme of your domain in play, it'd be nice to sometimes have some some personal options regarding the details of that theme. Thus, I've added the option to customize certain cleric domains to a small degree.
+Speaking of domain spells, I'm also not a fan of cleric domains that give you access to only cleric spells that you could choose to prepare yourself.  While it is nice to have such spells always prepared to support the theme of your domain in play, it'd be nice to sometimes have some some personal options regarding the details of that theme. Thus, I've added the option to customize certain cleric domains to a small degree.  About half of these options reflected changed domain spell lists from 2024.
