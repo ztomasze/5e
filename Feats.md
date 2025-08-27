@@ -48,7 +48,7 @@ The following states the optional changes (rather than giving full replacement t
 
 #### Great Weapon Master
 
-* **Instead of -5 to hit for +10 damage**, add your proficiency bonus to damage rolls for all melee attacks made as part of an Attack action with a heavy melee weapon that you are proficient with. 
+* **Instead of -5 to hit for +10 damage**, add your proficiency bonus to damage rolls for all melee attacks made with a heavy melee weapon that you are proficient with. 
 * *(This feature was too strong; change inspired by 2024's GWM change.)*
 
 #### Keen Mind
@@ -76,7 +76,7 @@ The following states the optional changes (rather than giving full replacement t
 #### Sharpshooter
 
 * **Instead of ignoring long range penalties**, you can shoot without disadvantage only up to double the weapon's normal range.
-* **Instead of -5 to hit for +10 damage**, add your proficiency bonus to damage rolls for all ranged attacks made as part of an Attack action with a ranged weapon that you are proficient with. 
+* **Instead of -5 to hit for +10 damage**, add your proficiency bonus to damage rolls for all ranged attacks made with a ranged weapon that you are proficient with. 
 * *(Shooting a longbow 600 feet without an accuracy penalty is hard to believe and has ruined a couple encounters for me. The -5/+10 feature is too strong; change inspired by 2024's GWF change.)*
 
 #### Shield Master
@@ -107,7 +107,7 @@ The following states the optional changes (rather than giving full replacement t
 #### Gunner
 
 * **Disallowed.**
-* *(In my campaigns where guns are available, this feat's features are largely available to everyone with a firearm proficiency and a pistol.)*
+* *(Firearms are different in each of my campaigns depending on the setting and what role firearms play in it. Look for a similar option in the relevant campaign doc.)*
 
 #### Skill Expert
 

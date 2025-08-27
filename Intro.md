@@ -9,10 +9,11 @@ In addition, the original *Player's Handbook* (PHB), *Dungeon Master's Guide* (D
 
 In general:
 
-* I am sticking with 2014 as my starting point, including XGE and TCE content.
-* After many rule experiments over the past decade, I'm currently doing my best to stick closer to the published version of the 2014 core rules... but there are still some things I feel strongly about. 
-* Where possible, I've tried to add optional features or player options, instead of changing existing rules or features.  Aside from the few exceptions called out in **bold** on the [index](index.md) page, you can safely stick with the original 2014 rules if you want to.
-* Where 2024 has made rule changes, I've incorporated the changes that I really like or else I've used their change as an excuse to make a different tweak that I prefer.
+* I am sticking with 2014 as my starting point.  For players, this includes the PHB, XGE, and (most) TCE content.
+* After many rule experiments over the past decade, I'm currently doing my best to stick closer to the published version of the 2014 core rules... but there are still some things I feel strongly about. Where I have made explicit/required changes, I've called them out in **bold** on the [index](index.md) page, 
+* Instead of making required changes, I've tried instead to add additional features or player options to underused features.  You can choose to use these as a player if you'd like to, but you can also safely stick with the original 2014 rules if you want to.
+* Where I've felt a buff and variant would be valuable, I've tried to favor 2024's version of things in most cases. However, sometimes that 2024 change might weakened, moved into a subclass, or appear later in the class progression.
+* There are some other minor changes and rulings that I don't think significantly change the game balance or player choices, but they are documented here for completeness.  This is in large part for myself, so I can be consistent in how I run the game.
 * I am generally open in to incorporating any officially published option, but talk to me first if it's not covered here.
 
 ### Format
@@ -23,4 +24,4 @@ Content in *(parenthetical italics)* provides a rationale for a given change.
 
 ### Thanks
 
-This [2024 5e Transition Guide](https://rpgbot.net/dnd-2024-5e-transition-guide-and-change-log-everything-thats-different-in-the-new-players-handbook/) was incredibly helpful while reviewing the many changes introduced by 2024.
+RPGBot's [2024 5e Transition Guide](https://rpgbot.net/dnd-2024-5e-transition-guide-and-change-log-everything-thats-different-in-the-new-players-handbook/) was incredibly helpful while reviewing the many changes introduced by 2024.
