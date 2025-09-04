@@ -22,10 +22,12 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 
 ##### Additional Weapons
 
-| Weapon      | Type          | Cost | Damage           | Weight | Properties                                      |
-| ----------- | ------------- | ---- | ---------------- | ------ | ----------------------------------------------- |
-| **Sap**     | Simple Melee  | 5 sp | 1d6 bludgeoning* | 2 lb   | Deals only non-lethal damage                    |
-| **Garotte** | Martial Melee | 1 gp | \*               | 1/2 lb | Special, two-handed.  <br>Rogues are proficient |
+| Weapon      | Type           | Cost | Damage           | Weight | Properties                                                                                               |
+| ----------- | -------------- | ---- | ---------------- | ------ | -------------------------------------------------------------------------------------------------------- |
+| **Sap**     | Simple Melee   | 5 sp | 1d6 bludgeoning* | 2 lb   | Deals only non-lethal damage                                                                             |
+| **Bolas**   | Martial Ranged | 1 gp | 1d4 bludgeoning  | 2 lb   | As per Net, but 20/60 range, deals damage on hit, and only grapples rather than restrains.               |
+| **Garotte** | Martial Melee  | 1 gp | \*               | 1/2 lb | Special, two-handed.  <br>Rogues are proficient                                                          |
+| **Lasso**   | Martial Ranged | 5 cp | *                | 3 lb   | As per Net but double the range. The restrained target can still move as long as it moves closer to you. |
 
 **Garrote:** You can use a garrote to initiate a grapple of a creature your size or smaller using DEX(Acrobatics). When you grapple a target with a garrote, the target cannot speak or breathe, and they take 1d4 slashing damage at the end of each of their turns while they remain grappled.
 
@@ -40,22 +42,27 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 | ------------------ | ---- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Smelling salts** | 2 gp | 1/2 lb | Use this vial of spirit of hartshorn to wake an unconscious creature. If the creature is stable at 0 hp, they regain 1 hp. Can be crafted with an Herbalism kit. |
 
-<!--
+
 ### Tools
 
-Inspired by XGE, I'm going to lean into tools a little more than I usually do (though without XGE's full complexity).  Specifically:
+A tool proficiency includes use of the tool, but also its surrounding knowledge.
 
-A tool proficiency is like a micro-skill proficiency.  It includes use of the tool, as well as its surrounding knowledge.
-In cases where a skill and tool proficiency would overlap, you can gain advantage on the roll. Or sometimes a tool proficiency might simply let you automatically succeed on a check.
-Artisan tool proficiencies let you craft or repair something over either a short or long rest, if you have access to your tools (not all are portable, such as a smith's forge or bewer's casks).
-Most tool proficiencies will let you earn a living during downtime 
+* For example, proficiency in mason's tools also gives you knowledge of the history of stonework and proficiency in assessing weak points or detecting unusual or concealed constructions in worked stone. (XGE's section on tools give many more illustrative examples of this for other tools.)
+* You do not need to have your tools on hand to benefit from the associated knowledge.
 
-Locking uses the Sleight of Hand skill *(from 2024)*
+Whenever tool and skill proficiencies overlap, you can use either one.  If you have both, you gain advantage on the roll.  *(From XGE and 2024)*
 
-Miner's Tools
++ Examples include Performance and a musical instrument to impress an audience with your playing; Insight and a gaming set to determine if your opponent is cheating at the game; Sleight of Hand and thieves' tools to pick a lock or disarm a trap.
+
+Tool proficiencies also let you repair related items over a short or long rest, or craft new items or earn a living during downtime. 
+
++ You need your tools on hand for this.
+
+#### Additional Tools
+
+##### Miner's Tools
 A proficient character can recognize ores, determine whether a cavern is natural or excavated, and can identify weak spots in natural or excavated stonework. 
 
-Rope
-A proficient character can reliably tie knots; can splice a cut rope back together over a short rest; can use a lasso (mechanically as per net with double the range and the restrained target can still move if moving closer to you). 
+##### Rope
+A proficient character can reliably tie knots; can splice a cut rope back together over a short rest; can repair or craft a lasso or bolas.
 
--->
