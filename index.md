@@ -25,7 +25,7 @@ Starting with the 2014 PHB, XGE, and TCE:
 + Any **feats taken from TCE lose their "half-feat" ASI components**.
 + Minor buffs, rulings, and cosmetic tweaks for about a dozen other feats.
 
-##### [[Characters]]
+##### [Characters](Characters.md)
 + You can swap out most choices you've made about class-specific features when you level up in that class.
 + Inspiration can be used before a roll, after a roll, or to recover a HD.
 
