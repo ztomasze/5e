@@ -5,8 +5,8 @@
 
 * [Races](Races.md)
 * [Classes](Classes.md)
-* [Characters](Characters.md)
 * [Feats](Feats.md)
+* [Characters](Characters.md)
 * [Equipment](Equipment.md)
 * [Adventuring](Adventuring.md)
 * [Combat](Combat.md)
