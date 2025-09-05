@@ -33,6 +33,8 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 
 ### Gear
 
+**Antitoxin:** If you are currently poisoned, you can immediately repeat the save against that condition.  You then gain advantage on saving throws against poison for 1 hour.  *(Adding the chance for antitoxin to have some benefit to an existing condition.)*
+
 **Oil:** Instead of adding 5 points of fire damage to any fire-based attack on an oil-soaked creature, any spark or fire damage ignites the oil. Ignited oils burns for 2 rounds, either on a creature or in a square.  The burning oil deals 5 (1d10) damage at the start of an affected creature's turn, whether that creature is doused or standing in a burning square.  (See also: [Adventuring](Adventuring.md): Fire.)  
 *(Standardizing burning effects to the start of turn. Compare to alchemist's fire and 2024's Burning condition. It's possible to jump over/through a burning square, but you can't linger there. Compared to alchemist's fire, oil burns out faster and is easier to extinguish, but it does more damage in the short term.)*
 
@@ -41,7 +43,6 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 | Item               | Cost | Weight | Description                                                                                                                                                      |
 | ------------------ | ---- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Smelling salts** | 2 gp | 1/2 lb | Use this vial of spirit of hartshorn to wake an unconscious creature. If the creature is stable at 0 hp, they regain 1 hp. Can be crafted with an Herbalism kit. |
-
 
 ### Tools
 
@@ -61,7 +62,8 @@ Tool proficiencies also let you repair related items over a short or long rest, 
 #### Additional Tools
 
 ##### Miner's Tools
-A proficient character can recognize ores, determine whether a cavern is natural or excavated, and can identify weak spots in natural or excavated stonework. 
+*15 gp, 10 lbs*  
+A proficient character can recognize ores, determine whether a cavern is natural or excavated, and can identify weak spots in natural or excavated stonework. You can use your tools to excavate veins of ore or pan for gold.
 
 ##### Rope
 A proficient character can reliably tie knots; can splice a cut rope back together over a short rest; can repair or craft a lasso or bolas.

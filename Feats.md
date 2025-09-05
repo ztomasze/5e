@@ -65,8 +65,8 @@ The following states the optional changes (rather than giving full replacement t
 
 - A spear is a valid option for both abilities. *(As allowed per errata)* 
 - **The haft attack does not have reach.**  However, when using a glaive or halberd, a haft-equivalent d4 attack can be made with reach by using a backside hook or spiked tip, but it deals slashing or piercing.
-- You cannot make a haft attack while wielding a quarterstaff or spear one-handed.  However, if wielding a shield in your offhand, you can make a haft-like d4 attack with the shield. 
-- *(Tweaked for more believable flavor, invoking ancient world shield-and-spear wall tactics, but retaining close to the same power as granted to staffs and spears and confirmed by sage advice.)*
+- You cannot make a haft attack while wielding a quarterstaff or spear one-handed.  However, if wielding a shield in your offhand, you can make a haft-like d4-damage attack with the shield. 
+- *(Tweaked for more believable flavor, invoking ancient world shield-and-spear wall tactics, but retaining close to the same power as granted to staffs and spears as confirmed by sage advice.)*
 
 #### Savage Attacker
 
@@ -117,14 +117,13 @@ The following states the optional changes (rather than giving full replacement t
 > **Weapon Mastery Properties**  
 > I'm not a big fan of 2024's weapon mastery properties, so I don't care to backport them as a regular mechanic here. However, if they are of interest to you, you can still approximate them through [feats](Feats):
 > 
-> * Cleave: Great Weapon Master
-> * Graze: Savage Attacker (revised)
-> * Nick: Dual Weapon Wielder (revised)
-> * Push: Charger / Crusher
-> * Sap: Slasher (on crit)
-> * Slow: Slasher
-> * Topple: Tavern Brawler (revised) (unarmed/improvised only)
-> * Vex: Crusher (on crit)
+> + Cleave: Great Weapon Master
+> + Graze: Savage Attacker (revised)
+> + Nick: Dual Weapon Wielder (revised)
+> + Push: Charger / Crusher
+> + Sap: Slasher (on crit)
+> + Slow: Slasher
+> + Topple: Tavern Brawler (revised) (unarmed/improvised only)
+> + Vex: Crusher (on crit)
 >   
 > Alternatively, check out the [Rogue](Classes.md)'s new Cunning Strike for the Sap, Slow, Trip (~Topple), and Vex abilities.
-

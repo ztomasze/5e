@@ -1,12 +1,10 @@
 I will apply the **General Rulings** section to all affected spells by default.  
 
-The spell-specific details that follow that are all **options** you can adopt as desired.
+The spell-specific details that follow are all **options** you can adopt as desired.
 
 ### General Rulings
 
-2024 experimented with standardizing certain mechanics, though it still doesn't always do it consistently. Running with that idea, I'd like to standardize the following effects.  Spells are the most common source of these, but items and abilities sometimes produce them too.
-
-(Affected spell lists focus on lower-level PHB spells and may not be complete yet.)
+2024 experimented with standardizing certain mechanics, though it still doesn't always do it consistently. Running with that idea, I'd like to standardize the following effects.  Spells are the most common source of these, but items and abilities sometimes produce them too. (Lists of affects spells focus on lower-level PHB spells and may not be complete yet.)
 
 #### Attack augmentation spells
 This covers the 7 **Smite** spells (**Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite), as well as some of the ranger spells (**Ensnaring Strike**, **Hail of Thorns**, **Lightning Arrow**).  Rather than needing to cast them beforehand as a bonus action and concentrate until you hit, you can immediately cast them as a bonus action on hit:
@@ -20,7 +18,7 @@ This covers the 7 **Smite** spells (**Banishing**, **Blinding**, **Branding**, *
 <!-- Ensnaring Strike might want to be Concentration so you can end it early. -->
 
 #### Breaking free of restraint
-Whenever a spell allows a Strength check to break free of an restraining effect, you can use **Strength(Athletics)** as you would against a grapple.  
+Whenever a spell allows a Strength check to break free of an restraining effect, you can use **Strength(Athletics)** as you would against a grapple.  *(From 2024)*
 
 Affected spells:  **Ensnaring Strike**, **Entangle**, **Web**; **Evard's Black Tentacles**; etc 
 
@@ -30,12 +28,12 @@ For any area that causes repeated damage, save, or healing, the area should:
 + Trigger that damage or save as soon as it is cast
 + Trigger whenever a creature enters or is transported into the area
 + Trigger at the end of an affected creature's turn, if it has not yet triggered this turn
-+ The area should only trigger for a given creature once per turn
++ The area can trigger for a given creature only once per turn
 
-Affected spells (those with a * already work with way in 2014): **Grease**\*; **Cloud of Daggers**, **Cordon of Arrows**\*, **Gust of Wind**, **Moonbeam** (on later turns, the beam only damages when it stops moving), **Web**; **Sleet Storm**, **Spirit Guardians**; **Control Water** (whirlpool), **Evard's Black Tentacles**, **Wall of Fire**\*; **Cloudkill**.  Also: **Healing Spirit**.
+Affected spells (those with a * already work this way in 2014): **Grease**\*; **Cloud of Daggers**, **Cordon of Arrows**\*, **Gust of Wind**, **Moonbeam** (on later turns, the beam only damages when it stops moving), **Web**; **Sleet Storm**, **Spirit Guardians**; **Control Water** (whirlpool), **Evard's Black Tentacles**, **Wall of Fire**\*; **Cloudkill**.  Also: **Healing Spirit**.
 
 #### Roll augmentation effects
-If an effect lets you modify a given roll, such as reroll it or add a bonus to it, you first get to know whether the roll succeeds or fails.  *(This both feels better and doesn't require someone to interrupt the roll fast enough to avoid learning the result of the roll.)*
+If an effect lets you modify a given roll, such as reroll it or add a bonus to it, you first get to know whether the roll succeeds or fails.  *(This both feels better and doesn't require someone to interrupt the roll fast enough to avoid learning the result of the roll. Also from 2024.)*
 
 Example abilities: **Guidance**, **Resistance**; Bard's Bardic Inspiration, Bard (Lore)'s Cutting Words, Cleric (War)'s Guiding Strike, etc.
 
@@ -131,8 +129,8 @@ Possible TCE changes
 + **Effect:** A berry can be consumed as a bonus action. *(From 2024, and matches potion rule.)*
 + **Ruling:**  You must spend your own (bonus) action to consume a berry. Unlike a potion or salve, you cannot spend your action to feed or squeeze the juice of a berry into another creatures's mouth. *(This is the downside for getting a full 10 points of divisible healing with additional benefits.)*
 + **Ruling:** Provides only nourishment (food/rations, as per *bead of nourishment*), not hydration. You must separately source clean drinking water.
-+ **Ruling:** Life Cleric's Discipline of Life does not apply to the berries. *(The spell creates the berries, rather than directly restoring hit points to a creature. And because the alternative is busted.)*
-+ *(In certain survival-oriented campaigns, this spell may be modified to: "berry" > "berries": It takes all 10 to provide enough sustenance for 1 person.)*
++ **Ruling:** Life Cleric's Discipline of Life does not apply to the berries. *(The spell creates the berries, rather than directly restoring hit points to a creature. Also, 2024 and uber-berries are busted.)*
+<!--+ *(In certain survival-oriented campaigns, this spell may be modified to: "berry" > "berries": It takes all 10 to provide enough sustenance for 1 person.)*-->
 
 #### Jump
 + **Casting time:** Bonus action
@@ -329,7 +327,7 @@ Considered changes
 + *(From 2024)*
 
 #### Daylight
-+ **Effect:**  If cast using a spell slot of 5th level or higher, the light counts as sunlight.
++ **Effect:**  If cast using a spell slot of 6th level or higher, the light counts as sunlight.
 + *(From 2024, but less so)*
 
 #### Spirit Guardians

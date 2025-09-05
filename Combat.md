@@ -11,7 +11,7 @@ You can choose to use your action to perform a bonus action that is available to
 ### Movement
 
 ##### Difficult Terrain
-The spaces of other creatures are difficult terrain even if they are prone, unconscious, or dead (unless they are 2 sizes or more smaller than you).
+The spaces of other creatures are still difficult terrain even if they are prone, unconscious, or dead (unless they are 2 sizes or more smaller than you).
 
 ### Combat Actions
 
@@ -21,12 +21,12 @@ You can use DEX to make an unarmed strike, but you do not then apply your DEX to
 ##### Combat Maneuvers
 There's a few more options you can do than just grab or shove.
 
-* All of these maneuvers may incur advantage or disadvantage on one side of the contest depending on the specific context--such as as a human trying to grapple a otyugh, an elf trying to trip a displacer beast, a dwarf trying to tumble past a gelatinous cube in a narrow corridor, etc.
+* All of these maneuvers may incur advantage or disadvantage on one side of the contest depending on the specific context--such as as a human trying to trip a slick otyugh, a dwarf trying to tumble past a gelatinous cube in a narrow corridor, etc.
 
 | Action                   | From   | Details                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **disarm**               | DMG    | Resolve as per grapple, but the attacker uses a weapon attack roll in the contest. The defender has advantage if they are holding the item with two hands.                                                                                                                                                                                                                                                                       |
-| **grapple** (grab)       | PHB    | The **default** meaning of grapple, as described in the PHB.<br><br>+When a larger or tentacled grappler is forcibly moved away from a smaller creature it is grappling, it may get to make a DC15 STR check to keep its grip and drag that creature it with.                                                                                                                                                                    |
+| **grapple** (grab)       | PHB    | The **default** meaning of grapple, as described in the PHB.<br><!--+When a larger or tentacled grappler is forcibly moved away from a smaller creature it is grappling, it may get to make a DC15 STR check to keep its grip and drag that creature it with.-->                                                                                                                                                                 |
 | **grapple** (climb onto) | DMG    | You can try to grab onto a creature that is larger than you. Resolve as per grapple (restrain).  Rather than restraining the creature, you simply cling onto it, moving with it as it moves. You may be able to climb higher onto the creature if using two hands. A sufficiently large creature can pull or knock you off as a bonus action; a creature that is only one size larger may need to make a grapple check to do so. |
 | **grapple** (restrain)   | Custom | Whenever you could attempt to grapple (grab) a target, you can attempt to restrain it instead. Resolve as per grapple, but you must either use two free hands or make your check at disadvantage.  On a success, both you and the creature you've grappled are restrained.                                                                                                                                                       |
 | **overrun**              | DMG    | Can be attempted as a bonus action. Resolve as per grapple vs STR only. On a success, you can move through the defender's space once this turn.                                                                                                                                                                                                                                                                                  |
@@ -67,11 +67,11 @@ Critical hits do a minimum of your normal max damage (including any dice from sn
 Each time you drop to 0 hp and fall unconscious, **gain 1 exhaustion**. 
 
 ##### Nonlethal damage
-This can only be done with bludgeoning melee weapons or weapons with flat blades. You can also attack non-lethally with a sheathed, padded, or leather-wrapped weapon, including a sap or leather-bound sling stones.
+This **can only be done with bludgeoning melee weapons or weapons with flat blades**. You can also attack non-lethally with a sheathed, padded, or leather-wrapped weapon, including a sap or leather-bound sling stones.
 
 ### Mounted Combat
 
-On a grid, you take up the same space as a Medium or Large mount. If your mount is particularly tall or towering, I may determine that there is effectively 5 (or more) feet between the rider and an adjacent target.  For example, a swarm of snakes or a prone orc is typically out of reach from the top of a warhorse (although the rider is also out of reach of them in return). Attacks with a spear or quarterstaff can ignore the first 5 feet of this towering distance.
+On a grid, you take up the same space as a Medium or Large mount. If your mount is particularly tall or towering, I may determine that there is effectively 5 (or more) feet between the rider and an adjacent target.  For example, a swarm of snakes or a prone orc is typically out of reach from the top of a warhorse (although the rider is also out of reach of them in return). Attacks with a long weapon, like a spear or quarterstaff, can ignore the first 5 feet of this towering distance.
 
 ##### Heavy weapons
 While mounted, you are at disadvantage on attacks made with heavy weapons (either ranged or melee).  *(From a campaign rule implemented for verisimilitude.)*
@@ -79,6 +79,6 @@ While mounted, you are at disadvantage on attacks made with heavy weapons (eithe
 ### Underwater combat
 
 * **Melee attacks** are at disadvantage unless it is a stabbing (and thus usually piercing) weapon or the attacker has a swim speed.
-* **Ranged attacks** - projectile weapons and nets have a 5/10' range; slings and thrown weapons cannot be used.
+* **Ranged attacks** - projectile weapons and nets have a 5/10' range; slings and any other thrown weapons cannot be used.
 * *(Inspired by 2024's version, this is a streamlined version of 2024's rules that keeps the same basic form. Range shortened because even most gun bullets can't go more than 10 feet through water.)*
 

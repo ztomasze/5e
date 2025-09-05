@@ -47,6 +47,10 @@ Some clarifying rulings:
 Sometimes, the party will venture deep into the wilds or some other inhospitable domain. On such excursions, while under the general wear of long travel or the uncertainty of finding the next safe haven, the party's rests become less productive:
 
 - A **hour's rest** provides only a **brief rest** (heal 1 hp).
-- A **night's rest** provides only a **short rest**
+- A **night's rest** provides only a **short rest**.
 
-For a night's rest to provide as a long rest, it must be taken in a safe haven (as defined by the DM). *(Inspired by DMG's Gritty Realism resting variant and rationale behind Mystic Arts' [Excursion Resting](https://www.youtube.com/watch?v=VxVEF4EkJkY))*
+For a night's rest to provide as a long rest, it must be taken in a safe haven (as defined by the DM).  
+
++ "Daily" or "at dawn" uses of a magic items require a long rest to recover if you are attuned to the item; otherwise they are recovered on a night's rest. 
+
+*(Inspired by DMG's Gritty Realism resting variant and rationale behind Mystic Arts' [Excursion Resting](https://www.youtube.com/watch?v=VxVEF4EkJkY))*

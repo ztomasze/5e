@@ -2,7 +2,7 @@
 
 ### Level Up
 
-On any level up, any character can replace any of these features (except if gained through their race):
+When you gain a new level in a class, you can replace any of these features (except if gained through your race):
 
 * one class skill to a different one
 * one skill that gains the benefit of Expertise to a different one (but not to a skill you just gained through a swap allowed above)

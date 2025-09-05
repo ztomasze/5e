@@ -136,7 +136,7 @@ If you choose any Cleric spell of level 5 or lower that doesn't require a reacti
 You also always have the *Speak with Animals* spell prepared.  *(From 2024)*
 
 ##### Wild Shape (lvl 2)
-You may speak crudely in wild shape if that beast form is capable of vocalizing.  *(From 2024, mostly.)
+You may speak crudely in wild shape if that beast form is capable of vocalizing.  *(From 2024, mostly.)*
 <!--(While it's sometimes entertaining to do the charades, most of the time it's annoying not to be able to communicate with the rest of your party.  You still get a chance to do the pantomiming sometimes, though, such as when you're a fish or spider)-->
 
 ##### Wild Resurgence (+lvl 5)
@@ -213,7 +213,7 @@ In addition, you can now perform an unarmed strike (from *Martial Arts*) or a Fl
 When you roll initiative, you can regain all your expended ki.  In addition, you heal a number of hit points equal to one roll of your Martial Arts die + your Monk level. You can use this feature once per long rest. *(From 2024, delayed)*
 
 ##### Way: Drunken Master
-**Drunken Technique (lvl 3):** In addition, until the start of your next turn, you can deflect melee attacks the same way that you Deflect Missiles. If you reduce the damage to 0 and pay 1 ki to redirect a melee weapon attack, you must target another creature other than the attacker within 5' of you. The redirected attack deals damage equivalent to an unarmed strike.  *(From 2024, limited to this subclass, when using Flurry of Blows.)*
+**Drunken Technique (lvl 3):** In addition, until the start of your next turn, you can deflect melee attacks the same way that you Deflect Missiles. If you reduce the damage to 0 and pay 1 ki to redirect a melee weapon attack, you must target another creature other than the attacker within 5' of you. The redirected attack deals damage equivalent to your unarmed strike.  *(From 2024, limited to this subclass, when using Flurry of Blows.)*
 
 <!-- 
 Way: Mercy

@@ -3,9 +3,9 @@
 
 **PHB**
 
-* [Characters](Characters.md)
 * [Races](Races.md)
 * [Classes](Classes.md)
+* [Characters](Characters.md)
 * [Feats](Feats.md)
 * [Equipment](Equipment.md)
 * [Adventuring](Adventuring.md)
