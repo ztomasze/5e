@@ -22,9 +22,11 @@ If you are traveling at a normal or slower pace, you can take disadvantage on Pe
 <!--2024's Dehydration / Malnutrition rules kept the same requirements as PHB + DMG p.111, but tweaked the rules on how you gain exhaustion levels.  The change is not really any clearer IMO.-->
 
 #### Burning
-If you are on fire, you typically take 1d10 (5) damage at the start of each of your turns.  Different sources of fire may deal different amounts, though.  For example, alchemist's fire does 1d4; oil and fire elemental ignition deals 1d10; lava deals more.
+If you are burning, you take 1d10 (5) damage at the start of each of your turns. You can extinguish the flames by taking an action to make a DC 10 DEX check.  Dropping prone and rolling on the ground gives you advantage on this roll.  Smothering the flames or submersion in water will also end this condition.
 
-Generally, you can spend your action to extinguish the flames, but, again, this can vary. The action should be appropriate (such as dropping prone and and rolling). Submerging is water is usually automatically successful. Alchemist's fire also requires a DC 10 DEX check.  <!--2024 does 1d4 per round until you drop and roll as an action-->
+If a square is burning, it becomes damaging area of effect that deals 1d10 (5) fire damage when a creature enters it or ends its turn there.  (See *[Spells](Spells.md): General Rulings: Recurring areas of effect* for more.)
+
+Different sources of fire may change the amount of damage you take. The source also determines how long the fire will burn (such as 2 rounds for oil, 1 minute for alchemist's fire, or until extinguished for elemental monster attacks).
 
 #### Falling
 
