@@ -44,6 +44,7 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 This covers fist-sized damaging items that you throw or splash, such as **acid**, **alchemist's fire**, **holy water**, or **oil**.
 
 + You can target a creature or space within 20 feet of you and make an improvised weapon attack. *(As 2014)*
+	+ If you are proficient with glassblower's or potter's tools, you are proficient when attacking with any flask or vial.
 	+ If you are proficient with alchemist's tools, you are proficient when attacking with acid, alchemist's fire, or oil.
 	+ If you can create holy water (cleric, paladin, or have access to the *Ceremony* spell), you are proficient when attacking with holy water.
 + This can be either a (finesse) melee attack as you splash the target with the contents of the container or a ranged attack if you try to hit it with a thrown flask.
