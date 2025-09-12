@@ -22,7 +22,7 @@ If you are traveling at a normal or slower pace, you can take disadvantage on Pe
 <!--2024's Dehydration / Malnutrition rules kept the same requirements as PHB + DMG p.111, but tweaked the rules on how you gain exhaustion levels.  The change is not really any clearer IMO.-->
 
 #### Burning
-If you are burning, you take 1d10 (5) damage at the start of each of your turns. You can extinguish the flames by taking an action to make a DC 10 DEX check.  Dropping prone and rolling on the ground gives you advantage on this roll.  Smothering the flames or submersion in water will also end this condition.
+If you are burning, you take 1d10 (5) damage at the start of each of your turns. You can extinguish the flames by taking an action to make a DC 10 DEX check.  Dropping prone and rolling on the ground gives you advantage on this roll.  Smothering the flames or submersion in water will also end this condition.  *(Inspired by 2024's Burning condition, plus a desire to standardize some of the different 2014 things that can set you on fire.)*
 
 If a square is burning, it becomes damaging area of effect that deals 1d10 (5) fire damage when a creature enters it or ends its turn there.  (See *[Spells](Spells.md): General Rulings: Recurring areas of effect* for more.)
 
