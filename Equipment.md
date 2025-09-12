@@ -51,7 +51,7 @@ This covers fist-sized damaging items that you throw or splash, such as **acid**
 	+ A target creature's AC for this attack is 10+DEX. On a miss, see if your attack roll is sufficient to still hit the square it is in.
 	+ It is AC 5 to hit a target square. On a miss, you hit a random neighboring square instead.
 + Upon hitting a creature with a thrown flask, roll a d20 <= their AC to see if the flask breaks against their body.  If not, it falls to the ground at their feet and breaks there instead.
-	+ If you are proficient with glassblower's or potter's tools, a container you throw always breaks on a hit.
+	+ If you are proficient with glassblower's or potter's tools, a container your throw always breaks on a hit.
 
 **Acid:**  Deals 2d6 acid damage. If breaking on the ground, it deals 1d6 damage to any creature in that space.
 
