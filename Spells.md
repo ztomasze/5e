@@ -61,13 +61,15 @@ The *Summon X* spells from Tasha's are allowed with these changes:
 This spell amplifies your goodwill. You gain advantage on Charisma checks made to deal openly and honestly with one target creature. This precludes most Deception or Intimidation checks. The creature does not automatically realize that you used magic to influence it. The creature cannot be affected by this spell again for 24 hours.
 -->
 
-<!--
-Guidance, Resistance
-Lasts up to 1 hour.
--->
+#### Guidance
++ **Duration:** Concentration, up to 1 hour.
+
 #### Magic Stone
 + **Higher level:** The damage die increases when you reach levels 5 (d8), 11 (d10), and 17 (d12). 
 + *(From 2024's Shillelagh)*
+
+#### Resistance
++ **Duration:** Concentration, up to 1 hour.
 
 #### Shillelagh
 + **Higher level:** The damage die increases when you reach levels 5 (d10), 11 (d12), and 17 (2d6). 
