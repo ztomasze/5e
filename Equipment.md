@@ -43,16 +43,18 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 
 This covers fist-sized damaging items that you throw or splash, such as **acid**, **alchemist's fire**, **holy water**, or **oil**.
 
-+ You can target a creature or space within 20 feet of you and make an improvised weapon attack. *(As per 2014)*
++ As an action, you can use the item to target a creature or space within 20 feet of you and make an improvised weapon attack. *(As per 2014)*
 	+ If you are proficient with glassblower's or potter's tools, you are proficient when attacking with any flask or vial.
 	+ If you are proficient with alchemist's tools, you are proficient when attacking with acid, alchemist's fire, or oil.
 	+ If you can create holy water (cleric, paladin, or have access to the *Ceremony* spell), you are proficient when attacking with holy water.
-+ This can be either a (finesse) melee attack as you splash the target with the contents of the container or a ranged attack if you try to hit it with a thrown flask.
++ This can be either a melee attack as you splash the target with the contents of the container or a ranged attack if you try to hit it with a thrown flask.
+	+ For the melee attack, you can use either Strength or Dexterity.
 + You can target either a creature or square.
 	+ A target creature's AC for this attack is 10+DEX. On a miss, see if your attack roll is sufficient to still hit the square it is in.
 	+ It is AC 5 to hit a target square. On a miss, you hit a random neighboring square instead.
 + Upon hitting a creature with a thrown flask, roll a d20 <= their AC to see if the flask breaks against their body.  If not, it falls to the ground at their feet and breaks there instead.
 	+ If you are proficient with glassblower's or potter's tools, a container you throw always breaks on a hit.
+	+ If the flask breaks against a creature and deals damage, you can add your ability modifier to that damage (as normally done for weapon attacks).
 
 **Acid:**  Deals 2d6 acid damage. If breaking on the ground, it deals 1d6 damage to any creature in that space.
 
