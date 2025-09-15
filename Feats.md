@@ -27,7 +27,7 @@ The following states the optional changes (rather than giving full replacement t
 
 #### Dual Wielder
 
-* *Add:* When you are two-weapon fighting with a light melee weapon in each hand (or with a rapier & dagger), you can make the additional off-hand attack as an extra attack during your Attack action instead of as a bonus action.
+* *Add:* When you are two-weapon fighting with a light melee weapon in each hand (or with a rapier & and a dagger in your offhand), you can make the additional off-hand attack as an extra attack during your Attack action instead of as a bonus action.
 * *(This addition is 2024's Nick weapon property. See Weapon Mastery Properties sidebar below for more.)*
 
 #### Durable

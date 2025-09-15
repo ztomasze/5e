@@ -22,12 +22,12 @@ If you have proficiency with martial weapons or monk weapons, you can make an at
 
 ##### Additional Weapons
 
-| Weapon      | Type           | Cost | Damage           | Weight | Properties                                                                                               |
-| ----------- | -------------- | ---- | ---------------- | ------ | -------------------------------------------------------------------------------------------------------- |
-| **Sap**     | Simple Melee   | 5 sp | 1d6 bludgeoning* | 2 lb   | Deals only non-lethal damage                                                                             |
-| **Bolas**   | Martial Ranged | 1 gp | 1d4 bludgeoning  | 2 lb   | As per Net, but 20/60 range, deals damage on hit, and only grapples rather than restrains.               |
-| **Garotte** | Martial Melee  | 1 gp | \*               | 1/2 lb | Special, two-handed.  <br>Rogues are proficient                                                          |
-| **Lasso**   | Martial Ranged | 5 cp | *                | 3 lb   | As per Net but double the range. The restrained target can still move as long as it moves closer to you. |
+| Weapon      | Type           | Cost | Damage           | Weight | Properties                                                                                                                                       |
+| ----------- | -------------- | ---- | ---------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sap**     | Simple Melee   | 5 sp | 1d6 bludgeoning* | 2 lb   | Deals only non-lethal damage                                                                                                                     |
+| **Bolas**   | Martial Ranged | 1 gp | 1d4 bludgeoning  | 2 lb   | As per Net, but 20/60 range, deals damage on hit, and only grapples rather than restrains.                                                       |
+| **Garotte** | Martial Melee  | 1 gp | \*               | 1/2 lb | Special, two-handed.  <br>Rogues are proficient                                                                                                  |
+| **Lasso**   | Martial Ranged | 5 cp | *                | 3 lb   | As per Net but double the range. The restrained target can still move as long as it moves closer to you. Releasing the lasso ends the condition. |
 
 **Garrote:** You can use a garrote to initiate a grapple of a creature your size or smaller using DEX(Acrobatics). When you grapple a target with a garrote, the target cannot speak or breathe, and they take 1d4 slashing damage at the end of each of their turns while they remain grappled.
 
