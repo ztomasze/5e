@@ -230,6 +230,14 @@ You can only use this features WIS times per long rest.  *(From 2024)*
 + Additional Paladin Spells (lvl 2) - Added to class spell list. *(As per 2024 too)*
 + Additional Fighting Style options
 
+##### Spellcasting (lvl 2)
+You can prepare a number of spells equal to either:
+
++ Your Charisma modifier + half your paladin level, rounded down *(as RAW)*
++ The number of Spells Known listed in the Ranger table for your paladin level
+
+*(Bringing Paladin and Ranger spellcasting into sync. The second option would only be better if your Paladin has low Charisma)*
+
 ##### Harness Divine Power (lvl 2)
 As an **action**, you can expend a use of Channel Divinity to regain a **level 1 spell slot**. You can do this once per long rest. *(From TCE, but slower to use and the spell level doesn't scale)*
 
@@ -255,12 +263,15 @@ This **requires a bonus action**, which can be performed upon hitting a creature
 These are also available replacements *(although I personally prefer my improvements to the original 2014 version, given below)*: 
 
 + Deft Explorer (lvl 1)
-+ Favored Foe (lvl 2)
++ Favored Foe (lvl 1) or Favored Adversary (lvl 1, defined below)
 + Primal Awareness (lvl 3)
 
 ##### Favored Enemy (lvl 1)
 * Add your proficiency bonus to weapon damage rolls dealt to your favored enemies.
 * As part of a level up, you may replace one favored enemy type with another. You must have fought and learned more about this new favored enemy during your adventures. You cannot change any associated language that you have learned, but, if your initial favored enemy choice did not give you a language, you can choose one now.
+##### Favored Adversary (~lvl 1)
+*You can take this alternative as a simpler version of TCE's Favored Foe (from 2024):*
++ You always have the *Hunter's Mark spell* prepared in addition to your other spells. You can cast it without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses of this ability when you finish a long rest.
 
 ##### Natural Explorer (lvl 1)
 You gain these additional movement benefits while in one of your favored terrains:
@@ -272,10 +283,19 @@ You gain these additional movement benefits while in one of your favored terrain
 As part of a level up, you may replace one favored terrain with another that you have explored during your adventures.
 
 ##### Spellcasting (lvl 2)
-You can prepare your spells, choosing to replace any of them each long rest, like a druid or paladin.  *(Added for consistency; also in 2024)*
+You can prepare your spells, choosing to replace any of them each long rest, like a druid or paladin.  *(Added for consistency; also inspired by 2024)*
+
+You can prepare a number of spells equal to either:
+
++ The number of Spells Known listed in the Ranger table for your ranger level *(as RAW)*
++ Your Wisdom modifier + half your ranger level, rounded down
+
+*(Again, bringing Paladin and Ranger spellcasting into sync. For most characters, the added option will grant more spells, in accordance with most spellcasters gaining more spells known, as per 2024)*
 
 ##### Primeval Awareness (lvl 3)
-Optionally, instead of spending a spell slot, you can spend 1 minute in uninterrupted concentration to sense the presence of any favored enemies (only). *(Option used in one campaign.)*
++ Optionally, instead of spending a spell slot, you can spend 1 minute in uninterrupted concentration to sense the presence of any favored enemies (only). *(Option used to good effect in one campaign so far.)*
++ In your favored terrain, you know whether the creatures are within either 1 mile or 6 miles.
++ You may sometimes learn the direction (but not location) of a creature with this method (by DM fiat).
 
 ##### Land's Stride (lvl 8)
 *Add:* You can Dash as a bonus Action.
