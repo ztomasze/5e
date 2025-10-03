@@ -269,6 +269,7 @@ These are also available replacements *(although I personally prefer my improvem
 ##### Favored Enemy (lvl 1)
 * Add your proficiency bonus to weapon damage rolls dealt to your favored enemies.
 * As part of a level up, you may replace one favored enemy type with another. You must have fought and learned more about this new favored enemy during your adventures. You cannot change any associated language that you have learned, but, if your initial favored enemy choice did not give you a language, you can choose one now.
+
 ##### Favored Adversary (~lvl 1)
 *You can take this alternative as a simpler version of TCE's Favored Foe (from 2024):*
 + You always have the *Hunter's Mark spell* prepared in addition to your other spells. You can cast it without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses of this ability when you finish a long rest.
