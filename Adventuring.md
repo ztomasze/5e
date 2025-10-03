@@ -53,6 +53,7 @@ Sometimes, the party will venture deep into the wilds or some other inhospitable
 
 For a night's rest to provide as a long rest, it must be taken in a safe haven (as defined by the DM).  
 
-+ "Daily" or "at dawn" uses of a magic items require a long rest to recover if you are attuned to the item; otherwise they are recovered on a night's rest. 
++ "Daily" or "at dawn" uses of a magic items that require attunement only recharge while they are attuned over a long rest. Otherwise, they are recovered on a night's rest. 
++ Prepared spellcasters can re-prepare their spells with a night's rest.
 
 *(Inspired by DMG's Gritty Realism resting variant and rationale behind Mystic Arts' [Excursion Resting](https://www.youtube.com/watch?v=VxVEF4EkJkY))*
