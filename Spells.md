@@ -7,15 +7,19 @@ The spell-specific details that follow are all **options** you can adopt as desi
 2024 experimented with standardizing certain mechanics, though it still doesn't always do it consistently. Running with that idea, I'd like to standardize the following effects.  Spells are the most common source of these, but items and abilities sometimes produce them too. (Lists of affects spells focus on lower-level PHB spells and may not be complete yet.)
 
 #### Attack augmentation spells
-This covers the 7 **Smite** spells (**Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite), as well as some of the ranger spells (**Ensnaring Strike**, **Hail of Thorns**, **Lightning Arrow**).  Rather than needing to cast them beforehand as a bonus action and concentrate until you hit, you can immediately cast them as a bonus action on hit:
+This covers the 7 **Smite** spells (**Banishing**, **Blinding**, **Branding**, **Searing**, **Staggering**, **Thunderous**, and **Wrathful** Smite), as well as some of the ranger spells (**Ensnaring Strike**, **Hail of Thorns**, **Lightning Arrow**).  Rather than needing to cast them beforehand as a bonus action and concentrate until you hit, you can immediately cast them in response to hitting with a weapon attack:
 
-+ **Casting Time:** Can be cast as a bonus action in response to hitting with a weapon attack. 
++ **Casting Time:** Reaction for the Smite spells / Bonus action for the ranger spells 
 + **Duration:** Does not require Concentration. If the spell has a lingering effect, it lasts for up to the full duration (1 minute).
 + **Higher Level:** All can be cast at higher level to deal one additional die of damage (Thunderous Smite, Wrathful Smite, Blinding Smite, Staggering Smite)
 
-**Smites:**  The smite spells only work as described with melee weapon attacks *(as per 2024)*. However, they can be cast as a bonus action when you make an attack with a ranged weapon, but the effect only takes place if the attack then hits its target.
+The spell description may limit the spell to only certain weapon types, such as a melee attack for Smites or ranged weapon for Hail of Thorns.
 
-<!-- Ensnaring Strike might want to be Concentration so you can end it early. -->
+<!--DROPPED: Ability to pre-smite with a ranged weapon.  Will enable this with items instead of core rules.
+**Smites:**  The smite spells only work as described with melee weapon attacks *(as per 2024)*. However, they can be cast as a bonus action when you make an attack with a ranged weapon, but the effect only takes place if the attack then hits its target.
+-->
+
+<!---Ensnaring Strike might want to be Concentration so you can end it early? -->
 
 #### Breaking free of restraint
 Whenever a spell allows a Strength check to break free of an restraining effect, you can use **Strength(Athletics)** as you would against a grapple.  *(From 2024)*

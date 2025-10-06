@@ -12,7 +12,7 @@ Starting with the 2014 PHB, XGE, and TCE:
 
 + Some minor nerfs:
 	+ Barbarian's **Totem Warrior (Bear)**, Cleric's **Peace Domain** and **Twilight Domain**, and Druid's **Wildfire Circle** each lost a little bit of power from a class feature (or two features in the cleric case).
-	+ Paladin's **Divine Smite** now requires a bonus action (but you can potentially smite at range, and the various Smite spells have been improved).
+	+ Paladin's **Divine Smite** now requires a reaction (but this also applies to the various Smite spells).
 	+ Sorcerer's **Aberrant Mind** and **Clockwork Soul** receive only half as many bonus spells, and **twinning a spell costs +1 spell point**.
 	+ Warlock's **Hexblade** is disallowed by default (but Pact of the Blade is improved to reflect its essential feature).
 + **Most (but not all) TCE class options are available**.  You can check your chosen class for details.
