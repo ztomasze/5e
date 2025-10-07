@@ -536,7 +536,7 @@ Replaces **Pact of the Blade:**
 ##### Patron: Archfey
 Add *misty step* to the patron expanded spell list. *(From 2024)*
 
-**Fey Presence (lvl 1):** This effect lasts for 1 minute.
+**Fey Presence (lvl 1):** This effect lasts for 1 minute, but affected creatures save again at the end of each of their turns.
 
 **Misty Escape (lvl 6):** When you use this feature, you can choose any number of creatures within 5' of the space you left. Those creatures must succeed a Wisdom saving throw against your spell save DC or take 2d10 psychic damage. *(Inspired by 2024, which significantly changed this subclass)*
 
