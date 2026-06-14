@@ -275,7 +275,7 @@ using a d8, d6, d4 uses real dice (handy when not playing virtually) which you c
 + (Cloud of Daggers) - You can teleport the cube up to 30 feet as an action. A creature takes damage (up to once per turn) if it enters the cube, the cube enters its space, or if it ends its turn in the cube.
 + (Cordon of Arrows - Deals 2d4 (instead of 1d6) damage
 + Darkness - can't target a worn object; emanation around the object
-+ Darkvision - Grands 150' darkvision
++ Darkvision - Grants 150' darkvision
 + Detect Thoughts - (significantly cleaned up); creature saves rather than contests to end your probing
 + Enhance Ability - dropped CON buff; only get advantage on checks with no other riders; you can choose a different effect for each additional creature
 + Enthrall - auto succeeds the save if you are fighting it; -10 to Perception (rather than just disadv)

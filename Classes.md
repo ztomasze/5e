@@ -242,7 +242,7 @@ You can prepare a number of spells equal to either:
 As an **action**, you can expend a use of Channel Divinity to regain a **level 1 spell slot**. You can do this once per long rest. *(From TCE, but slower to use and the spell level doesn't scale)*
 
 ##### Divine Smite (lvl 2)
-This **requires a bonus action**, which can be performed upon hitting a creature with a melee weapon attack.  (See also: [Spells](Spells.md): Smite)  Alternatively, you can spend a bonus action when you make a ranged attack. However, if the attack then misses, the smite is wasted.  *(Change to a bonus action comes from 2024; ranged option comes from a past house rule. Additional personal reason for switching to bonus action: "bag of beans' mummy lord")*
+This **requires a reaction**, which can be performed upon hitting a creature with a melee weapon attack.  (See also: [Spells](Spells.md): Smite)  Alternatively, you can spend a bonus action when you make a ranged attack. However, if the attack then misses, the smite is wasted.  *(Inspired by 2024; ranged option comes from a past house rule. Additional personal reason for switching to bonus action or reaction: "bag of beans' mummy lord")*
 
 ##### Oath: Ancients
 **Channel Divinity (lvl 3): Nature's Wrath.** Replace this effect with that of the Entangle spell affecting the space 10' around you. You are immune to the spell's effects.  This effect is stationary and lasts 1 minute with no concentration required.  *(Inspired by 2024)*
