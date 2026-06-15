@@ -2,10 +2,19 @@
 
 The lineage option for races is used in some campaigns where racial choices are limited.
 
-<!--
-Or can do only two +1s (instead of 3)
-Or everyone gets a PHB feat at level 1, which you can spend on Customized Lineage
--->
+<!-- STEWING: Wait to release until I'm going to use it.
+### PHB
+
+#### Dragonborn
+
++ You can use your **Breath Weapon** as a bonus action.  
+--> 
+<!--2024: As an attack replacement.-->
+
+<!--Breath Weapon's damage increases by 2d6 (rather than 1d6) at each increment (4d6 at 6th, 6d6 at 11th, 10d6 at 16th)-->
+<!--: When you are not wearing armor, your dragon scales grant you AC13+DEX.--> <!--Or Loxodon/Giff's natural armor? That'd be more widely useful.-->
+
+### Non-PHB
 
 Below are some specific racial tweaks for some non-standard races:
 
