@@ -2,10 +2,8 @@
 Darkvision
 Can see clearly in dim light regardless of its range from you
 
-
 Doubles on Adv/Disadv rolls
 Except for the case of double 1s, you can choose to reroll one of the dice.
-
 
 Inspiration: HD variant (most solo)
 Gain no inspiration points.  Instead, after rolling a d20 but before the results are declared, you can spend 1 HD to take 10 on the roll.
