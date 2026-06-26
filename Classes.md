@@ -543,6 +543,10 @@ Each time you level up, you can choose to regenerate your full list of bonus spe
 **Patron: Expanded Spell List**. In addition to adding these spells to your spell list, you may choose one patron spell per spell level to add to your spells known. This does not count against your spells known limit.  *(Half of 2024's buff)*
 
 ##### Invocations (lvl 2)
+***Eldritch Blast effects:*** Any invocation that adds an effect when you hit with an eldritch blast **only works once per turn** on your first hit. 
++ **Agonizing Blast** and **Repelling Blast** are the most affected by this. *(Nerf, mainly because Agonizing Blast is so strong it dominates warlock builds; repeated Repelling Blasts is also strong and out of sync with the two XGE invocations)*
++ **Grasp of Hadar** and **Lance of Lethargy** effects are are no longer limited to only your turn, such as if you ready or can otherwise cast as a reaction. *(Buff and standardization)*
+
 **Improved Pact Weapon:** You can also conjure any melee weapon. *(To correspond with the updated Pact of the Blade below)*
 
 ##### Pact Boon (lvl 3)

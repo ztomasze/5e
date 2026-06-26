@@ -14,7 +14,7 @@ Starting with the 2014 PHB, XGE, and TCE:
 	+ Barbarian's **Totem Warrior (Bear)**, Cleric's **Peace Domain** and **Twilight Domain**, and Druid's **Wildfire Circle** each lost a little bit of power from a class feature (or two features in the cleric case).
 	+ Paladin's **Divine Smite** now requires a reaction (but this also applies to the various Smite spells).
 	+ Sorcerer's **Aberrant Mind** and **Clockwork Soul** receive only half as many bonus spells, and **twinning a spell costs +1 spell point**.
-	+ Warlock's **Hexblade** is disallowed by default (but Pact of the Blade is improved to reflect its essential feature).
+	+ Warlock's **Hexblade** is disallowed by default (but Pact of the Blade is improved to reflect its essential feature) and any **Eldritch Blast invocations** that modify a hit only do so once per turn.
 + **Most (but not all) TCE class options are available**.  You can check your chosen class for details.
 + Nearly all classes received a menu of minor top-level and subclass buffs.
 + All sorcerer, warlock, and school-devoted wizard subclasses receive five themed bonus spells known or prepared.
