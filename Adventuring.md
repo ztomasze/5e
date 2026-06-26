@@ -1,3 +1,22 @@
+> Combines PHB's Chapter 7 (Using Ability Scores) and part of Chapter 8 (Adventuring)
+
+## Using Ability Scores
+
+#### Advantage / Disadvantage
+
++ **Doubles:** If you roll doubles on an adv/disadv roll (except in the case of double 1s), you can choose to reroll one of the dice.
+
+<!--+ **Extra:** In some cases, such as when you have 3 or more sources of uncanceled advantage (or disadvantage), the DM may grant (or impose) an additional d20 to the roll. -->
+
+<!--#### Contests
+
++ Monsters just use their passives in contests. Because it's a contest, exactly meeting the DC means the current state persists.
+-->
+
+<!--#### Saving Throws
+
++ **Save-or-die:** When subjected to a single save verses immediate death (or equivalent), such as petrify or disintegrate, or when exposed to effects that would kill you outright, like massive damage, instead of dying, you drop to 0 HP with 2 failed death saves and are dying.  Now your final departure is in your hands.
+-->
 
 <!--
 ## Movement
