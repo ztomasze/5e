@@ -406,6 +406,7 @@ You can gain lvl 11's Reliable Talent benefit at lvl 7. *(From 2024)*
 You can use two Cunning Strike effects when you deal Sneak Attack damage. You must pay the die cost for each effect. *(From 2024)*
 
 ##### Archetype: Assassin
+
 **Assassinate (lvl 3):** Replace with:
 + You gain advantage on initiative rolls.
 + During the first round of combat, you have advantage on attack rolls against any creature that hasn't taken a turn. If you deal sneak attack damage to such a target during that round, the target takes extra damage of the weapon's type equal to your rogue level.
@@ -415,12 +416,30 @@ You can use two Cunning Strike effects when you deal Sneak Attack damage. You mu
 **Infiltration Expertise (lvl 9):**  In addition, *Poisoner:*  When you use the Poison option of your Cunning Strike, the target also takes 2d6 poison damage whenever it fails the saving throw. This damage ignores resistance to poison damage. *(From 2024)* 
 (but two level early) 
 -->
+##### Archetype: Inquisitive
+
+**Ear for Deceit (lvl 3):** Replace with: 
++ If you are proficient in Insight, you gain expertise in it. If you already have expertise in Insight, you gain expertise in a different skill of your choice that you are proficient in.
+
+**Eye for Detail (lvl 3):** Replace with: 
++ If you are proficient in Perception or Investigation, you gain expertise in one of those skills. If you already have expertise in that skill, you gain expertise in a different skill of your choice that you are proficient in.
+
+**Insightful Fighting (lvl 3):** Replace with: *You always quick to form a backup plan in combat and leverage an opening when it presents itself.*
++ When you are two-weapon fighting with a light melee weapon in each hand (or with a rapier & and a dagger in your offhand), you can make the additional off-hand attack as an extra attack during your Attack action instead of as a bonus action.
++ *(2024's Nick weapon property)*
+
+**Eye for Weakness (lvl 17):** Replace with:
++ When you are two-weapon fighting and hit with your offhand attack, you may perform a Sneak Attack with it even if you already performed a Sneak Attack this round. This second Sneak Attack is limited to 3d6 damage.
+
+*(Simplified and converted this unused subclass for use by a Spy NPC that become a PC in a solo campaign. Spies have sneak attack + an extra melee attack.)*
 
 <!-- See Skulker feat.
 ##### Archetype: Thief
 **Supreme Sneak (lvl 9):** In addition, *Hit-and-Run:* Your speed isn't reduced to 0 when using Steady Aim. *(From 2024)* 
 (but from Assassin)
 -->
+
+
 
 ### Sorcerer
 
