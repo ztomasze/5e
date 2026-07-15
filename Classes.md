@@ -422,9 +422,9 @@ You can use two Cunning Strike effects when you deal Sneak Attack damage. You mu
 + If you are proficient in Insight, you gain expertise in it. If you already have expertise in Insight, you gain expertise in a different skill of your choice that you are proficient in.
 
 **Eye for Detail (lvl 3):** Replace with: 
-+ If you are proficient in Perception or Investigation, you gain expertise in one of those skills. If you already have expertise in that skill, you gain expertise in a different skill of your choice that you are proficient in.
++ If you are proficient in one of Perception or Investigation, you gain expertise in that skill. If you already have expertise in both skills, you gain expertise in a different skill of your choice that you are proficient in.
 
-**Insightful Fighting (lvl 3):** Replace with: *You always quick to form a backup plan in combat and leverage an opening when it presents itself.*
+**Insightful Fighting (lvl 3):** Replace with: *You are always quick to form a backup plan in combat and leverage an opening when it presents itself.*
 + When you are two-weapon fighting with a light melee weapon in each hand (or with a rapier & and a dagger in your offhand), you can make the additional off-hand attack as an extra attack during your Attack action instead of as a bonus action.
 + *(2024's Nick weapon property)*
 
