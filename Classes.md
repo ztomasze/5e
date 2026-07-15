@@ -36,6 +36,11 @@ You can decide to apply a Bardic Inspiration die to a roll after learning whethe
 ##### Countercharm (lvl 6)
 Can be performed as a bonus action.  *(Inspired by 2024)*
 
+##### College: Eloquence
+
+**Silver Tongue (lvl 3):** Add:
++ Alternatively, if a creature you can see within 60 feet of you succeeds on a saving throw during your turn, you can immediately expend one use of your Bardic Inspiration as a bonus action. Roll the Bardic Inspiration die and subtract the result from the creature's saving throw, potentially causing it to fail.
++ A creature must be able to hear you to be a target of this ability.
 
 ### Cleric
 
