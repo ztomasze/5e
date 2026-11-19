@@ -70,7 +70,8 @@ This spell amplifies your goodwill. You gain advantage on Charisma checks made t
 
 #### Magic Stone
 + **Higher level:** The damage die increases when you reach levels 5 (d8), 11 (d10), and 17 (d12). 
-+ *(From 2024's Shillelagh)*
++ Clerics may learn this cantrip.
++ *(From 2024's Shillelagh; spell was originally for Druid/Clerics in 2e)*
 
 #### Resistance
 + **Duration:** Concentration, up to 1 hour.

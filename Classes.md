@@ -83,7 +83,7 @@ If you choose any Cleric spell of level 5 or lower that doesn't require a reacti
 **Divine Domain (lvl 1):** When you first gain access to these domain spells, you may make any of these swaps:
 
 1. ...
-2. *flaming sphere* for *see invisibility*
+2. *scorching ray* for *see invisibility*
 3. ...
 4. *guardian of faith* for *arcane eye*
 5. ...
@@ -548,7 +548,7 @@ Each time you level up, you can choose to regenerate your full list of bonus spe
 **Patron: Expanded Spell List**. In addition to adding these spells to your spell list, you may choose one patron spell per spell level to add to your spells known. This does not count against your spells known limit.  *(Half of 2024's buff)*
 
 ##### Invocations (lvl 2)
-***Eldritch Blast effects:*** Any invocation that adds an effect when you hit with an eldritch blast **only works once per turn** on your first hit. 
+***Eldritch Blast effects:*** Any invocation that adds an effect when you hit with an eldritch blast **only works once per turn** on a hit of your choice. 
 + **Agonizing Blast** and **Repelling Blast** are the most affected by this. *(Nerf, mainly because Agonizing Blast is so strong it dominates warlock builds; repeated Repelling Blasts is also strong and out of sync with the two XGE invocations)*
 + **Grasp of Hadar** and **Lance of Lethargy** effects are are no longer limited to only your turn, such as if you ready or can otherwise cast as a reaction. *(Buff and standardization)*
 + You may apply any of your Eldritch Blast invocations to Chill Touch as well. If you know at least one such invocation, when you cast Chill Touch at higher levels, you may choose to create additional hands (roll a separate attack and deal 1d8 damage for each) instead of gaining +Xd8 damage to a single hand.  *(Inspired by 2024)*
